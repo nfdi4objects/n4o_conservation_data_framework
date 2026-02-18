@@ -1,1 +1,0 @@
-Hier entsteht die Beschreibung des Metadatenelements Objektbenennung
