@@ -1,1 +1,0 @@
-Hier entsteht eine Übersichts-Seite der Metadatenkategorie Objektbeschreibung
