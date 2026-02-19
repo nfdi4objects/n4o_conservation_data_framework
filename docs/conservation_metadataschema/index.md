@@ -1,6 +1,7 @@
 ---
 title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
 nav_order: 2
+layout:default
 ---
 
 # Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS)
