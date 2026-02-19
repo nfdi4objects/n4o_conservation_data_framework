@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav_order: 4
+nav_order: 3
 ---
 
 # Hier entsteht die Einleitungs/ Anleitung für den Aufbau und Verwendung der GitHub Page und des Schemas. 
