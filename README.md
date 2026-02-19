@@ -20,7 +20,7 @@ Die Entwicklung des Frameworks erfolgte transparent und partizipativ innerhalb d
 Feedback, Anmerkungen, Veränderungsvorschläge oder aktive Beteiligungswünsche sind jederzeit herzlich willkommen! 
 
 ## Nutzung
-Sämtliche Inhalte des Conservation Data Frameworks stehen unter CC-BY 4.0 Lizenz zur freien Nachnutzung zur Verfügung. 
+Sämtliche Inhalte des Conservation Data Frameworks stehen unter [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) Lizenz zur freien Nachnutzung zur Verfügung. 
 
 ## Förderung
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
