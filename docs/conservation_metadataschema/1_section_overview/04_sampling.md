@@ -1,7 +1,8 @@
 ---
 layout: default
-titel: Probenahme
-parent: Übersicht der Sektionen
+title: Probenahme
+parent: Sektionen 
+grantparent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
 nav_order: 4
 ---
 
