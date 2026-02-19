@@ -1,1 +1,8 @@
+title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
+description: Dokumentation des community-getragenen Rahmenwerks zur Erstellung einheitlicher, qualitätvoller Konservierungs-Restaurierungsberichte
+theme: just-the-docs
 
+url: "https://nfdi4objects.github.io"
+baseurl: "/n4o_conservation_data_framework"
+
+search_enabled: true
