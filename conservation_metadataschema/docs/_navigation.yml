@@ -1,1 +1,18 @@
+nav:
+
+  - title: Home
+    url: /
+
+  - title: Introduction
+    url: /introduction/
+
+  - title: Section Overview
+    url: /1_section_overview/
+
+  - title: Metadata Elements
+    url: /2_metadata_elements/
+
+  - title: Examples
+    url: /examples/
+
 
