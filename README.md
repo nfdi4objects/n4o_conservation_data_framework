@@ -15,9 +15,12 @@ Ziel ist:
 - offene Wissenschaftspraktiken zu unterstützen
 
 ## Arbeitsprozess 
-Die Entwicklung des Standards erfolgte transparent und partizipativ innerhalb der Temporary Working Group (TWG) [*Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes*](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/) in kontinuierlicher Rückkoppelung mit der breiteren Community z.B. im Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/). 
+Die Entwicklung des Frameworks erfolgte transparent und partizipativ innerhalb der Temporary Working Group (TWG) [*Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes*](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/) in kontinuierlicher Rückkoppelung mit der breiteren Community z.B. im Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/). 
 
 Feedback, Anmerkungen, Veränderungsvorschläge oder aktive Beteiligungswünsche sind jederzeit herzlich willkommen! 
+
+## Nutzung
+Sämtliche Inhalte des Conservation Data Frameworks stehen unter CC-BY 4.0 Lizenz zur freien Nachnutzung zur Verfügung. 
 
 ## Förderung
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
