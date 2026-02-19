@@ -23,14 +23,14 @@ Die Entwicklung des Schemas erfolgt transparent und partizipativ innerhalb der T
 
 ### Mitwirkende
 
-Kristina Fischer, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects,  [Orcid](https://orcid.org/0009-0005-3991-1025)
-Nathaly Witt, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [Orcid](https://orcid.org/0009-0003-1063-0727)
-Lasse Mempel-Länger, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects,  [Orcid](https://orcid.org/0009-0001-5183-1635)
-Gisela Gulbins, Reiss-Engelhorn-Museen (REM) / Verband der Restaurator:innen (VDR)
-Gudrun Schwenk, Interessengemeinschaft für semantische Datenverarbeitung e. V. / SODa
-Eva Schoel, Restaurierungszentrum Düsseldorf (RED) 
-Hannah Zettner, Restaurierungszentrum Düsseldorf (RED) 
-Elena Gómez Sánchez, Deutsches Bergbau Museum Bochum (DBM)
+- Kristina Fischer, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025)
+- Nathaly Witt, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-1063-0727)
+- Lasse Mempel-Länger, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0001-5183-1635)
+- Gisela Gulbins, Reiss-Engelhorn-Museen (REM) / Verband der Restaurator:innen (VDR)
+- Gudrun Schwenk, Interessengemeinschaft für semantische Datenverarbeitung e. V. / SODa [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0002-3156-8339)
+- Eva Schoel, Restaurierungszentrum Düsseldorf (RED) 
+- Hannah Zettner, Restaurierungszentrum Düsseldorf (RED) 
+- Elena Gómez Sánchez, Deutsches Bergbau Museum Bochum (DBM) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2648-8510)
 
 ---
 
