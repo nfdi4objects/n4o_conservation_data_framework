@@ -1,9 +1,6 @@
 title: NFDI4Objects Conservation Data Framework
 description: Zentrale Dokumentation des Conservation Data Frameworks
-remote_theme: just-the-docs
-
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 
 url: "https://nfdi4objects.github.io"
 baseurl: "/n4o_conservation_data_framework"
