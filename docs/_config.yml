@@ -5,6 +5,7 @@ theme: just-the-docs
 url: "https://nfdi4objects.github.io"
 baseurl: "/n4o_conservation_data_framework"
 
+nav_enabled: true
 search_enabled: true
 back_to_top: true
 back_to_top_text: "Back to top"
