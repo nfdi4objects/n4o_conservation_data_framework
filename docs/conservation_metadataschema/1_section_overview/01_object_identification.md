@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objektkennzeichnung
-parent: Übersicht der Sektionen 
+parent: Sektionen 
 grantparent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
 nav_order: 1
 ---
