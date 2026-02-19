@@ -1,0 +1,7 @@
+nav:
+  - titel: Home
+  url: /
+
+  -titel: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
+  url: /conservation_metadata
+
