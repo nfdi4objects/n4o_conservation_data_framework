@@ -1,6 +1,6 @@
 ---
 layout: default
-titel: Anwendungsontologie für Prozesse der Konservierung-Restaurierung
+title: Anwendungsontologie für Prozesse der Konservierung-Restaurierung
 nav_order: 3
 ---
 # Anwendungsontologie für die Prozesse der Konservierung-Restaurierung (kurz: KuR-Ontology) 
