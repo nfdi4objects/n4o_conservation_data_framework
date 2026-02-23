@@ -10,7 +10,7 @@ Dieses Online-Portal dient als Nachschlagewerk für die im Conservation Data Fra
 Es setzt sich zusammen aus: 
 - dem gemeinsam entwickeltem, kuratierten [**Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaterialien (kurz: KuR-MDS)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/)
 - dem dazugehörigen [**Metadatenthesaurus Konservierung/Restaurierung**](https://www.w3id.org/conservation/terms/metadata)
-- einer **Anwendungsontologie für Prozesse der Konservierung-Restaurierung**
+- einer [**Anwendungsontologie für Prozesse der Konservierung-Restaurierung**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_ontology/)
 
 Das CDF-Online-Portal dient, ergänzend zu formalen Publikationen, als agile Referenzumgebung und Nachschlagewerk für die jeweils aktuellen, veröffentlichten Versionen der drei Konzepte.
 
