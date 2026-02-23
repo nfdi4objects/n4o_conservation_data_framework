@@ -2,7 +2,7 @@
 layout: default
 title: Zustandserfassung
 parent: Sektionen 
-grantparent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
+grantparent: KuR-Metadatenschema 
 nav_order: 5
 ---
 
