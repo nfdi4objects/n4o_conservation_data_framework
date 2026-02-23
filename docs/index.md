@@ -17,12 +17,12 @@ Das CDF-Online-Portal dient, ergänzend zu formalen Publikationen, als agile Ref
 ## Hintergrund & Zielsetzung
 Die Dokumentation konservatorischer Maßnahmen ist essenziell für die langfristige Erhaltung und wissenschaftliche Erschließung von Kulturgütern. Gleichzeitig fehlt es bislang an fachlich breit abgestimmten, maschinenlesbaren Dokumentationsstandards. Innerhalb von [NFDI4Objects](https://www.nfdi4objects.net/) wurde im Rahmen der [Task Area 4 "Protecting"](https://www.nfdi4objects.net/portal/tas/ta4/) diese Lücke durch die Konzeption des Conservation Data Frameworks addressiert. Das Framework bieten Nutzenden eine Grundlage für die semantische Modellierung restauratorischer Dokumentationen, von der praktischen Erfassung bis zur interoperablen Weiterverarbeitung in Forschungs-, Sammlungs- und Langzeitarchivierungskontexten. Als offenes, versioniertes und community-basiert gepflegtes Framework senkt CDF die Einstiegshürde für standardkonforme Dokumentation und unterstützt Fachwissenschaftler:innen dabei, ihre Daten langfristig nutzbar, interoperable und zitierfähig zu machen.
 
-Ziel ist:
+**Ziel ist:**
 
-eine institutionsübergreifende Vergleichbarkeit der Daten zu ermöglichen,
-die Langzeitarchivierung zu unterstützen,
-die interdisziplinäre Interoperabilität und Anschlussfähigkeit restauratorischer Daten zu fördern,
-offene Wissenschaftspraktiken zu unterstützen
+- eine institutionsübergreifende Vergleichbarkeit der Daten zu ermöglichen,
+- die Langzeitarchivierung zu unterstützen,
+- die interdisziplinäre Interoperabilität und Anschlussfähigkeit restauratorischer Daten zu fördern,
+- offene Wissenschaftspraktiken zu unterstützen
 
 ## Arbeitsprozess
 Die Entwicklung des Frameworks erfolgt transparent und partizipativ innerhalb der [Temporary Working Group (TWG) Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/) in kontinuierlicher Rückkoppelung mit der breiteren Community z.B. im [Community Cluster (CC) Consersation Science](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/) sowie auf Veranstaltungen.
