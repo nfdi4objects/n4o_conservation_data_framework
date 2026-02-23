@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen
+title: KuR-Metadatenschema 
 nav_order: 2
 ---
 
