@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 titel: Anwendungsontologie für Prozesse der Konservierung-Restaurierung
 nav_order: 3
 ---
