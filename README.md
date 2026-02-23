@@ -1,6 +1,6 @@
 # Conservation Data Framework (kurz: CDF)
 Dieses Repository enthält und dokumentiert die Entwicklung des **Conservation Data Framework**
-Das CDF ist ein community-getragenes, offenes Referenzrahmenwerk für die standardisierte, semantisch anschlussfähige Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. Es vereint eine gemeinsam entwickelte kuratierte Metadatenempfehlung für die Dokumentation von Konservierungs- und Restaurierungsmaterialien inklusive SKOS-modelliertem Metadatenvokabulare mit stabilen Identifiern sowie eine darauf aufbauende fachspezifische Ontology für Konservierungs-Restaurierungsprozesse. 
+Das CDF ist ein community-getragenes, offenes Referenzrahmenwerk für die standardisierte, semantisch anschlussfähige Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. Es vereint ein gemeinsam entwickeltes kuratiertes Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaterialien inklusive SKOS-modelliertem Metadatenvokabulare mit stabilen Identifiern sowie eine darauf aufbauende fachspezifische Ontology für Konservierungs-Restaurierungsprozesse. 
 
 Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als **agile Referenzumgebung** ergänzend zu formalen Publikationen.
 
