@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metadatenelemente
-parent: Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen 
+parent: KuR-Metadatenschema 
 nav_order: 3
 ---
 
