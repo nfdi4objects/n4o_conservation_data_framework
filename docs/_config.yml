@@ -1,11 +1,12 @@
 title: Conservation Data Framework
 description: Zentrale Dokumentation des Conservation Data Frameworks
 theme: just-the-docs
+color_scheme: n4o
 
 url: "https://nfdi4objects.github.io"
 baseurl: "/n4o_conservation_data_framework"
 
 nav_enabled: true
 
-color_scheme: n4o
+
 
