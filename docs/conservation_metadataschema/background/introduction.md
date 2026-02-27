@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: Zielsetzung und Motivation
 nav_order: 1
 ---
