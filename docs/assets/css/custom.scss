@@ -1,0 +1,18 @@
+---
+---
+
+@import "just-the-docs";
+
+/* ============================= */
+/* Sidebar-Breite anpassen        */
+/* ============================= */
+
+.side-bar {
+  width: 220px;        /* schmaler als Standard */
+  min-width: 220px;
+}
+
+/* Content-Bereich anpassen */
+.main {
+  margin-left: 220px;  /* muss zur Sidebar-Breite passen */
+}
