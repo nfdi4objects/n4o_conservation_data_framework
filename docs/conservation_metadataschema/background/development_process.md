@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Entwicklungsprozess
+title: Entwicklung und Methodik
 parent: KuR-Metadatenschema
 nav_order: 3
 ---
 
-# Methodik und Entwicklungsprozess
+# Entwicklung und Methodik
