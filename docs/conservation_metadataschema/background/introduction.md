@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Zielsetzung und Motivation
-parent: KuR-Metadatenschema
-nav_order: 2
+parent: Hintergrund und Konzeption
+nav_order: 1
 ---
 
 # Zielsetzung und Motivation
