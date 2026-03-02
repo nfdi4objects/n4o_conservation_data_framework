@@ -15,12 +15,20 @@ Diese Seite bietet einen kurzen Überblick über die wichtigsten Begriffe, die f
 
 **Metadaten** sind Informationen über Daten. Sie definieren und kategorisieren Daten und liefern somit zusätzliche Informationen, um was für eine "Art" von Informationen es sich handelt. Also z.B. in welchem Zusammenhang die beschriebene Information zu einer Datei oder in unserem Fall zu einem Objekt der realen Welt steht. 
 
-**Praxisbeispiele:**
-- **Objektmaterial: "Gold"** - In diesem Fall definiert das Metadatenelement "Objektmaterial", in welchem Verhältnis das chemische Element "Gold" zu dem beschriebenen Objekt steht. Es ist das Material, aus dem das Objekt besteht.
-   
-- **Zuständige Person: Frau Müller** - Das Metadatenelement "Zuständige Person" erfasst, dass Frau Müller die Restaurator:in war, die das Objekt bearbeitet hat.
-  
-- **Eingriff: Klebung** - Das Metadatenelement "Eingriff" definiert, dass mit "Klebung" die konkrete Methode gemeint ist, mit der das Objekt behandelt wurde.
+### Metadatenelement und Datenwert
+
+Ein **Metadatenelement** bezeichnet die Kategorie oder das Feld, in dem eine Information erfasst wird.  
+Der **Datenwert** ist die konkrete Angabe, die in dieses Feld eingetragen wird.
+
+**Beispiel:**
+- Metadatenelement: *Erfassungsdatum (Zustandserfassung)*  
+- Datenwert: *12.03.2024*
+
+- Metadatenelement: *Zuständige Person (Untersuchung)*  
+- Datenwert: *Dr. Maria Beispiel*
+
+Diese Unterscheidung ist zentral für die Struktur des Schemas.  
+Das Schema definiert die Elemente – die restauratorische Praxis liefert die Datenwerte.
 
 > Tipp: Metadaten helfen, Informationen systematisch zu erfassen, nachzuvollziehen und wiederzufinden. 
 
