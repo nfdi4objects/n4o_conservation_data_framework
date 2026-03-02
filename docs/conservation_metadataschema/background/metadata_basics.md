@@ -50,7 +50,7 @@ Ein Austauschformat beschreibt, wie strukturierte Daten technisch kodiert und zw
 
 Während ein Metadatenschema festlegt, *welche* Informationen erfasst werden und wie sie logisch strukturiert sind, definiert ein Austauschformat die konkrete technische Darstellung.
 
-Im Kulturerbe-Bereich sind XML-basierte Formate üblich, insbesondere [**LIDO (Lightweight Information Describing Objects)**](https://lido.org](https://lido-schema.org/), das den standardisierten Austausch von Objektdaten zwischen Museen, Sammlungen und Aggregationsplattformen ermöglicht.
+Im Kulturerbe-Bereich sind XML-basierte Formate üblich, insbesondere [**LIDO (Lightweight Information Describing Objects)**](https://lido-schema.org/), das den standardisierten Austausch von Objektdaten zwischen Museen, Sammlungen und Aggregationsplattformen ermöglicht.
 
 Das KuR-Metadatenschema bildet die konzeptionelle Grundlage für eine technische Umsetzung. Es definiert die inhaltliche Struktur, auf deren Basis sich die Daten in Austauschformate wie LIDO überführen lassen.
 
