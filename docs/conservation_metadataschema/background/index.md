@@ -13,13 +13,13 @@ Während die Abschnitte **Sektionen** und **Metadatanelemente** die praktische S
 
 ## Inhalte dieses Bereichs
 
-### Zielsetzung und Motivation  
+### [Zielsetzung und Motivation](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/background/introduction.html)  
 Darstellung der fachlichen Ausgangssituation, der identifizierten Bedarfe in der restauratorischen Dokumentation sowie der Ziele, die mit dem Metadatenschema verfolgt werden.
 
-### Methodik und Entwicklungsprozess  
+### [Methodik und Entwicklungsprozess](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/background/development_process.html) 
 Überblick über die Entstehung des Schemas, berücksichtigte fachliche Bezugssysteme sowie den iterativen Entwicklungsprozess unter Einbindung der Community.
 
-### Basiswissen Metadaten  
+### [Basiswissen Metadaten](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/background/metadata_basics.html)  
 Kompakte Einführung in zentrale Begriffe wie:
 - Metadaten  
 - Metadatenschema  
