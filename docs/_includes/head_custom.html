@@ -1,0 +1,21 @@
+<style>
+  .lang-switcher {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 0.85rem;
+  }
+  .lang-switcher a {
+    color: var(--link-color);
+    text-decoration: none;
+    border: 1px solid var(--border-color);
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+  }
+</style>
+
+<div class="lang-switcher">
+  <a href="{% t global.switch_language_url %}">
+    {% t global.switch_language %}
+  </a>
+</div>
