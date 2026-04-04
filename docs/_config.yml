@@ -13,10 +13,4 @@ nav_enabled: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-plugins:
-  - jekyll-multiple-languages-plugin
-
-languages: ["de", "en"]
-default_lang: "de"
-exclude_from_localizations: ["assets", "images"]
 
