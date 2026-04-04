@@ -55,7 +55,7 @@ jobs:
       - name: Debug site output
         run: |
           echo "=== en/index.html Inhalt ==="
-          cat _site/en/index.html
+          cat _site/en/index.html | grep -i "redirect\|refresh\|location\|canonical"
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v4
