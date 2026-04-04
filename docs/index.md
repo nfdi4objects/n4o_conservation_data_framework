@@ -2,4 +2,4 @@
 layout: null
 permalink: /
 ---
-<meta http-equiv="refresh" content="0; url={{ site.baseurl }}/de/">
+<meta http-equiv="refresh" content="0; url=/n4o_conservation_data_framework/de/">
