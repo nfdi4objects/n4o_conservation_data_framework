@@ -50,7 +50,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add Gemfile.lock
           git diff --staged --quiet || git commit -m "Update Gemfile.lock"
-          git push
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Pages
