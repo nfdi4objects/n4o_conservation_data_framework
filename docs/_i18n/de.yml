@@ -1,4 +1,5 @@
-yaml# _i18n/de.yml
+# _i18n/de.yml
+
 global:
   lang: "de"
   language_name: "Deutsch"
