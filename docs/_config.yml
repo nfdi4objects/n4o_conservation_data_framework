@@ -13,4 +13,4 @@ nav_enabled: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-logo: assets/images/CDF_logo.png
+logo: /assets/images/CDF_logo.png
