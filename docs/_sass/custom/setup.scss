@@ -96,8 +96,8 @@ $border-color: $grey-lt-100 !default;
 
 $gutter-spacing: $sp-6 !default;
 $gutter-spacing-sm: $sp-4 !default;
-$nav-width: 12rem;
-$nav-width-md: 11.5rem;
+$nav-width: 16rem !default;
+$nav-width-md: 15.5rem !default;
 $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
 $nav-list-expander-right: false;
@@ -115,17 +115,3 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 87.5rem,
 ) !default;
-
-/* =========================
-   SIDEBAR CONTAINER
-========================= */
-
-.side-bar {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
-.nav-list {
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-}
