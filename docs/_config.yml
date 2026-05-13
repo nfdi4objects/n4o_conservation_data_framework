@@ -16,6 +16,8 @@ back_to_top_text: "Back to top"
 logo: "/assets/images/CDF_Logo_klein.png"
 
 callouts:
+  highlight: 
+    color: #F5F5F5
   important:
     title: Technische Umsetzung
     color: blue
