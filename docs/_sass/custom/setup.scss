@@ -115,3 +115,24 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 87.5rem,
 ) !default;
+
+// Eigene Label-Farben
+.label-required {
+  background-color: #9e3429;
+  color: #fff;
+}
+
+.label-conditional {
+  background-color: #cf9a95;
+  color: #fff;
+}
+
+.label-recommended {
+  background-color: #8bd977;
+  color: #fff;
+}
+
+.label-optional {
+  background-color: #6ac6d9;
+  color: #fff;
+}
