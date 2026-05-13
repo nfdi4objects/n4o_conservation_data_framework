@@ -21,7 +21,7 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 
 | Element | Verpflichtungsgrad | URI |
 |:--------|:-------------------|:----|
-| [Objektbenennung](./objektbenennung) | <span class="badge badge-required">Pflicht</span> | [`B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
+| [Objektbenennung](./objektbenennung) | Pflicht {: .label-required }| [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
 | [Kennzeichnungsnummer](./kennzeichnungsnummer) | <span class="badge badge-required">Pflicht</span> | [`F7D3DB`](https://www.w3id.org/conservation/terms/metadata/F7D3DB) |
 | [Art der Kennzeichnungsnummer](./art-der-kennzeichnungsnummer) | <span class="badge badge-required">Pflicht</span> | [`G59SR3`](https://www.w3id.org/conservation/terms/metadata/G59SR3) |
 | [Weitere Objektnummer](./weitere-objektnummer) | <span class="badge badge-optional">Optional</span> | [`K343FVC`](https://www.w3id.org/conservation/terms/metadata/K343FVC) |
