@@ -20,7 +20,7 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 
 | Element | Verpflichtungsgrad | URI |
 |:--------|:-------------------|:----|
-| [Objektbenennung]((https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/2_metadata_elements/01_object_title.html)) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
+| [Objektbenennung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/2_metadata_elements/01_object_title.html) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
 | [Kennzeichnungsnummer](./kennzeichnungsnummer) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F7D3DB)`](https://www.w3id.org/conservation/terms/metadata/F7D3DB) |
 | [Art der Kennzeichnungsnummer](./art-der-kennzeichnungsnummer) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G59SR3`](https://www.w3id.org/conservation/terms/metadata/G59SR3) |
 | [Weitere Objektnummer](./weitere-objektnummer) | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/K343FVC`](https://www.w3id.org/conservation/terms/metadata/K343FVC) |
