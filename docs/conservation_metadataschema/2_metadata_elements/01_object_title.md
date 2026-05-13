@@ -17,6 +17,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
  
 ---
 
+{: .highlight }
 ## Verpflichtungsgrad
  
 Pflicht
