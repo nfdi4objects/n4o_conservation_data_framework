@@ -7,8 +7,6 @@ nav_order: 1
 ---
 
 # Objektkennzeichnung
-Pflicht
-{: .label .label-required } 
 
 ## Zweck und Funktion der Sektion
 
@@ -22,8 +20,8 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 
 | Element | Verpflichtungsgrad | URI |
 |:--------|:-------------------|:----|
-| [Objektbenennung](./objektbenennung) |  Pflicht {: .label .label-required }| [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
-| [Kennzeichnungsnummer](./kennzeichnungsnummer) | <span class=".label-required">Pflicht</span> | [`F7D3DB`](https://www.w3id.org/conservation/terms/metadata/F7D3DB) |
+| [Objektbenennung](./objektbenennung) |  Pflicht | [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A) |
+| [Kennzeichnungsnummer](./kennzeichnungsnummer) | <span class=".label">Pflicht</span> | [`F7D3DB`](https://www.w3id.org/conservation/terms/metadata/F7D3DB) |
 | [Art der Kennzeichnungsnummer](./art-der-kennzeichnungsnummer) | <span class="badge badge-required">Pflicht</span> | [`G59SR3`](https://www.w3id.org/conservation/terms/metadata/G59SR3) |
 | [Weitere Objektnummer](./weitere-objektnummer) | <span class="badge badge-optional">Optional</span> | [`K343FVC`](https://www.w3id.org/conservation/terms/metadata/K343FVC) |
 | [Art der weiteren Objektnummer](./art-der-weiteren-objektnummer) | <span class="badge badge-conditional">Bedingte Pflicht</span> | [`LGPT6AC`](https://www.w3id.org/conservation/terms/metadata/LGPT6AC) |
