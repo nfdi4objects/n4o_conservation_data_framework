@@ -20,7 +20,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 ## Verpflichtungsgrad
  
 Pflicht
-{: label.label-required }
+{: .label .label-required }
  
 Die Objektbenennung ist für die fachliche Verständlichkeit der Dokumentation erforderlich und schafft den notwendigen Kontext für alle Beteiligten. Ohne sie bleibt das behandelte Objekt selbst bei vorhandener Inventarnummer für die menschliche Kommunikation inhaltlich schwer einzuordnen.
  
