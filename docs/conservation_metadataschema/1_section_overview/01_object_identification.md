@@ -39,12 +39,11 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 ---
 
 ## Hinweise zur Implementierung
-{: .text-delta }
 
 {: .note }
 > Die Metadatenelemente dieser Sektion werden typischerweise aus bestehenden Sammlungsmanagementsystemen (z. B. MuseumPlus, Easydb, ImdasPro) übernommen. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn keine institutionellen Objektdaten vorliegen.
 
-{: .highlight }
+{: .important }
 > **Technische Umsetzung:** Die URIs dieser Sektion folgen dem Muster `https://www.w3id.org/conservation/terms/metadata/{ID}` und sind als persistente Identifikatoren konzipiert. Für die Einbindung in eigene Systeme empfiehlt sich die Nutzung dieser URIs als `skos:exactMatch` oder `owl:equivalentProperty`.
 
 
