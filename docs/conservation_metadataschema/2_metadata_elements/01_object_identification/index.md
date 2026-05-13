@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Übersicht der Metadatenelemente innerhalb der Sektion Objektkennzeichnung
+title: Metadatenelemente Sektion Objektkennzeichnung
 parent: Metadatenelemente
 nav_order: 1
 ---
 
-Übersicht Metadatenelemente Objektkennzeichnung
+Übersicht aller Metadatenelemente innerhalb der Sektion Objektkennzeichnung
