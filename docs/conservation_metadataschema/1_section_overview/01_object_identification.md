@@ -7,17 +7,9 @@ nav_order: 1
 ---
 
 # Objektkennzeichnung
-{: .no_toc }
 
-<div class="section-header">
-  <span class="obligation-badge obligation-required">Pflicht</span>
-  <span class="section-version">Version 1.0 | 2026</span>
-</div>
-
----
 
 ## Zweck und Funktion der Sektion
-{: .text-delta }
 
 Die Objektkennzeichnung dient der eindeutigen Identifikation des dokumentierten Objekts und seiner Einordnung in übergeordnete Kontexte. Sie gewährleistet, dass das Objekt vor, während und nach dem gesamten Behandlungsprozess zweifelsfrei zugeordnet werden kann.
 
@@ -26,7 +18,6 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 ---
 
 ## Übersicht der enthaltenen Metadatenelemente
-{: .text-delta }
 
 | Element | Verpflichtungsgrad | URI |
 |:--------|:-------------------|:----|
@@ -51,7 +42,7 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 {: .text-delta }
 
 {: .note }
-> Die Metadatenelemente dieser Sektion werden typischerweise aus bestehenden Sammlungsmanagementsystemen (z. B. MuseumPlus, Axiell EMu, CollectiveAccess) übernommen. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn keine institutionellen Objektdaten vorliegen.
+> Die Metadatenelemente dieser Sektion werden typischerweise aus bestehenden Sammlungsmanagementsystemen (z. B. MuseumPlus, Easydb, ImdasPro) übernommen. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn keine institutionellen Objektdaten vorliegen.
 
 {: .highlight }
 > **Technische Umsetzung:** Die URIs dieser Sektion folgen dem Muster `https://www.w3id.org/conservation/terms/metadata/{ID}` und sind als persistente Identifikatoren konzipiert. Für die Einbindung in eigene Systeme empfiehlt sich die Nutzung dieser URIs als `skos:exactMatch` oder `owl:equivalentProperty`.
