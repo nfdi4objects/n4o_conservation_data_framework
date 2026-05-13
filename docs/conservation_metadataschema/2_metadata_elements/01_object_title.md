@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objektbenennung
-parent: Metadatenelemente Sektion Objektkennzeichnung
+parent: Metadatenelemente
 nav_order: 1
 --- 
 
