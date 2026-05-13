@@ -17,7 +17,7 @@ logo: "/assets/images/CDF_Logo_klein.png"
 
 callouts:
   highlight: 
-    color: #F5F5F5
+    color: $grey-lt-000
   important:
     title: Technische Umsetzung
     color: blue
