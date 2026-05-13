@@ -8,6 +8,9 @@ nav_order: 1
 
 # Objektkennzeichnung
 
+Text
+{: .label .label-requierd }
+
 ## Zweck und Funktion der Sektion
 
 Die Objektkennzeichnung dient der eindeutigen Identifikation des dokumentierten Objekts und seiner Einordnung in übergeordnete Kontexte. Sie gewährleistet, dass das Objekt vor, während und nach dem gesamten Behandlungsprozess zweifelsfrei zugeordnet werden kann.
