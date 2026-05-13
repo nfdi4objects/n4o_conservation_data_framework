@@ -1,0 +1,36 @@
+
+// Eigene Label-Farben
+.label:not(g),
+.label-blue:not(g) {
+  display: inline-block;
+  padding: 0.16em 0.56em;
+  margin-right: $sp-2;
+  margin-left: $sp-2;
+  color: $white;
+  text-transform: uppercase;
+  vertical-align: middle;
+  background-color: $blue-100;
+  border-radius: 12px;
+
+  @include fs-2;
+}
+
+.label-required:not(g) {
+  background-color: #9e3429;
+  color: #fff;
+}
+
+.label-conditional:not(g) {
+  background-color: #cf9a95;
+  color: #fff;
+}
+
+.label-recommended:not(g) {
+  background-color: #8bd977;
+  color: #fff;
+}
+
+.label-optional:not(g) {
+  background-color: #6ac6d9;
+  color: #fff;
+}
