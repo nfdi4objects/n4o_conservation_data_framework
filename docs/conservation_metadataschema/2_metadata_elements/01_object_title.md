@@ -42,6 +42,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 > ### Feldwert
 > 
 > Text
+> {: .label .label-text}
 >
 > Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilität für die fachspezifische Beschreibung des jeweiligen Objektes zu ermöglichen.
 
@@ -53,6 +54,14 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 ---
 
+## Beispiel:
+{: .example}  
+> - Objektbenennung: 
+Der Schrei {: .label .label-text}  
+> - Objektbenennung: 
+Porträtgemälde Herzog Johann III. {: .label .label-text}
+
+---
 
 ## Entsprechungen in anderen Schemata
 
