@@ -59,14 +59,10 @@ Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im R
 {: .example }
 > ## Beispiel
 >
-> - Kennzeichnungsnummer:  
-
-> O.2023_3245 
+> - Kennzeichnungsnummer: O.2023_3245 
 > {: .label .label-text }
 >
-> - Kennzeichnungsnummer:  
-
-> FD_2024-127 
+> - Kennzeichnungsnummer: FD_2024-127 
 > {: .label .label-text }
 
 ---
