@@ -59,11 +59,14 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 {: .example }  
 > ## Beispiel
-> - Objektbenennung: 
+>
+> - Objektbenennung:  
+
 > Der Schrei 
 > {: .label .label-text }
 >  
-> - Objektbenennung: 
+> - Objektbenennung:   
+
 > Porträtgemälde Herzog Johann III. 
 > {: .label .label-text }
 
