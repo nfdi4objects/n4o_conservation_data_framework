@@ -49,7 +49,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 ---
 
-{: .hightlight }
+{: .highlight }
 > ### Wiederholbar
 >
 > Ja 
@@ -61,9 +61,11 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 {: .example }  
 > - Objektbenennung: 
-Der Schrei {: .label .label-text }  
+Der Schrei 
+{: .label .label-text }  
 > - Objektbenennung: 
-Porträtgemälde Herzog Johann III. {: .label .label-text }
+Porträtgemälde Herzog Johann III. 
+{: .label .label-text }
 
 ---
 

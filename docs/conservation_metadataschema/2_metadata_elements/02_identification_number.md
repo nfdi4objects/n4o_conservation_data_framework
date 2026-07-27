@@ -48,7 +48,7 @@ Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im R
 
 ---
 
-{: .hightlight }
+{: .highlight }
 > ### Wiederholbar
 >
 > Nein
@@ -59,8 +59,12 @@ Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im R
 ## Beispiel
 
 {: .example }
-> - Kennzeichnungsnummer: O.2023_3245 {: .label .label-text }
-> - Kennzeichnungsnummer: FD_2024-127 {: .label .label-text }
+> - Kennzeichnungsnummer: 
+O.2023_3245 
+{: .label .label-text }
+> - Kennzeichnungsnummer: 
+FD_2024-127 
+{: .label .label-text }
 
 ---
 

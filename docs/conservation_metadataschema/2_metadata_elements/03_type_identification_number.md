@@ -42,7 +42,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ---
 
-{: .hightlight }
+{: .highlight }
 > ### Wiederholbar
 >
 > Nein
@@ -53,8 +53,12 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 ## Beispiel
 
 {: .example }
-> - Art der Kennzeichnungsnummer: Intenvarnummer {: .label .label-text }
-> - Art der Kennzeichnungsnummer: Temporäre Fundnummer {: .label .label-text }
+> - Art der Kennzeichnungsnummer: 
+Intenvarnummer 
+{: .label .label-text }
+> - Art der Kennzeichnungsnummer: 
+Temporäre Fundnummer 
+{: .label .label-text }
 
 ---
 
