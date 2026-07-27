@@ -2,7 +2,7 @@
 layout: default
 title: Art der Kennzeichnungsnummer
 parent: Metadatenelemente
-nav_order: 2
+nav_order: 3
 --- 
 
 # Art der Kennzeichnungsnummer
