@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Kennzeichnungsnummer
+title: Art der Kennzeichnungsnummer
 parent: Metadatenelemente
 nav_order: 2
 --- 
 
-# Kennzeichnungsnummer
+# Art der Kennzeichnungsnummer
 
 Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/01_object_identification.html)
 
@@ -35,7 +35,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 {: .highlight }
 > ### Feldwert
 > 
-> Text/URI
+> Text
 >
 > 
 

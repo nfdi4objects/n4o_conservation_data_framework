@@ -8,6 +8,7 @@ nav_order: 1
 # Objektbenennung
 
 Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/01_object_identification.html)
+
 ---
 ## Begrifflichkeiten 
 
