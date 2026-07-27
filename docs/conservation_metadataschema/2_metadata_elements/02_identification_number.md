@@ -37,24 +37,33 @@ Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im R
 > Die Kennzeichnungsnummer gewährleistet die eindeutige Identifikation, insbesondere bei Objekten mit ähnlichen oder identischen Benennungen und ist somit unverzichtbar für die systematische Objektverwaltung.
 
 ---
+
 {: .highlight }
 > ### Feldwert
 > 
 > Text/URI
+> {: .label .label-text }
 >
 > Im Idealfall handelt es sich bei der Kennung um einen maschinenlesbaren, persistenten Identifier (PID). In der Praxis verfügen jedoch noch nicht alle Einrichtungen über solch ein strukturiertes Kennzeichnungssystem, daher schreibt das Schema an dieser Stelle kein verpflichtendes Format der Kennung vor. 
 
 ---
+
 {: .hightlight }
 > ### Wiederholbar
 >
 > Nein
+> {: .label .label-text }
 
 ---
+
 ## Beispiel
-{: .example}
-> - Kennzeichnungsnummer: O.2023_3245 {: .label .label-text}
-> - Kennzeichnungsnummer: FD_2024-127
+
+{: .example }
+> - Kennzeichnungsnummer: O.2023_3245 {: .label .label-text }
+> - Kennzeichnungsnummer: FD_2024-127 {: .label .label-text }
+
+---
+
 ## Entsprechungen in anderen Schemata
 
 | Schema | Elementname | Verpflichtungsgrad |

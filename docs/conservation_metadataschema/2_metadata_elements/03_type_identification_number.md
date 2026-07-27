@@ -32,18 +32,29 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 >
  
 ---
+
 {: .highlight }
 > ### Feldwert
 > 
 > Text
->
+> {: .label .label-text }
 > 
 
 ---
+
 {: .hightlight }
 > ### Wiederholbar
 >
 > Nein
+> {: .label .label-text }
+
+---
+
+## Beispiel
+
+{: .example }
+> - Art der Kennzeichnungsnummer: Intenvarnummer {: .label .label-text }
+> - Art der Kennzeichnungsnummer: Temporäre Fundnummer {: .label .label-text }
 
 ---
 

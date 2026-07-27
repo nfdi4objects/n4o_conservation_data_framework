@@ -38,28 +38,32 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 > Die Objektbenennung ist für die fachliche Verständlichkeit der Dokumentation erforderlich und schafft den notwendigen Kontext für alle Beteiligten. Ohne sie bleibt das behandelte Objekt selbst bei vorhandener Inventarnummer für die menschliche Kommunikation inhaltlich schwer einzuordnen.
  
 ---
+
 {: .highlight }
 > ### Feldwert
 > 
 > Text
-> {: .label .label-text}
+> {: .label .label-text }
 >
 > Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilität für die fachspezifische Beschreibung des jeweiligen Objektes zu ermöglichen.
 
 ---
+
 {: .hightlight }
 > ### Wiederholbar
 >
-> Ja
+> Ja 
+> {: .label .label-text }
 
 ---
 
 ## Beispiel:
-{: .example}  
+
+{: .example }  
 > - Objektbenennung: 
-Der Schrei {: .label .label-text}  
+Der Schrei {: .label .label-text }  
 > - Objektbenennung: 
-Porträtgemälde Herzog Johann III. {: .label .label-text}
+Porträtgemälde Herzog Johann III. {: .label .label-text }
 
 ---
 
