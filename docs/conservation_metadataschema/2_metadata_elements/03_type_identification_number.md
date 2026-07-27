@@ -54,11 +54,13 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 {: .example }
 > - Art der Kennzeichnungsnummer: 
-Intenvarnummer 
-{: .label .label-text }
+>
+> Intenvarnummer 
+> {: .label .label-text }
+>
 > - Art der Kennzeichnungsnummer: 
-Temporäre Fundnummer 
-{: .label .label-text }
+> Temporäre Fundnummer 
+> {: .label .label-text }
 
 ---
 
