@@ -33,3 +33,8 @@
   background-color: #c6dbe1;
   color: #215a6c;
 }
+
+.label-text:not(g) {
+  background-color: $grey-lt-100;
+  color: $grey-dk-300;
+}

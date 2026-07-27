@@ -28,6 +28,6 @@ callouts:
   highlight:
     color: grey-lt 
   example:
-    titel: Beispiel
-    color: #13294b
+    title: Beispiel
+    color: n4o-blue
 
