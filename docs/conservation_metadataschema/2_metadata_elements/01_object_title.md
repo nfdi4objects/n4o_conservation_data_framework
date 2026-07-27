@@ -55,6 +55,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 
 ## Entsprechungen in anderen Schemata
+
 | Schema        | Elementname | Verpflichtungsgrad |
 |:--------------|:------------|:-------------------|
 | [Minimaldatensatzempfehlung für Museen und Sammlungen](www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Pflicht
