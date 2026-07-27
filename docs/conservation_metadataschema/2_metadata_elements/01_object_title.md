@@ -52,6 +52,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 
 ---
 
+
 ## Entsprechungen in anderen Schemata
 | Schema | Elementname | Verpflichtungsgrad |
 |:--------|:-------------------|:----|
