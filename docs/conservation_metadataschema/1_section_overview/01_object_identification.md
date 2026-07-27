@@ -6,7 +6,7 @@ grantparent: KuR-Metadatenschema
 nav_order: 1
 ---
 
-# Objektkennzeichnung
+# Objektkennzeichnung <span class="label label-required">Pflicht</span>
 
 ## Zweck und Funktion der Sektion
 
@@ -40,10 +40,18 @@ Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:
 ## Hinweise zur Implementierung
 
 {: .note }
-> Die Metadatenelemente dieser Sektion werden typischerweise aus bestehenden Sammlungsmanagementsystemen (z. B. MuseumPlus, Easydb, ImdasPro) übernommen. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn keine institutionellen Objektdaten vorliegen.
+> Die Angaben dieser Sektion sollten idealerweise direkt aus dem entsprechenden Objektdatensatz in die Restaurierungsdokumentation übernommen bzw. mit diesem verknüpft sein, um eine kohärente Datenverwaltung zu gewährleisten. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn kein referenzierbarer Objektdatensatz zur Verfügung steht (beispielsweise wenn kein zentrales Sammlungsmanagementsystem verwendet wird oder wenn das Objekt erst im Rahmen der Konservierung-Restaurierung inventarisiert wird).  
 
-{: .important }
-> Die URIs dieser Sektion folgen dem Muster `https://www.w3id.org/conservation/terms/metadata/{ID}` und sind als persistente Identifikatoren konzipiert. Für die Einbindung in eigene Systeme empfiehlt sich die Nutzung dieser URIs als `skos:exactMatch` oder `owl:equivalentProperty`.
+--- 
+
+## Entsprechungen in anderen Schemata
+| Schema | Entsprechende Einheit | URI |
+|:-------|:----------------------|:----|
+|[MDS v1.1](www.minimaldatensatz.de)| Datenfelder (Erfassung) | [`www.minimaldatensatz.de/Datenfelder+Erfassung`](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104066/Datenfelder+Erfassung)
+|[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| Angaben zur Objektidentifikation| [`https://collectionstrust.org.uk/resource/object-identification-information/?tr=de`](https://collectionstrust.org.uk/resource/object-identification-information/?tr=de) | 
+| [LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) | Object Identification Wrapper | [`https://lido-schema.org/schema/latest/lido.html#objectIdentificationWrap`](https://lido-schema.org/schema/latest/lido.html#objectIdentificationWrap) | 
+
+*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
 
 
 
