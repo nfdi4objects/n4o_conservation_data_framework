@@ -28,6 +28,5 @@ callouts:
   highlight:
     color: grey-lt 
   example:
-    title: Beispiel
     color: n4o-blue
 

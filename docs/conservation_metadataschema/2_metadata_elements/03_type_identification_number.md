@@ -50,11 +50,9 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ---
 
-## Beispiel
-
 {: .example }
+> ## Beispiel
 > - Art der Kennzeichnungsnummer: 
->
 > Intenvarnummer 
 > {: .label .label-text }
 >
