@@ -41,7 +41,6 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 > ### Feldwert
 > 
 > Text
-> {: .label .label-text }
 >
 > Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilität für die fachspezifische Beschreibung des jeweiligen Objektes zu ermöglichen.
 
@@ -51,9 +50,9 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 >
 > Ja
 
+---
 
-{: .highlight }
-> ## Entsprechungen in anderen Schemata
+## Entsprechungen in anderen Schemata
 | Schema | Elementname | Verpflichtungsgrad |
 |:--------|:-------------------|:----|
 | [Minimaldatensatzempfehlung für Museen und Sammlungen](www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Pflicht
