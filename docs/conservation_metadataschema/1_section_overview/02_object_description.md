@@ -31,7 +31,7 @@ Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des 
 
 {: .note }
 > Die Angaben dieser Sektion sollten idealerweise direkt aus dem entsprechenden Objektdatensatz in die Restaurierungsdokumentation übernommen bzw. mit diesem verknüpft sein, um eine kohärente Datenverwaltung zu gewährleisten. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn kein referenzierbarer Objektdatensatz zur Verfügung steht (beispielsweise wenn kein zentrales Sammlungsmanagementsystem verwendet wird oder wenn das Objekt erst im Rahmen der Konservierung-Restaurierung inventarisiert wird).  
-
+>
 > Werden durch die Restaurierung neue Erkenntnisse zur Objektbeschreibung gewonnen (z.B. präzisere Angaben zu Material oder Herstellungstechnik), sollen diese in der Restaurierungsdokumentation als ergänzender Eintrag (Wiederholung des entsprechenden Metadatenelements) festgehalten werden, ohne bestehende Angaben zu überschreiben. Die aktualisierten Angaben sollten anschließend auch in den Objektdatensatz zurückgespielt werden, sodass die im Rahmen der Restaurierung gewonnenen Erkenntnisse dauerhaft an zentraler Stelle der Objektinformationen einsehbar sind. 
 
 --- 
