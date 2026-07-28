@@ -27,8 +27,8 @@ Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn 
 | [Untersuchungsart]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/F8F594`](https://www.w3id.org/conservation/terms/metadata/F8F594) |
 | [Lokalisation]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A15F83`](https://www.w3id.org/conservation/terms/metadata/A15F83) |
 | [Untersuchungsverfahren]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/DAB4B7`](https://www.w3id.org/conservation/terms/metadata/DAB4B7) |
-| &nbsp; &nbsp; ↳ [verwendetes Material (Untersuchung)]() </tr></table>| <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D1CFD5`](https://www.w3id.org/conservation/terms/metadata/D1CFD5) |
-| &nbsp; &nbsp; ↳ [Untersuchungsgerät]() </tr></table> | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D949G6`](https://www.w3id.org/conservation/terms/metadata/D949G6) |
+| &nbsp; &nbsp; ↳ [verwendetes Material (Untersuchung)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D1CFD5`](https://www.w3id.org/conservation/terms/metadata/D1CFD5) |
+| &nbsp; &nbsp; ↳ [Untersuchungsgerät]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D949G6`](https://www.w3id.org/conservation/terms/metadata/D949G6) |
 | [Untersuchungsergebnis]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BGG5A6`](https://www.w3id.org/conservation/terms/metadata/BGG5A6)  |
 
 
