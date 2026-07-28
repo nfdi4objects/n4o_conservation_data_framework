@@ -37,6 +37,7 @@ Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des 
 --- 
 
 ## Entsprechungen in anderen Schemata
+
 | Schema | Entsprechende Einheit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)| Datenfelder (Erfassung) | [`www.minimaldatensatz.de/Datenfelder+Erfassung`](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104066/Datenfelder+Erfassung)
