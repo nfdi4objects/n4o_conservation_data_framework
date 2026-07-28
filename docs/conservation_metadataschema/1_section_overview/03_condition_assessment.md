@@ -27,7 +27,7 @@ Die Zustandserfassung dokumentiert den physischen Zustands des Objekts zu einem 
 | ↳ [Verweis]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/GDF23F`](https://www.w3id.org/conservation/terms/metadata/GDF23F) |
 | [Zustandsbeschreibung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/AC1786`](https://www.w3id.org/conservation/terms/metadata/AC1786) |
 | ↳ [bisherige Umgebungsbedingungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/G79CA9`](https://www.w3id.org/conservation/terms/metadata/G79CA9) |
-| ↳[Physischer Objektzustand]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BC5B57`](https://www.w3id.org/conservation/terms/metadata/BC5B57) |
+| ↳ [Physischer Objektzustand]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BC5B57`](https://www.w3id.org/conservation/terms/metadata/BC5B57) |
 | &nbsp; &nbsp; ↳ [aktuelle Maße]()  | <span class="label label-conditional">Bedingte Pflicht</span> |  [`https://www.w3id.org/conservation/terms/metadata/DBC278`](https://www.w3id.org/conservation/terms/metadata/DBC278) |
 | &nbsp; &nbsp; ↳ [aktuelles Gewicht]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/C7C3B7`](https://www.w3id.org/conservation/terms/metadata/C7C3B7) |
 | &nbsp; &nbsp; ↳ [Vollständigkeit]()  | <span class="label label-recommended">Empfohlen</span> |  [`https://www.w3id.org/conservation/terms/metadata/CA8K78`](https://www.w3id.org/conservation/terms/metadata/CA8K78) |
