@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gefährdungspotential
+title: Gefährdungsbewertung
 parent: Sektionen 
 grantparent: KuR-Metadatenschema 
 nav_order: 7
