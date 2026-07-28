@@ -44,6 +44,7 @@ Die Zustandserfassung dokumentiert den physischen Zustands des Objekts zu einem 
 --- 
 
 ## Entsprechungen in anderen Schemata
+
 | Schema | Entsprechende Einheit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
