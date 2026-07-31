@@ -15,7 +15,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/LGPT6AC](https://www.w3id.org/conservation/terms/metadata/LGPT6AC)
 
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
-- Type der weiteren Objektnummer
+- Typ der weiteren Objektnummer
 - Type of alternative object number
 
 ## Definition
