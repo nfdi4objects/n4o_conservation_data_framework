@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Art der weiteren Objektnummer
-parent: Weitere Objektnummern
+parent: Weitere Objektnummer
 nav_order: 1
 --- 
 
