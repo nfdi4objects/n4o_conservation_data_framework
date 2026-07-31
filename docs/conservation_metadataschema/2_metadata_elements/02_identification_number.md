@@ -22,6 +22,8 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - Katalognummer
 - Objekt_ID
 
+---
+
 ## Definition
 
 Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im Restaurierungsprozess identifizierbar macht.  

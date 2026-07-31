@@ -21,6 +21,8 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - Alternative object number
 - Other object number
 
+---
+
 ## Definition
 
 Das Element erfasst eine zusätzliche Nummer, die dem Objekt zugeordnet ist oder war, aber nicht (mehr) als primäre Identifikation verwendet wird. Dies kann eine frühere Nummer sein, die durch Inventarisierung oder Sammlungswechsel ersetzt wurde oder auch externe Referenznummern aus anderen Kontexten (z. B. Nummern aus Voreigentum).  

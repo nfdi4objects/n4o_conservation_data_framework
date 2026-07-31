@@ -20,6 +20,8 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - Kennzeichnungsnummerntyp
 - type of identification number
 
+---
+
 ## Definition
  
 Die Art der Kennzeichnungsnummer dokumentiert den Status der Kennzeichnungsnummer zum Zeitpunkt der Restaurierung und macht transparent, ob das Objekt bereits eine feste institutionelle Identifikation besitzt (z.B. Inventarnummer) oder mit einer vorläufigen Nummer bearbeitet wurde. Dieses Element stellt sicher, dass die eindeutige Kennzeichnungsnummer korrekt interpretiert wird und der Kontext der Nummer nachvollziehbar ist.
@@ -59,7 +61,7 @@ Die Art der Kennzeichnungsnummer dokumentiert den Status der Kennzeichnungsnumme
 {: .example }
 > ## Beispiel
 >
-> - Art der Kennzeichnungsnummer: Intenvarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
+> - Art der Kennzeichnungsnummer: Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
 > {: .label .label-text }
 >
 > - Art der Kennzeichnungsnummer: Temporäre Fundnummer 
