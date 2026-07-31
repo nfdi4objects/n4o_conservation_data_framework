@@ -74,6 +74,7 @@ Die Herkunft erfasst Informationen zur geografischen, kulturellen oder kontextue
 > {: .label .label-text }
 >
 > - Herkunft - Erwerb: Schenkung 1976 aus Sammlung Müller
+> {: .label .label-text }
 
 ---
 
