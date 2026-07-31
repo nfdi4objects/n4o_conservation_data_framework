@@ -59,7 +59,7 @@ Die Art der Kennzeichnungsnummer dokumentiert den Status der Kennzeichnungsnumme
 {: .example }
 > ## Beispiel
 >
-> - Art der Kennzeichnungsnummer: Intenvarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
+> - Art der Kennzeichnungsnummer: Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
 > {: .label .label-text }
 >
 > - Art der Kennzeichnungsnummer: Temporäre Fundnummer 
