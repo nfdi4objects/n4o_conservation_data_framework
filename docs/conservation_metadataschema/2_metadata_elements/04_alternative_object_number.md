@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Weitere Objektnummern
+title: Weitere Objektnummer
 parent: Metadatenelemente
-nav_order: 4
+nav_order: 3
 --- 
 
-# Weitere Objektnummern
+# Weitere Objektnummer
 
 Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/01_object_identification.html)
 
@@ -13,24 +13,29 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** 
+ **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/K343FVC`](https://www.w3id.org/conservation/terms/metadata/K343FVC)
 
 **Mögliche Feldbezeichnungen in Datenbank:**
-- 
+- Weitere Objektnummer
+- Alternative Nummer
+- Alte Inventarnummer
+- Alternative object number
+- Other object number
 
 ## Definition
- 
+
+Das Element erfasst eine zusätzliche Nummer, die dem Objekt zugeordnet ist oder war, aber nicht (mehr) als primäre Identifikation verwendet wird. Dies kann eine frühere Nummer sein, die durch Inventarisierung oder Sammlungswechsel ersetzt wurde oder auch externe Referenznummern aus anderen Kontexten (z. B. Nummern aus Voreigentum).  
  
 ---
 
 {: .highlight }
 > ### Verpflichtungsgrad
 > 
-> Pflicht
-> {: .label .label-required }
+> Optional
+> {: .label .label-optional }
 > 
->
- 
+> Dieses Element ist optional, da nicht jedes Objekt über mehrere Nummern verfügt bzw. die Erfassung außerhalb des Hauptfokus der Restaurierungsdokumentation liegt. 
+
 ---
 
 {: .highlight }
@@ -45,18 +50,20 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 {: .highlight }
 > ### Wiederholbar
 >
-> Nein
+> Ja
 > {: .label .label-text }
+>
+> Das Element ist wiederholbar, um mehrere alternative Nummern erfassen zu können. 
 
 ---
 
 {: .example }
 > ## Beispiel
 >
-> - Art der Kennzeichnungsnummer: Intenvarnummer 
+> - Weitere Objektnummer: FN_2349
 > {: .label .label-text }
 >
-> - Art der Kennzeichnungsnummer: Temporäre Fundnummer 
+> - Weitere Objektnummer: 2024/03
 > {: .label .label-text }
 
 ---
@@ -64,4 +71,6 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 ## Entsprechungen in anderen Schemata
 
 | Schema  | Elementname | Verpflichtungsgrad |
-|:--------|:-------------------|:----|
+|:--------|:------------|:-------------------|
+| [MDS v1.1](www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
+| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Andere Nummer](https://collectionstrust.org.uk/resource/other-number/?tr=de) | Sofern erforderlich | 
