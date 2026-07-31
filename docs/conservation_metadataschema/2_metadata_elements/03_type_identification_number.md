@@ -13,9 +13,9 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/G59SR3`](https://www.w3id.org/conservation/terms/metadata/G59SR3)
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/G59SR3](https://www.w3id.org/conservation/terms/metadata/G59SR3)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - Art der Kennzeichnungsnummer
 - Kennzeichnungsnummerntyp
 - type of identification number
@@ -59,7 +59,7 @@ Die Art der Kennzeichnungsnummer dokumentiert den Status der Kennzeichnungsnumme
 {: .example }
 > ## Beispiel
 >
-> - Art der Kennzeichnungsnummer: Intenvarnummer; URI:[`http://terminology.lido-schema.org/lido00113`](http://terminology.lido-schema.org/lido00113)
+> - Art der Kennzeichnungsnummer: Intenvarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
 > {: .label .label-text }
 >
 > - Art der Kennzeichnungsnummer: Temporäre Fundnummer 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Art der weiteren Objektnummer
-parent: Weitere Objektnummern
+parent: Weitere Objektnummer
 nav_order: 1
 --- 
 
@@ -10,13 +10,12 @@ nav_order: 1
 Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation_metadataschema/1_section_overview/01_object_identification.html)
 
 ---
- 
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/LGPT6AC`](https://www.w3id.org/conservation/terms/metadata/LGPT6AC)
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/LGPT6AC](https://www.w3id.org/conservation/terms/metadata/LGPT6AC)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
-- Art der weiteren Objektnummer
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
+- Type der weiteren Objektnummer
 - Type of alternative object number
 
 ## Definition
@@ -63,7 +62,7 @@ Die Art der weiteren Objektnummer spezifiziert den Typ der im Feld „Weitere Ob
 > {: .label .label-text }
 >
 > - Weitere Objektnummer: 2001_3223
->    - Art der weiteren Objektnummer: alte Inventarnummer; URI:[`http://terminology.lido-schema.org/lido00188`](http://terminology.lido-schema.org/lido00188)
+>    - Art der weiteren Objektnummer: alte Inventarnummer; URI:[http://terminology.lido-schema.org/lido00188](http://terminology.lido-schema.org/lido00188)
 > {: .label .label-text }
 
 ---

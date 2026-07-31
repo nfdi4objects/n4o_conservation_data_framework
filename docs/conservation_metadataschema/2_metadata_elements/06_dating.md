@@ -13,13 +13,12 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/F9GB13`](https://www.w3id.org/conservation/terms/metadata/F9GB13)
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/F9GB13](https://www.w3id.org/conservation/terms/metadata/F9GB13)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
-- Datierung
+**Mögliche alternativen Feldbezeichnungen in Datenbank:**
 - Objektdatierung
 - Herstellungszeitraum
-- Herstellungszeitraum
+- Herstellungsdatum
 - zeitliche Einordnung
 - Entstehungszeit
 - Dating
@@ -66,7 +65,7 @@ Die Datierung erfasst die zeitliche Einordnung der Entstehung des Objekts. Je na
 > - Datierung: 1697 
 > {: .label .label-text }
 >
-> - zeitliche Einordnung: Urnenfelderzeit; URI:[`http://chronontology.dainst.org/period/xsq5dzQ1iPLL`](http://chronontology.dainst.org/period/xsq5dzQ1iPLL)
+> - zeitliche Einordnung: Urnenfelderzeit; URI: [http://chronontology.dainst.org/period/xsq5dzQ1iPLL](http://chronontology.dainst.org/period/xsq5dzQ1iPLL)
 > {: .label .label-text }
 >
 > - Herstellungsdatum: 1854-02-14 

@@ -15,7 +15,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
  **URI der Conservation Metadata Terminology:** 
 
-**Mögliche Feldbezeichnungen in Datenbank:**
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - 
 
 ## Definition

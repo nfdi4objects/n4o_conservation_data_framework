@@ -15,7 +15,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
  **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/F7D3DB)](https://www.w3id.org/conservation/terms/metadata/F7D3DB)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - Intenvarnummer
 - Objektnummer
 - Signatur

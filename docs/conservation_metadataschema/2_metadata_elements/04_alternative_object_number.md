@@ -13,10 +13,9 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/K343FVC`](https://www.w3id.org/conservation/terms/metadata/K343FVC)
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/K343FVC](https://www.w3id.org/conservation/terms/metadata/K343FVC)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
-- Weitere Objektnummer
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - Alternative Nummer
 - Alte Inventarnummer
 - Alternative object number

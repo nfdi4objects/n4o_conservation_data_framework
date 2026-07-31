@@ -12,9 +12,9 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 ---
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** [`https://www.w3id.org/conservation/terms/metadata/B5DD1A`](https://www.w3id.org/conservation/terms/metadata/B5DD1A)
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/B5DD1A](https://www.w3id.org/conservation/terms/metadata/B5DD1A)
 
-**Mögliche Feldbezeichnungen in Datenbank:**
+**Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - Objekttitel
 - Objektname
 - Objektansprache
