@@ -17,6 +17,18 @@ Ziel ist:
 ## Arbeitsprozess 
 Die Entwicklung des Frameworks erfolgt transparent und partizipativ innerhalb der Temporary Working Group (TWG) [*Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes*](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/) in kontinuierlicher Rückkoppelung mit der breiteren Community z.B. im Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/). 
 
+### Mitwirkende
+
+- Kristina Fischer, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025)
+- Nathaly Witt, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-1063-0727)
+- Lasse Mempel-Länger, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0001-5183-1635)
+- Gisela Gulbins, Reiss-Engelhorn-Museen (REM) / Verband der Restaurator:innen (VDR)
+- Gudrun Schwenk, Interessengemeinschaft für semantische Datenverarbeitung e. V. / SODa [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0002-3156-8339)
+- Eva Schoel, Restaurierungszentrum Düsseldorf (RED) 
+- Hannah Zettner, Restaurierungszentrum Düsseldorf (RED) 
+- Elena Gómez Sánchez, Deutsches Bergbau Museum Bochum (DBM) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2648-8510)
+- Sarah Thompson, Carl von Ossietzky Universität Oldenburg 
+
 Feedback, Anmerkungen, Veränderungsvorschläge, Fragen oder Mitgliedanfragen für die aktive Beteiligung in der TWG sind jederzeit herzlich willkommen und können per Mail an n4o_conservation_data_framework@listserv.dfn.de geschickt werden.
 
 ## Nutzung
