@@ -4,7 +4,7 @@ title: KuR-Metadatenschema
 nav_order: 2
 ---
 
-# Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS)
+# Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0
 Dieses Portal dokumentiert die Entwicklung eines gemeinsamen Metadatenschemas für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kulturgütern. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
 
 Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als **agile Referenzumgebung** ergänzend zu formalen Publikationen.
@@ -28,5 +28,5 @@ Die Entwicklung des Schemas erfolgt transparent und partizipativ innerhalb der T
 - Eva Schoel, Restaurierungszentrum Düsseldorf (RED) 
 - Hannah Zettner, Restaurierungszentrum Düsseldorf (RED) 
 - Elena Gómez Sánchez, Deutsches Bergbau Museum Bochum (DBM) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2648-8510)
-
+- Sarah Thompson, Carl von Ossietzky Universität Oldenburg 
 ---
