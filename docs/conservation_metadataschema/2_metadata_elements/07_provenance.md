@@ -74,13 +74,16 @@ Die Herkunft erfasst Informationen zur geografischen, kulturellen oder kontextue
 > {: .label .label-text }
 >
 > - Herkunft - Erwerb: Schenkung 1976 aus Sammlung Müller
+> {: .label .label-text }
 
 ---
 
 ## Hinweise zur Implementierung
 
 {: .note }
-> Das Element „Herkunft" wurde bewusst als generischer, fachübergreifender Oberbegriff gewählt und orientiert sich an der [DIN EN 16095:2012-10](https://dx.doi.org/10.31030/1872916). Diese Entscheidung folgt der übergeordneten Zielsetzung des Schemas, für unterschiedliche restauratorische Fachbereiche gleichermaßen anwendbar zu sein. Im archäologischen Kontext sind Angaben zu „Fundort" oder „kulturelle Zuordnung" zentral, während bei kulturhistorischen Objekten ein Element „Fundort" wenig sinnvoll ist, hier sind eher Werkstatt oder Stilkreis relevant. In der vorliegenden ersten Version des KuR-Schemas wird dieser Bereich daher bewusst offengehalten. Institutionen können für ihren jeweiligen Anwendungskontext selbst festlegen, welche spezifischen Herkunftsinformationen erfasst werden sollen, idealerweise unter Einbezug bereits bestehender fachlicher Konventionen/Standards zur Objekterfassung. Diese fachlichen Spezifizierungen können über eine „weite Entsprechung"-Relation (broad match) auf den generischen Begriff „Herkunft" der Conservation Metadata Terminology gemappt werden. Auf diese Weise bleiben die jeweiligen disziplinären Unterschiede in der Erfassungstiefe und -spezifik bewahrt, während das KuR-Schema als gemeinsamer Referenzpunkt fungiert.  
+> Das Element „Herkunft" wurde bewusst als generischer, fachübergreifender Oberbegriff gewählt und orientiert sich an der [DIN EN 16095:2012-10](https://dx.doi.org/10.31030/1872916). Diese Entscheidung folgt der übergeordneten Zielsetzung des Schemas, für unterschiedliche restauratorische Fachbereiche gleichermaßen anwendbar zu sein. Im archäologischen Kontext sind Angaben zu „Fundort" oder „kulturelle Zuordnung" zentral, während bei kulturhistorischen Objekten ein Element „Fundort" wenig sinnvoll ist, hier sind eher Werkstatt oder Stilkreis relevant. In der vorliegenden ersten Version des KuR-Schemas wird dieser Bereich daher bewusst offengehalten. 
+>
+>Institutionen können für ihren jeweiligen Anwendungskontext selbst festlegen, welche spezifischen Herkunftsinformationen erfasst werden sollen, idealerweise unter Einbezug bereits bestehender fachlicher Konventionen/Standards zur Objekterfassung. Diese fachlichen Spezifizierungen können über eine „weite Entsprechung"-Relation (broad match) auf den generischen Begriff „Herkunft" der Conservation Metadata Terminology gemappt werden. Auf diese Weise bleiben die jeweiligen disziplinären Unterschiede in der Erfassungstiefe und -spezifik bewahrt, während das KuR-Schema als gemeinsamer Referenzpunkt fungiert.  
 
 ---
 
