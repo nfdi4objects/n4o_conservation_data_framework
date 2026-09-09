@@ -29,6 +29,22 @@
   vertical-align: middle;
 }
 .label-required { background: #c0392b; }
-.label-conditional { background: #e67e22; }
+.label-conditional { background: #fcba80; }
 .label-recommended { background: #2980b9; }
 .label-optional { background: #7f8c8d; }
+
+/* Sidebar-Hintergrundfarbe */
+.theme-doc-sidebar-container {
+  background-color: #eeeae0; 
+}
+
+/* Logo in der Navbar größer machen (Standard: 2rem/32px) */
+.navbar__logo img {
+  height: 3rem; /* z.B. 48px statt 32px – hier den Wert ändern */
+}
+.navbar__logo {
+  height: 3rem;
+}
+:root {
+  --ifm-navbar-height: 4.5rem; /* Navbar wird etwas höher, damit das Logo nicht abgeschnitten wird */
+}
