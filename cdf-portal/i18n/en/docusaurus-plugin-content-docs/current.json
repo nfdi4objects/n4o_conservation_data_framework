@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.metadataschemaSidebar.category.KuR-Metadatenschema": {
+    "message": "CDF Metadata Schema (KuR-MDS)",
+    "description": "The label for category 'KuR-Metadatenschema' in sidebar 'metadataschemaSidebar'"
+  },
+  "sidebar.metadataschemaSidebar.category.Hintergrund und Konzeption": {
+    "message": "Background and Concept",
+    "description": "The label for category 'Hintergrund und Konzeption' in sidebar 'metadataschemaSidebar'"
+  },
+  "sidebar.metadataschemaSidebar.category.Sektionen": {
+    "message": "Sections",
+    "description": "The label for category 'Sektionen' in sidebar 'metadataschemaSidebar'"
+  },
+  "sidebar.metadataschemaSidebar.category.Metadatenelemente": {
+    "message": "Metadata Elements",
+    "description": "The label for category 'Metadatenelemente' in sidebar 'metadataschemaSidebar'"
+  }
+}

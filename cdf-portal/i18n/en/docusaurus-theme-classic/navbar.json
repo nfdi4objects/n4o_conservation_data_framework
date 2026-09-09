@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Conservation Data Framework",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "CDF Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.KuR-Metadatenschema": {
+    "message": "CDF Metadata Schema",
+    "description": "Navbar item with label KuR-Metadatenschema"
+  },
+  "item.label.KuR-Ontology": {
+    "message": "CDF Ontology",
+    "description": "Navbar item with label KuR-Ontology"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
