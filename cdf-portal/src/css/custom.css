@@ -37,6 +37,9 @@
 .theme-doc-sidebar-container {
   background-color: #eeeae0; 
 }
+[data-theme='dark'] .theme-doc-sidebar-container {
+  background-color: #13294b; /* oder ein eigener dunkler Farbton */
+}
 
 /* Logo in der Navbar größer machen (Standard: 2rem/32px) */
 .navbar__logo img {
@@ -47,4 +50,9 @@
 }
 :root {
   --ifm-navbar-height: 4.5rem; /* Navbar wird etwas höher, damit das Logo nicht abgeschnitten wird */
+}
+
+:root {
+  --ifm-navbar-background-color: #13294b;  /* Hintergrundfarbe des Headers */
+  --ifm-navbar-link-color: #fcfcfc;        /* Textfarbe: Titel + Menüpunkte */
 }

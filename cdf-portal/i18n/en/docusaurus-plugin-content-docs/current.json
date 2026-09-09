@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.metadataschemaSidebar.category.KuR-Metadatenschema": {
-    "message": "CDF Metadata Schema (KuR-MDS)",
+    "message": "CDF Metadata Schema",
     "description": "The label for category 'KuR-Metadatenschema' in sidebar 'metadataschemaSidebar'"
   },
   "sidebar.metadataschemaSidebar.category.Hintergrund und Konzeption": {
