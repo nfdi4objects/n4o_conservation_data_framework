@@ -1,0 +1,34 @@
+/**
+ * N4O-Branding, übernommen aus dem bisherigen Just-the-Docs-Farbschema
+ * (docs/_sass/color_schemes/n4o.scss).
+ */
+:root {
+  --ifm-color-primary: #0084ff;
+  --ifm-color-primary-dark: #0077e6;
+  --ifm-color-primary-darker: #0070d9;
+  --ifm-color-primary-darkest: #005cb3;
+  --ifm-color-primary-light: #1a91ff;
+  --ifm-color-primary-lighter: #2698ff;
+  --ifm-color-primary-lightest: #4dabff;
+  --ifm-heading-color: #13294b;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4dabff;
+}
+
+/* Verpflichtungsgrad-Labels bei den Metadatenelementen/Sektionen,
+   übernommen 1:1 aus dem bisherigen Just-the-Docs-Markup. */
+.label {
+  display: inline-block;
+  padding: 0.1em 0.6em;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-weight: 600;
+  color: white;
+  vertical-align: middle;
+}
+.label-required { background: #c0392b; }
+.label-conditional { background: #e67e22; }
+.label-recommended { background: #2980b9; }
+.label-optional { background: #7f8c8d; }
