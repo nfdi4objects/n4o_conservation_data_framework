@@ -8,12 +8,12 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.KuR-Metadatenschema": {
-    "message": "CDF Metadata Schema",
-    "description": "Navbar item with label KuR-Metadatenschema"
+    "message": "Conservation Metadata Schema",
+    "description": "Navbar item with label Conservation Metadata Schema"
   },
   "item.label.KuR-Ontology": {
-    "message": "CDF Ontology",
-    "description": "Navbar item with label KuR-Ontology"
+    "message": "Conservation Ontology",
+    "description": "Navbar item with label Conservation Ontology"
   },
   "item.label.GitHub": {
     "message": "GitHub",

@@ -1,5 +1,5 @@
 ---
-title: KuR-Metadatenschema
+title: Conservation Metadata Schema
 sidebar_position: 2
 ---
 # Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0

@@ -12,9 +12,9 @@ This page has not been translated into English yet. The German original is shown
 
 Dieses Online-Portal dient als Nachschlagewerk für die im Conservation Data Framework (kurz: CDF) enthaltenen konzeptionellen Modelle. Das Conservation Data Framework ist ein community-getragenes, offenes Referenzrahmenwerk für die standardisierte, semantisch anschlussfähige Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. 
 Es setzt sich zusammen aus: 
-- dem gemeinsam entwickeltem, kuratierten [**Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaterialien (kurz: KuR-MDS)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/)
+- dem gemeinsam entwickeltem, kuratierten [**Conservation Metadata Schema**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/)
 - der dazugehörigen [**Conservation Metadata Terminology**](https://www.w3id.org/conservation/terms/metadata)
-- einer [**Anwendungsontologie für Prozesse der Konservierung-Restaurierung (kurz: KuR-Ontology)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-ontology/)
+- einer [**Domain-Ontology for Conservation and Restoration (short: Conservation Ontology)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-ontology/)
 
 Das CDF-Online-Portal dient, ergänzend zu formalen Publikationen, als agile Referenzumgebung und Nachschlagewerk für die jeweils aktuellen, veröffentlichten Versionen der drei Konzepte.
 

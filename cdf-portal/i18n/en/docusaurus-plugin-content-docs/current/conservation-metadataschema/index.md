@@ -1,5 +1,5 @@
 ---
-title: KuR-Metadatenschema
+title: Conservation Metadata Schema
 sidebar_position: 2
 ---
 

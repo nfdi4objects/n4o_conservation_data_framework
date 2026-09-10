@@ -61,11 +61,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'metadataschemaSidebar',
             position: 'left',
-            label: 'KuR-Metadatenschema',
+            label: 'Conservation Metadata Schema',
           },
           {
             to: '/conservation-ontology',
-            label: 'KuR-Ontology',
+            label: 'Conservation Ontology',
             position: 'left',
           },
           {
