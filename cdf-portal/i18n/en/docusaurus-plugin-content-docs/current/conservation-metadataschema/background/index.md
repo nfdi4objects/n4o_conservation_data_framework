@@ -3,33 +3,30 @@ title: Hintergrund und Konzeption
 sidebar_position: 1
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
+# Background and Concept
+This section contains further information on the functional and conceptual framework of the KuR metadata schema.
 
-# Hintergrund und Konzeption
-Dieser Bereich enthält weiterführende Informationen zum fachlichen und konzeptionellen Rahmen des KuR-Metadatenschemas.
-
-Während die Abschnitte **Sektionen** und **Metadatanelemente** die praktische Struktur des Schemas darstellen, dokumentiert dieser Bereich dessen konzeptionellen Rahmen. Er ergänzt die strukturierte Darstellung des Schemas um Hintergrundwissen zur Zielsetzung, zur Entwicklung und zu den zugrunde liegenden Modellierungsentscheidungen. Für die reine Anwendung des Schemas ist die Lektüre dieses Abschnitts nicht zwingend erforderlich.
+Whilst the chapters **Sections** and **Metadata Elements** set out the practical structure of the schema, this section documents its conceptual framework. It supplements the structured presentation of the schema with background information on its objectives, the development process and the underlying modelling decisions. Reading this section is not strictly necessary for the practical application of the schema.
 
 ---
 
-## Inhalte dieses Bereichs
+## Contents of this section
 
-### [Zielsetzung und Motivation](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/introduction)  
-Darstellung der fachlichen Ausgangssituation, der identifizierten Bedarfe in der restauratorischen Dokumentation sowie der Ziele, die mit dem Metadatenschema verfolgt werden.
+### [Objectives and Motivation](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/introduction)  
+A description of the current situation, the identified needs in the field of conservation documentation, and the objectives to be achieved through the metadata schema.
 
-### [Methodik und Entwicklungsprozess](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/development-process) 
-Überblick über die Entstehung des Schemas, berücksichtigte fachliche Bezugssysteme sowie den iterativen Entwicklungsprozess unter Einbindung der Community.
+### [Methodology and development process](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/development-process) 
+An overview of the schema’s development, the specialised reference frameworks taken into account, and the iterative development process involving the community.
 
-### [Basiswissen Metadaten](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/metadata-basics)  
-Kompakte Einführung in zentrale Begriffe wie:
-- Metadaten  
-- Metadatenschema  
-- kontrollierte Vokabulare  
-- konzeptionelle Modellierung  
+### [Basic Knowledge of Metadata](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/metadata-basics)  
+A concise introduction to key concepts such as:
+- FAIR principles
+- metadata
+- metadata schema
+- controlled vocabularies
+- semantic modelling
 
-Dieser Abschnitt dient der gemeinsamen begrifflichen Grundlage und erleichtert das Verständnis der strukturellen Entscheidungen im Schema.
+This chapter provides a common conceptual framework and helps to clarify the structural choices made in the schema.
 
 ---
 

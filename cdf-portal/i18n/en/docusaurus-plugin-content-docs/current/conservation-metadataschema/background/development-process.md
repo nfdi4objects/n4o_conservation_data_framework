@@ -3,8 +3,8 @@ title: Entwicklung und Methodik
 sidebar_position: 2
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution Work-in-progress
+This page has not been build.
 :::
 
-# Entwicklung und Methodik
+# Development and Methodology

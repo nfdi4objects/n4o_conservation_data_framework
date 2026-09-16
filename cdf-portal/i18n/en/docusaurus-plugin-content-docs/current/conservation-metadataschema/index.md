@@ -3,25 +3,21 @@ title: Conservation Metadata Schema
 sidebar_position: 2
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
+# Conservation Metadata Schema, version 1.0
+This portal documents the development of a community-driven metadata schema for describing information relating to the conservation and restoration of cultural heritage objects. The aim is to improve the long-term documentation, interchangeability and re-use of such data in research, museum practice and heritage conservation.
 
-# Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0
-Dieses Portal dokumentiert die Entwicklung eines gemeinsamen Metadatenschemas für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kulturgütern. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
-
-Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als **agile Referenzumgebung** ergänzend zu formalen Publikationen.
+The version published here is subject to ongoing development and serves as an **agile reference environment** to complement formal publications.
 
 
-## Arbeitsprozess 
-Die Entwicklung des Schemas erfolgt transparent und partizipativ innerhalb der Temporary Working Group (TWG) [*Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes*](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/). Gleichzeitig erfolgt in iterativen Feedbackschleifen eine Einbeziehung der breiteren Community z.B. im Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/) oder auf Veranstaltungen. Interessierte und motivierte Personen sind jederzeit für die aktive Beteiligung an der Weiterentwicklung des Schemas in der TWG herzlich willkommen! 
+## Work process  
+The schema is beeing developed in a transparent and participatory manner within the [Temporary Working Group (TWG) Community standards for controlled vocabularies and exchange formats in the field of cultural heritage conservation](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/). At the same time, the wider community is involved through iterative feedback loops, for example in the Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/) or at events. Interested and motivated colleagues are always welcome to play an active part in the further development of the scheme within the TWG!
 
-Öffentliche Arbeitsdokumentationen, wie die Diskussionsprotokolle der TWG sind auf OSF einsehbar. 
+Public working documents, such as the minutes of the TWG’s discussions, are available on OSF.
 
-👉 Open Science Framework Projektseite:
+👉 Open Science Framework project page:
 [https://osf.io/h9djr/wiki?wiki=edr76 ](https://osf.io/h9djr/overview)
 
-### Mitwirkende
+### Contributors
 
 - Kristina Fischer, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0005-3991-1025)
 - Nathaly Witt, Leibniz-Zentrum für Archäologie (LEIZA) / NFDI4Objects, [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0003-1063-0727)

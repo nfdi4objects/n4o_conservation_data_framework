@@ -7,14 +7,14 @@ slug: /
 
 Dieses Online-Portal dient als Nachschlagewerk für die im Conservation Data Framework (kurz: CDF) enthaltenen konzeptionellen Modelle. Das Conservation Data Framework ist ein community-getragenes, offenes Referenzrahmenwerk für die standardisierte, semantisch anschlussfähige Datenerfassung und -kuratierung konservatorisch-restauratorischer Daten. 
 Es setzt sich zusammen aus: 
-- dem gemeinsam entwickeltem, kuratierten [**Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: Conservation Metata Schema oder KuR-MDS)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/)
+- dem gemeinsam entwickeltem, kuratierten [**Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: Conservation Metadata Schema oder KuR-MDS)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/)
 - der dazugehörigen [**Conservation Metadata Terminology**](https://www.w3id.org/conservation/terms/metadata)
 - einer [**Anwendungsontologie für Prozesse der Konservierung-Restaurierung (kurz: Conservation Ontology)**](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-ontology/)
 
 Das CDF-Online-Portal dient, ergänzend zu formalen Publikationen, als agile Referenzumgebung und Nachschlagewerk für die jeweils aktuellen, veröffentlichten Versionen der drei Konzepte.
 
 ## Hintergrund & Zielsetzung
-Die Dokumentation konservatorischer Maßnahmen ist essenziell für die langfristige Erhaltung und wissenschaftliche Erschließung von Kulturgütern. Gleichzeitig fehlt es bislang an fachlich breit abgestimmten, maschinenlesbaren Dokumentationsstandards. Innerhalb von [NFDI4Objects](https://www.nfdi4objects.net/) wurde im Rahmen der [Task Area 4 "Protecting"](https://www.nfdi4objects.net/portal/tas/ta4/) diese Lücke durch die Konzeption des Conservation Data Frameworks adressiert. Das Framework bieten Nutzenden eine Grundlage für die semantische Modellierung restauratorischer Dokumentationen, von der praktischen Erfassung bis zur interoperablen Weiterverarbeitung in Forschungs-, Sammlungs- und Langzeitarchivierungskontexten. Als offenes, versioniertes und community-basiert gepflegtes Framework senkt CDF die Einstiegshürde für standardkonforme Dokumentation und unterstützt Fachwissenschaftler:innen dabei, ihre Daten langfristig nutzbar, interoperable und zitierfähig zu machen.
+Die Dokumentation konservatorisch-restauratorischer Maßnahmen ist essenziell für die langfristige Erhaltung und wissenschaftliche Erschließung von Kulturgütern. Gleichzeitig fehlt es bislang an fachlich breit abgestimmten, maschinenlesbaren Dokumentationsstandards. Innerhalb von [NFDI4Objects](https://www.nfdi4objects.net/) wurde im Rahmen der [Task Area 4 "Protecting"](https://www.nfdi4objects.net/portal/tas/ta4/) diese Lücke durch die Konzeption des Conservation Data Frameworks adressiert. Das Framework bietet Nutzenden eine Grundlage für die semantische Modellierung restauratorischer Dokumentationen, von der praktischen Erfassung bis zur interoperablen Weiterverarbeitung in Forschungs-, Sammlungs- und Langzeitarchivierungskontexten. Als offenes, versioniertes und community-basiert gepflegtes Framework senkt CDF die Einstiegshürde für standardkonforme Dokumentation und unterstützt Fachwissenschaftler:innen dabei, ihre Daten langfristig nutzbar, interoperabel und zitierfähig zu machen.
 
 **Ziel ist:**
 
@@ -41,7 +41,7 @@ Die Entwicklung des Frameworks erfolgt transparent und partizipativ innerhalb de
 Feedback, Anmerkungen, Veränderungsvorschläge, Fragen oder Mitgliedanfragen für die aktive Beteiligung in der TWG sind jederzeit herzlich willkommen und können per Mail an [n4o_conservation_data_framework@listserv.dfn.de](n4o_conservation_data_framework@listserv.dfn.de) geschickt werden.
 
 ## Nutzung
-Sämtliche Inhalte des Conservation Data Frameworks stehen unter Creative Commons Namensnennung 4.0 International (CC BY 4.0) Lizenz zur freien Nachnutzung zur Verfügung.
+Sämtliche Inhalte des Conservation Data Frameworks stehen, sofern nicht anders angegeben, unter Creative Commons Namensnennung 4.0 International (CC BY 4.0) Lizenz zur freien Nachnutzung zur Verfügung.
 
 ## Förderung
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte. Förderkennung: [501836407](https://gepris.dfg.de/gepris/projekt/501836407) 
