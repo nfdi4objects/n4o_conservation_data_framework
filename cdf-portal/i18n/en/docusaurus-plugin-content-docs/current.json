@@ -19,18 +19,6 @@
     "message": "Metadata Elements",
     "description": "The label for category 'Metadatenelemente' in sidebar 'metadataschemaSidebar'"
   },
-  "sidebar.metadataschemaSidebar.category.Zielsetzung und Motivation": {
-    "message": "Objectives and Motivation",
-    "description": "The label for category 'Zielsetzung und Motivation' in sidebar 'metadataschemaSidebar'"
-  },
-  "sidebar.metadataschemaSidebar.category.Entwicklung und Methodik": {
-    "message": "Development and Methodology",
-    "description": "The label for category 'Entwicklung und Methodik' in sidebar 'metadataschemaSidebar'"
-  },
-  "sidebar.metadataschemaSidebar.category.Basiswissen Metadaten": {
-    "message": "Basic Knowledge of Metadata",
-    "description": "The label for category 'Basiswissen Metadaten' in sidebar 'metadataschemaSidebar'"
-  },
   "sidebar.metadataschemaSidebar.category.Kur-Ontology": {
     "message": "Conservation Ontology",
     "description": "The label for category 'KuR-Ontology' in sidebar 'metadataschemaSidebar'"

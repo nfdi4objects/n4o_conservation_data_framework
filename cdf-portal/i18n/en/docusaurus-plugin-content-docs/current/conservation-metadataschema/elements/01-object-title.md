@@ -1,5 +1,5 @@
 ---
-title: Objektbenennung
+title: Objekt title
 sidebar_position: 1
 ---
 
@@ -7,7 +7,6 @@ sidebar_position: 1
 This page has not been translated into English yet. The German original is shown below.
 :::
 
- 
 
 # Objektbenennung
 

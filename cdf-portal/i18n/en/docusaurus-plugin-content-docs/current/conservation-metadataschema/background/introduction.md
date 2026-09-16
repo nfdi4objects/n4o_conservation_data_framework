@@ -1,5 +1,5 @@
 ---
-title: Zielsetzung und Motivation
+title: Objectives and Motivation
 sidebar_position: 1
 ---
 

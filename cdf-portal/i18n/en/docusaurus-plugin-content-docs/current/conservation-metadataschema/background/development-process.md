@@ -1,5 +1,5 @@
 ---
-title: Entwicklung und Methodik
+title: Development and Methodology
 sidebar_position: 2
 ---
 
