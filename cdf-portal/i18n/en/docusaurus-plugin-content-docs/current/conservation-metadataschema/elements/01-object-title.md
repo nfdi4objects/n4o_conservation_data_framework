@@ -36,6 +36,7 @@ The name may consist of an official title or a combination of the object type an
 
 <span class="label label-required">Mandatory</span>
 
+
 Labeling objects is essential for ensuring that the documentation is professional comprehensible and provides the necessary context for all those involved. Without it, even if an inventory number is available, the object in question remains difficult to contextualise in terms of its content for the purposes of human communication.
 :::
  
@@ -44,6 +45,7 @@ Labeling objects is essential for ensuring that the documentation is professiona
 :::info[Field value]
 
 <span class="label label-text">Text</span>
+
 
 The element should be created as a free-text field to allow sufficient flexibility for the subject-specific description of the relevant object.
 :::
@@ -54,6 +56,7 @@ The element should be created as a free-text field to allow sufficient flexibili
 
 <span class="label label-text">Yes</span>
 
+
 The field can be repeated so that multiple descriptions or additional sub-descriptions can be entered. 
 :::
 
@@ -61,9 +64,9 @@ The field can be repeated so that multiple descriptions or additional sub-descri
 
 :::tip[Example]
 
-- Object title: The Scream
+- **Object title:** The Scream
  
-- Object title: Portrait of Duke Johann III
+- **Object title:** Portrait of Duke Johann III
 :::
 
 ---
