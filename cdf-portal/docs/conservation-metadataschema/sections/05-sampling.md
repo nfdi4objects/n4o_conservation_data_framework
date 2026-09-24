@@ -1,12 +1,12 @@
 ---
-title: Probenahme
+title: Probennahme
 sidebar_position: 5
 ---
-# Probenahme <span class="label label-conditional">Bedingte Pflicht</span>
+# Probennahme <span class="label label-conditional">Bedingte Pflicht</span>
 
 ## Zweck und Funktion der Sektion
 
-Die Sektion Probenahme dokumentiert die Entnahme von Proben aus dem Objekt oder dessen Umfeld. Proben können für geplante (naturwissenschaftliche) Untersuchung (z. B. Materialbestimmung, Altersdatierung) oder auch präventiv, um Material vor irreversiblen Behandlungsmaßnahmen zu sichern, entnommen werden. Die Sektion ist ereignisbasiert modelliert, d.h. sie erfasst jede Probennahme als eigenständiges Event mit zugehörigen Kontextinformationen (Wer? Wann? Wo? Wie?). Mehrere durchgeführte Probennahmen können durch die Wiederholung der gesamten Sektion chronologisch dokumentiert werden.
+Die Sektion Probennahme dokumentiert die Entnahme von Proben aus dem Objekt oder dessen Umfeld. Proben können für geplante (naturwissenschaftliche) Untersuchung (z. B. Materialbestimmung, Altersdatierung) oder auch präventiv, um Material vor irreversiblen Behandlungsmaßnahmen zu sichern, entnommen werden. Die Sektion ist ereignisbasiert modelliert, d.h. sie erfasst jede Probennahme als eigenständiges Event mit zugehörigen Kontextinformationen (Wer? Wann? Wo? Wie?). Mehrere durchgeführte Probennahmen können durch die Wiederholung der gesamten Sektion chronologisch dokumentiert werden.
 
 Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Proben entnommen wurden. Die Dokumentation von Probennahmen ist wichtig zur Einordnung von Spuren oder Veränderungen am Objekt, die durch die Probenentnahme entstanden sind, sowie für die Nachvollziehbarkeit von Untersuchungsergebnissen. 
 

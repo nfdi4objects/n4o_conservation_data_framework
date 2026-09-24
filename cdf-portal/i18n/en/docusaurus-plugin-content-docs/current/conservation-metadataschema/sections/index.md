@@ -1,5 +1,5 @@
 ---
-title: Sektionen
+title: Sections
 sidebar_position: 2
 ---
 
@@ -7,12 +7,12 @@ sidebar_position: 2
 This page has not been translated into English yet. The German original is shown below.
 :::
 
-# Die thematischen Sektionen des KuR-Metadatenschemas
+# The thematic sections of the Conservation Metadata Schema
 
-Das KuR-Metadatenschema gliedert sich in **zehn thematische Sektionen**, die verschiedene Prozesse im Umgang mit Kunst- und Kulturgut im Kontext konservatorisch-restauratorischer Arbeiten widerspiegeln.
+The Conservation Metadata Schema (Conservation MDS) is divided into **ten thematic sections**, which reflect various processes involved in handling art and cultural heritage in the context of conservation and restoration work.
 
-Ein zentrales Gestaltungsprinzip des KuR-MDS ist seine **modulare Struktur**. Nicht jede Restaurierungsdokumentation erfordert immer alle Sektionen, da nicht alle konservatorisch-restauratorischen Arbeiten dieselben Handlungen umfassen. Diesem Gedanken folgend sind die Sektionen in unterschiedliche **Verpflichtungsgrade** unterteilt. Pflichtsektionen sind bei jeder Restaurierungsdokumentation auszufüllen und sichern so einen nachvollziehbaren Minimaldatensatz. Bedingt verpflichtende und empfohlene Sektionen werden hingegen erst dann relevant, wenn entsprechende Handlungen tatsächlich Teil der zu dokumentierenden restauratorischen Arbeit sind. Wurden beispielsweise keine Untersuchungen durchgeführt, existieren logischerweise auch keine zu dokumentierenden Informationen und die bedingt verpflichtende Sektion "Untersuchung" entfällt vollständig. Dasselbe Prinzip wiederholt sich auf der Ebene der Metadatenelemente. Jede Sektion bündelt ein Set zusammengehöriger Elemente, die ihrerseits in Pflicht, bedingt verpflichtend, empfohlen und optional gestaffelt sind. Pflichtelemente sichern die Mindestinformationen, während optionale Elemente erste Beispiele für eine fachspezifische Erweiterung aufzeigen. Das Schema versteht sich nicht als abgeschlossenes, starres System, sondern als erweiterbarer Rahmen. Institutionen und Fachbereiche können und sollen das Schema um zusätzliche, für ihre spezifischen Bedürfnisse relevante Elemente ergänzen, solange die durch die Pflichtelemente definierten Minimalangaben enthalten bleiben. 
+A key design principle of the  Conservation MDS is its **modular structure**. Not every conservation record requires all sections, as not all conservation and restoration work involves the same procedures. In line with this principle, the sections are divided into different **levels of obligation**. Mandatory sections must be completed for every conservation documentation, thereby ensuring a traceable minimum data set. Conditional and recommended sections, on the other hand, only become relevant if the corresponding procedures are actually part of the conservation work to be documented. If, for example, no investigations were carried out, there is logically no information to be documented, and the conditionally mandatory ‘Investigation’ section is omitted entirely. The same principle applies at the level of metadata elements. Each section groups together a set of related elements, which are in turn categorised as mandatory, conditional, recommended and optional. Mandatory elements ensure the minimum information is provided, whilst optional elements provide initial examples of subject-specific extensions. The schema is not intended to be a closed, rigid system, but rather an expandable framework. Institutions and academic departments can and should supplement the schema with additional elements relevant to their specific needs, provided that the minimum information defined by the mandatory elements is retained.
 
-Auf diese Weise lässt sich das Schema wie ein Baukasten je nach Anwendungsfall zusammenstellen und erweitern. Diese Flexibilität ermöglicht es, sowohl den gemeinsamen Nenner für übergreifende Vergleichbarkeit und Nachnutzbarkeit zu sichern, als auch die notwendige fachliche Spezifikation und Differenzierung zu ermöglichen. Das KuR-MDS bietet somit einen Orientierungsrahmen für eine strukturierte Erfassung und Beschreibung der unterschiedlichen Arbeitsprozesse und Ergebnisse. 
+In this way, the schema can be assembled and expanded like a modular system, depending on the specific application. This flexibility makes it possible both to ensure a common basis for cross-cutting comparability and reusability, and to allow for the necessary subject-specific specification and differentiation. The Conservation MDS thus provides a guiding framework for the structured recording and description of the various work processes and outcomes.
 
-## Übersicht der Sektionen
+

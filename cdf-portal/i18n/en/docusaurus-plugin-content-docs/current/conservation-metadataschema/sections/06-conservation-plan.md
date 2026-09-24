@@ -1,53 +1,53 @@
 ---
-title: Erhaltungskonzept
+title: Conservation concept
 sidebar_position: 6
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
 
-# Erhaltungskonzept <span class="label label-required">Pflicht</span>
+# Conservation concept <span class="label label-required">Mandatory</span>
 
-## Zweck und Funktion der Sektion
+## Purpose and function of the section
 
-Die Sektion Erhaltungskonzept bildet das Kernstück der Restaurierungsdokumentation. Sie erfasst die konservatorisch-restauratorischen Überlegungen, Ziele und durchgeführten Maßnahmen zur Erhaltung oder Rekonstruktion eines Objektes. Der Begriff “Erhaltungskonzept” fasst dabei sowohl rein **konservatorische Eingriffe** (Sicherung, Stabilisierung, etc.) als auch **restauratorische Maßnahmen** (Wiederherstellung/ Rekonstruktion) unter einem neutralen Oberbegriff zusammen.
+The ‘Conservation Concept’ section forms the core of the conservation documentation. It sets out the conservation and restoration considerations, objectives and measures carried out to preserve or reconstruct an object. The term ‘conservation concept’ encompasses both purely **conservation interventions** (securing, stabilisation, etc.) and **restoration measures** (reconstruction) under a umbrella term.
 
-Die Sektion spiegelt dabei zwei Phasen der realen Arbeit wieder: die **Planungsphase**, mit Anlass und Ziel (die auch dokumentiert werden können, wenn noch keine konkrete Maßnahme durchgeführt worden ist) sowie die Durchführungsphase, die als ereignisbasierte Modellierung Details zur Ausführung (Wer?, Wo?, Wann?, Welche Methodik, Material und Werkzeuge?) der Maßnahme(n) enthält. Auf diese Weise entsteht eine vollständige Dokumentation des gesamten Erhaltungsprozesses, von der Entscheidungsfindung bis zur praktischen Umsetzung. 
+This section reflects two phases of the actual work: the **planning phase**, including the rationale and objective (which can also be documented even if no specific measures have yet been carried out), and the implementation phase, which, as event-based modelling, contains details on the execution (who?, where?, when?, what methodology, materials and tools?) of the measure(s). This results in a complete record of the entire conservation process, from decision-making through to practical implementation.
 
 ---
 
-## Übersicht der enthaltenen Metadatenelemente
+## Overview of the metadata elements included
 
-| Element | Verpflichtungsgrad | URI |
+| Element | Level of obligation | URI |
 |:--------|:-------------------|:----|
-| [Anlass der Erhaltungsmaßnahme]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/C6A532`](https://www.w3id.org/conservation/terms/metadata/C6A532)  |
-| [konservatorische Zielsetzung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/FGF575`](https://www.w3id.org/conservation/terms/metadata/FGF575)  |
-| [Erhaltungsmaßnahme]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/DA9CGG`](https://www.w3id.org/conservation/terms/metadata/DA9CGG)  |
-| ↳ [Zuständige Restaurierungseinrichtung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/GF41DG`](https://www.w3id.org/conservation/terms/metadata/GF41DG)  |
-| ↳ [Maßnahmenkennung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/AF1F5C`](https://www.w3id.org/conservation/terms/metadata/AF1F5C)  |
-| ↳ [Zuständige Person (Erhaltungsmaßnahme)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/C79561`](https://www.w3id.org/conservation/terms/metadata/C79561)  |
-| ↳ [Beginn der Maßnahme]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CDD613`](https://www.w3id.org/conservation/terms/metadata/CDD613)  |
-| ↳ [Ende der Maßnahme]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CDF685`](https://www.w3id.org/conservation/terms/metadata/CDF685)  |
-| ↳ [Zeitaufwand]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/G814D2`](https://www.w3id.org/conservation/terms/metadata/G814D2)  |
-| ↳ [Eingriff]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A13CD1`](https://www.w3id.org/conservation/terms/metadata/A13CD1)  |
-| &nbsp; &nbsp; ↳ [Verwendetes Material (Eingriff)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CGC619`](https://www.w3id.org/conservation/terms/metadata/CGC619)  |
-| &nbsp; &nbsp; ↳ [Werkzeug]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/F87124`](https://www.w3id.org/conservation/terms/metadata/F87124)  |
+| [Reason for conservation intervention]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/C6A532`](https://www.w3id.org/conservation/terms/metadata/C6A532)  |
+| [Conservation objective]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/FGF575`](https://www.w3id.org/conservation/terms/metadata/FGF575)  |
+| [Intervention]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/DA9CGG`](https://www.w3id.org/conservation/terms/metadata/DA9CGG)  |
+| ↳ [Responsible conservation facility]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/GF41DG`](https://www.w3id.org/conservation/terms/metadata/GF41DG)  |
+| ↳ [Intervention identifier]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/AF1F5C`](https://www.w3id.org/conservation/terms/metadata/AF1F5C)  |
+| ↳ [Responsible person (conservation intervention)]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/C79561`](https://www.w3id.org/conservation/terms/metadata/C79561)  |
+| ↳ [Start of intervention]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CDD613`](https://www.w3id.org/conservation/terms/metadata/CDD613)  |
+| ↳ [End of intervention]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CDF685`](https://www.w3id.org/conservation/terms/metadata/CDF685)  |
+| ↳ [Time required]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/G814D2`](https://www.w3id.org/conservation/terms/metadata/G814D2)  |
+| ↳ [Treatment]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/A13CD1`](https://www.w3id.org/conservation/terms/metadata/A13CD1)  |
+| &nbsp; &nbsp; ↳ [Used material (conservation intervention)]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CGC619`](https://www.w3id.org/conservation/terms/metadata/CGC619)  |
+| &nbsp; &nbsp; ↳ [Tool]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/F87124`](https://www.w3id.org/conservation/terms/metadata/F87124)  |
 
-*Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
-
---- 
-
-## Hinweise zur Implementierung
+*Further information on the individual elements can be found on the relevant subpages.*
 
 --- 
 
-## Entsprechungen in anderen Schemata
+## Implementation notes
 
-| Schema | Entsprechende Einheit | URI |
+--- 
+
+## Equivalents in other schemas
+
+| Schema | Corresponding unit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
 |[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 |[LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
-*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
+*Detailed mappings at element level can be found on the pages for each individual metadata element.* 

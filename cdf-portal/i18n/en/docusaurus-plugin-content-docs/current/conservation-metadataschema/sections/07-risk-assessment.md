@@ -1,49 +1,55 @@
 ---
-title: Gefährdungsbewertung
+title: Risk assessment
 sidebar_position: 7
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
 
-# Gefährdungsbewertung <span class="label label-conditional">Bedingte Pflicht</span>
+# Risk assessment <span class="label label-conditional">Conditional</span>
 
-## Zweck und Funktion der Sektion
+## Purpose and function of the section
 
-Die Sektion Gefährdungsbewertung dokumentiert potenzielle Gefährdungen, die von einem Objekt ausgehen. Dies können zum Beispiel biologische Gefährdungen (Schimmel, Insektenbefall) oder chemische Kontaminationen (Schadstoffe, Säurefraß) sein. Die ereignisbasierte Modellierung erfasst jede durchgeführte Gefährdungsbewertung als eigenständiges Ereignis mit zugehörigen Kontextinformationen (Wer? Wann? Welche Gefährdung? Welche Maßnahmen?). Mehrere Gefährdungsbewertungen können durch Wiederholung der gesamten Sektion chronologisch dokumentiert werden, beispielsweise wenn sich die Situation ändert (z. B. nach Implementierung von Schutzmaßnahmen) oder wenn zu verschiedenen Zeitpunkten neue Gefährdungen identifiziert werden. Die Erfassung ermöglicht es, Gefährdungssituationen nachzuvollziehen und zu dokumentieren, wie damit umgegangen wurde. Dies kann wichtig für Handlungs- und Sicherheitsmaßnahmen sowie für die Kommunikation mit anderen Abteilungen/Einrichtungen, z.B. bei Leihgaben oder Transporten sein. 
+The ‘Risk Assessment‘ section documents potential hazards posed by an object. These may include, for example, biological hazards (mould, insect infestation) or chemical contamination (pollutants, acid corrosion). Event-based modelling records each risk assessment carried out as a separate event with associated contextual information (Who? When? What hazard? What measures?). This recording enables risk situations to be traced and the way in which they were dealt with to be documented. This can be important for operational and safety measures, as well as for communication with other departments or institutions, e.g. in the case of loans or transport.
 
-Die Sektion ist **bedingt verpflichtend**: Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Gefährdungen identifiziert wurden. 
+This section is **Conditionally mandatory**: it forms part of the documentation only if hazards have actually been identified during conservation work.
 
 ---
 
-## Übersicht der enthaltenen Metadatenelemente
+## Overview of the metadata elements included
 
-| Element | Verpflichtungsgrad | URI |
+| Element | Level of obligation | URI |
 |:--------|:-------------------|:----|
-| [Datum der Gefährdungsbewertung]() | <span class="label label-required">Pflicht</span>  | [`https://www.w3id.org/conservation/terms/metadata/AFD671`](https://www.w3id.org/conservation/terms/metadata/AFD671)  |
-| [Zuständige Person (Gefährdungsbewertung)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CCCC7G`](https://www.w3id.org/conservation/terms/metadata/CCCC7G)  |
-| [Art der Gefährdung]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BGGCA4`](https://www.w3id.org/conservation/terms/metadata/BGGCA4)  |
-| [Gefährdungshinweise]() | <span class="label label-required">Pflicht</span>  | [`https://www.w3id.org/conservation/terms/metadata/FBFFF5`](https://www.w3id.org/conservation/terms/metadata/FBFFF5)  |
-| [Getroffene Schutzmaßnahme(n)]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BB78D2`](https://www.w3id.org/conservation/terms/metadata/BB78D2)  |
+| [Date of risk assessment]() | <span class="label label-required">Mandatory</span>  | [`https://www.w3id.org/conservation/terms/metadata/AFD671`](https://www.w3id.org/conservation/terms/metadata/AFD671)  |
+| [Responsible person (Risk assessment)]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CCCC7G`](https://www.w3id.org/conservation/terms/metadata/CCCC7G)  |
+| [Type of hazard]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/BGGCA4`](https://www.w3id.org/conservation/terms/metadata/BGGCA4)  |
+| [Hazard warnings]() | <span class="label label-required">Mandatory</span>  | [`https://www.w3id.org/conservation/terms/metadata/FBFFF5`](https://www.w3id.org/conservation/terms/metadata/FBFFF5)  |
+| [Proctective measure(s) taken]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/BB78D2`](https://www.w3id.org/conservation/terms/metadata/BB78D2)  |
  
 
-*Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
+*Further information on the individual elements can be found on the relevant subpages.
+
+*
 
 --- 
 
-## Hinweise zur Implementierung
+## Implementation notes
+
+:::tip
+Multiple risk assessments can be documented chronologically by repeating the entire section, for example if the situation changes (e.g. following the implementation of protective measures) or if new hazards are identified at different points in time. 
+:::
 
 --- 
 
-## Entsprechungen in anderen Schemata
+## Equivalents in other schemas
 
-| Schema | Entsprechende Einheit | URI |
+| Schema | Corresponding unit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
 |[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 |[LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
-*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
+*Detailed mappings at element level can be found on the pages for each individual metadata element.* 
 
 

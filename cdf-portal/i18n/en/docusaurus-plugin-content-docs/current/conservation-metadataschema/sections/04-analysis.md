@@ -1,58 +1,59 @@
 ---
-title: Untersuchung
+title: Examination
 sidebar_position: 4
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
 
-# Untersuchungen <span class="label label-conditional">Bedingte Pflicht</span>
+# Examination <span class="label label-conditional">Conditional</span>
 
-## Zweck und Funktion der Sektion
+## Purpose and function of the section
 
-Die Sektion Untersuchung dokumentiert systematische Untersuchungsverfahren, die im Zuge der Konservierung-Restaurierung durchgeführt wurden. Dies können optische Begutachtungen (z. B. unter dem Mikroskop) im Rahmen der Zustandserfassung oder komplexere naturwissenschaftliche Analysen (z. B. Röntgenfluoreszenzanalyse, Raman-Spektroskopie, Pigmentanalysen) sein. Die Sektion ist **ereignisbasiert** modelliert, d.h. sie erfasst jede durchgeführte Untersuchung als eigenständiges Event mit zugehörigen Kontextinformationen (Wer? Wann? Wie? Mit welchem Ergebnis?). Mehrere durchgeführte Untersuchungen können durch die Wiederholung der gesamten Sektion chronologisch dokumentiert werden. 
+The ‘Examination’ section documents the systematic examination procedures carried out as part of the conservation-restoration process. These may include visual assessments (e.g. under a microscope) as part of the condition assessment, or more complex scientific analyses (e.g. X-ray fluorescence analysis, Raman spectroscopy, pigment analyses). This section is modelled on an **event-based** approach, i.e. it records each examination carried out as a separate event with associated contextual information (Who? When? How? With what result?). Multiple examinations can be documented chronologically by repeating the entire section.
 
-Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Untersuchungen durchgeführt wurden. 
+This section is conditionally mandatory: it forms part of the documentation only if examinations were actually carried out as part of the conservation and restoration work.
 
 ---
 
-## Übersicht der enthaltenen Metadatenelemente
+## Overview of the metadata elements included
 
-| Element | Verpflichtungsgrad | URI |
+| Element | Level of obligation | URI |
 |:--------|:-------------------|:----|
-| [Untersuchungskennung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A2AG55`](https://www.w3id.org/conservation/terms/metadata/A2AG55) |
-| [Untersuchungsanlass]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CF3C22`](https://www.w3id.org/conservation/terms/metadata/CF3C22) | 
-| [Zuständige Person (Untersuchung)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G7F25F`](https://www.w3id.org/conservation/terms/metadata/G7F25F) | 
-| [Durchführende Einrichtung (Untersuchung)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/G76B7G`](https://www.w3id.org/conservation/terms/metadata/G76B7G ) |
-| [Untersuchungsart]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/F8F594`](https://www.w3id.org/conservation/terms/metadata/F8F594) |
-| [Lokalisation]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A15F83`](https://www.w3id.org/conservation/terms/metadata/A15F83) |
-| [Untersuchungsverfahren]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/DAB4B7`](https://www.w3id.org/conservation/terms/metadata/DAB4B7) |
-| &nbsp; &nbsp; ↳ [verwendetes Material (Untersuchung)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D1CFD5`](https://www.w3id.org/conservation/terms/metadata/D1CFD5) |
-| &nbsp; &nbsp; ↳ [Untersuchungsgerät]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D949G6`](https://www.w3id.org/conservation/terms/metadata/D949G6) |
-| [Untersuchungsergebnis]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BGG5A6`](https://www.w3id.org/conservation/terms/metadata/BGG5A6)  |
+| [Examination identifier]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/A2AG55`](https://www.w3id.org/conservation/terms/metadata/A2AG55) |
+| [Reason for examination]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CF3C22`](https://www.w3id.org/conservation/terms/metadata/CF3C22) | 
+| [Examining person]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/G7F25F`](https://www.w3id.org/conservation/terms/metadata/G7F25F) | 
+| [Examining institution]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/G76B7G`](https://www.w3id.org/conservation/terms/metadata/G76B7G ) |
+| [Type of examination]() | <span class="label label-optional">Optional</span> | [`https://www.w3id.org/conservation/terms/metadata/F8F594`](https://www.w3id.org/conservation/terms/metadata/F8F594) |
+| [Place of examination]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/A15F83`](https://www.w3id.org/conservation/terms/metadata/A15F83) |
+| [Examination procedure]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/DAB4B7`](https://www.w3id.org/conservation/terms/metadata/DAB4B7) |
+| &nbsp; &nbsp; ↳ [Material(s) used (examination)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/D1CFD5`](https://www.w3id.org/conservation/terms/metadata/D1CFD5) |
+| &nbsp; &nbsp; ↳ [Examination instrument]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/D949G6`](https://www.w3id.org/conservation/terms/metadata/D949G6) |
+| &nbsp; &nbsp; ↳ [Instrument settings (examination instrument)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/D6A11G`](https://www.w3id.org/conservation/terms/metadata/D6A11G) |
+| [Examination results]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/BGG5A6`](https://www.w3id.org/conservation/terms/metadata/BGG5A6)  |
 
 
-*Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
+*Further information on the individual elements can be found on the relevant subpages.*
 
 --- 
 
-## Hinweise zur Implementierung
+## Implementation notes
 
-:::note
-Die in dieser Sektion dokumentierten Untersuchungsergebnisse können inhaltliche Relevanz für andere Sektionen haben (z. B. genauere Angaben zur Materialität). Solche Erkenntnisse sollten in der jeweiligen Sektion als ergänzender Eintrag (Wiederholung des entpsrechenden Elements) festgehalten und mit dem zugrunde liegenden Untersuchungsergebnis verknüpft werden, um die Evidenzgrundlage nachvollziehbar zu machen (beispielsweise den Unterschied zwischen einer naturwissenschaftlich belegten und einer visuell-subjektiv eingeschätzten Materialbestimmung).
+:::tip
+The findings documented in this section may be relevant to other sections in terms of content (e.g. more detailed information on materiality). Such findings should be recorded in the relevant section as a supplementary entry (a repetition of the corresponding element) and linked to the underlying test result in order to ensure the evidence base is traceable (for example, the difference between a scientifically verified material identification and one assessed visually and subjectively).
 
-Nicht jede Untersuchung wird von der Restaurator:in, die den Dokumentationsdatensatz anlegt, selbst durchgeführt. Werden komplexere Untersuchungen (z.B. Röntgenfluoreszenzanalyse) in anderen Abteilungen oder externe Institutionen beauftragt, sollten die zentralen Ereignisinformationen, wer, wann, wo die Untersuchung durchgeführt hat und warum sie im Rahmen der konservatorischen Maßnahme erforderlich war, dennoch in der Restaurierungsdokumentation erfasst werden. Über das Element "durchführende Einrichtung" kann in einem solchen Anwendungsfall die externe Durchführung kenntlich gemacht werden. Für die Ergebnisse der Untersuchungen kann dann auf den zugehörigen Untersuchungsdatensatz referenziert werden. Um die zentralen Erkenntnisse der Untersuchung auch auf einen Blick in der Restaurierungsdokumentation einsehen zu können, bietet es sich an zusätzlich eine kurze textliche Zusammenfassung zu formulieren. 
+Not every examination is carried out by the conservator who creates the documentation record. If more complex analyses (e.g. X-ray fluorescence analysis) are commissioned from other departments or external institutions, the key details of the event – who carried out the analysis, when, where, and why it was necessary as part of the conservation work – should nevertheless be recorded in the conservation documentation. In such cases, the ‘Examining institution’ field can be used to indicate that the examination was carried out externally. The results of the examinations can then be referenced via the corresponding examination record. To ensure that the key findings of the examination can be viewed at a glance within the conservation documentation, it is advisable to also provide a brief textual summary.
 :::
 
 --- 
 
-## Entsprechungen in anderen Schemata
+## Equivalents in other schemas
 
-| Schema | Entsprechende Einheit | URI |
+| Schema | Corresponding unit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
 |[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 | [LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
-*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
+*Detailed mappings at element level can be found on the pages for each individual metadata element.* 

@@ -18,7 +18,7 @@
 }
 
 /* Verpflichtungsgrad-Labels bei den Metadatenelementen/Sektionen,
-   übernommen 1:1 aus dem bisherigen Just-the-Docs-Markup. */
+   */
 .label {
   display: inline-block;
   padding: 0.1em 0.6em;
@@ -32,6 +32,9 @@
 .label-conditional { background: #fcba80; }
 .label-recommended { background: #2980b9; }
 .label-optional { background: #7f8c8d; }
+.label-text { background:#7f8c8d;}
+
+
 
 /* Sidebar-Hintergrundfarbe */
 .theme-doc-sidebar-container {

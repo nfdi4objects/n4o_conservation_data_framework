@@ -1,51 +1,51 @@
 ---
-title: Probenahme
+title: Sampling
 sidebar_position: 5
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
 
-# Probenahme <span class="label label-conditional">Bedingte Pflicht</span>
+# Sampling <span class="label label-conditional">Conditional</span>
 
-## Zweck und Funktion der Sektion
+## Purpose and function of the section
 
-Die Sektion Probenahme dokumentiert die Entnahme von Proben aus dem Objekt oder dessen Umfeld. Proben können für geplante (naturwissenschaftliche) Untersuchung (z. B. Materialbestimmung, Altersdatierung) oder auch präventiv, um Material vor irreversiblen Behandlungsmaßnahmen zu sichern, entnommen werden. Die Sektion ist ereignisbasiert modelliert, d.h. sie erfasst jede Probennahme als eigenständiges Event mit zugehörigen Kontextinformationen (Wer? Wann? Wo? Wie?). Mehrere durchgeführte Probennahmen können durch die Wiederholung der gesamten Sektion chronologisch dokumentiert werden.
+The ‘Sampling’ section documents the collection of samples from the object or its surroundings. Samples may be taken for planned (scientific) analysis (e.g. material identification, dating) or as a preventative measure to safeguard material from irreversible treatment procedures. This section is modelled on an event-based approach, i.e. it records each sampling as a separate event with associated contextual information (Who? When? Where? How?). Multiple samplings can be documented chronologically by repeating the entire section.
 
-Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Proben entnommen wurden. Die Dokumentation von Probennahmen ist wichtig zur Einordnung von Spuren oder Veränderungen am Objekt, die durch die Probenentnahme entstanden sind, sowie für die Nachvollziehbarkeit von Untersuchungsergebnissen. 
+This section is conditionally mandatory: it forms part of the documentation only if samples were actually taken as part of the conservation and restoration work. The documentation of sampling is important for classifying marks or changes to the object resulting from the sampling, as well as for ensuring the traceability of analysis results.
 
 ---
 
-## Übersicht der enthaltenen Metadatenelemente
+## Overview of the metadata elements included
 
-| Element | Verpflichtungsgrad | URI |
+| Element | Level of obligation | URI |
 |:--------|:-------------------|:----|
-| [Probenkennung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CB7747`](https://www.w3id.org/conservation/terms/metadata/CB7747)  |
-| [Anlass der Probennahme]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/C33D85`](https://www.w3id.org/conservation/terms/metadata/C33D85)  |
-| [Datum der Probennahme]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D3AF3A`](https://www.w3id.org/conservation/terms/metadata/D3AF3A)  |
-| [Zuständige Person (Probennahme)]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/C8CG15`](https://www.w3id.org/conservation/terms/metadata/C8CG15)  |
-| [Durchführende Einrichtung (Probennahme)]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F72743`](https://www.w3id.org/conservation/terms/metadata/F72743)  |
-| [Probenbeschreibung]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/FD2B2B`](https://www.w3id.org/conservation/terms/metadata/FD2B2B)  |
-| [Stelle der Probennahme]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F58F6D`](https://www.w3id.org/conservation/terms/metadata/F58F6D)  |
-| [Entnahmemethode]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D9A6FA`](https://www.w3id.org/conservation/terms/metadata/D9A6FA)  |
+| [Sample identifier]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CB7747`](https://www.w3id.org/conservation/terms/metadata/CB7747)  |
+| [Reason for sampling]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/C33D85`](https://www.w3id.org/conservation/terms/metadata/C33D85)  |
+| [Date of sampling]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D3AF3A`](https://www.w3id.org/conservation/terms/metadata/D3AF3A)  |
+| [Sampling person]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/C8CG15`](https://www.w3id.org/conservation/terms/metadata/C8CG15)  |
+| [Sampling institution]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/F72743`](https://www.w3id.org/conservation/terms/metadata/F72743)  |
+| [Sample description]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/FD2B2B`](https://www.w3id.org/conservation/terms/metadata/FD2B2B)  |
+| [Sampling location]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/F58F6D`](https://www.w3id.org/conservation/terms/metadata/F58F6D)  |
+| [Sampling method]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D9A6FA`](https://www.w3id.org/conservation/terms/metadata/D9A6FA)  |
 
-*Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
-
---- 
-
-## Hinweise zur Implementierung
+*Further information on the individual elements can be found on the relevant subpages.*
 
 --- 
 
-## Entsprechungen in anderen Schemata
+## Implementation notes
 
-| Schema | Entsprechende Einheit | URI |
+--- 
+
+## Equivalents in other schemas
+
+| Schema | Corresponding unit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
 |[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 |[LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 |[DataCite Metadata Schema](https://support.datacite.org/docs/datacite-metadata-schema) | IGSN ID Metadata Recommendations | [`https://support.datacite.org/docs/igsn-id-metadata-recommendations`](https://support.datacite.org/docs/igsn-id-metadata-recommendations) | 
 
-*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
+*Detailed mappings at element level can be found on the pages for each individual metadata element.* 
 

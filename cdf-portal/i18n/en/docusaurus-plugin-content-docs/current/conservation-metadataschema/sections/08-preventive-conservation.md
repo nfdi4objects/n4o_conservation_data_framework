@@ -1,57 +1,59 @@
 ---
-title: Präventive Konservierung
+title: Preventive conservation
 sidebar_position: 8
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
 
-# Präventive Konservierung <span class="label label-recommended">Empfohlen</span>
+# Preventive conservation <span class="label label-recommended">Recommended</span>
 
-## Zweck und Funktion der Sektion
+## Purpose and function of the section
 
-Die Sektion Präventive Konservierung dokumentiert Empfehlungen und Richtlinien für den allgemeinen Umgang mit dem Objekt. Sie erfasst, unter welchen Bedingungen das Objekt gelagert, präsentiert und handhabt werden sollte, um seinen Zustand zu bewahren und weitere Degradation zu verhindern. Die Sektion enthält darüber hinaus Elemente, um die regelmäßige Überwachung eines Objekts (Monitoring) in strukturierter, ereignisbasierter Art zu dokumentieren.
-
-Da bei präventiver Konservierung die relevanten Parameter je nach Objektgruppe sehr spezifisch und individuell sind, verstehen sich die aufgeführten Elemente dieser Sektion allesamt lediglich als Empfehlungen, die aus dem Vergleich unterschiedlicher Fachbereiche im Rahmen des community-basierten Entwicklungsprozesses dieses Schemas aggregiert wurden.  Nicht alle Elemente sind in allen Fällen gleich relevant. Je nach Faktoren, die für die eigenen Objekttypen relevant sind, können Institutionen die Elemente bei der Implementierung im eigenen System erweitern oder weggelassen. Perspektivisch könnte eine gemeinsame Weiterentwicklung dieser Sektion in den einzelnen restauratorischen Fachgruppen sinnvoll sein. 
+The ‘Preventive Conservation‘ section documents recommendations and guidelines for the general handling of the object. It specifies the conditions under which the object should be stored, displayed and handled in order to preserve its condition and prevent further deterioration. The section also includes elements for documenting the regular monitoring of an object in a structured, event-based manner.
 
 ---
 
-## Übersicht der enthaltenen Metadatenelemente
+## Overview of the metadata elements included
 
-| Element | Verpflichtungsgrad | URI |
+| Element | Level of obligation | URI |
 |:--------|:-------------------|:----|
-| [Allgemeine Umgangsempfehlungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/GF9C49`](https://www.w3id.org/conservation/terms/metadata/GF9C49)  |
-| &nbsp; &nbsp; ↳ [Präsentationsvorgaben]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D941BB`](https://www.w3id.org/conservation/terms/metadata/D941BB)  |
-| &nbsp; &nbsp; ↳ [Verpackungs- und Transportempfehlungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/F2244D`](https://www.w3id.org/conservation/terms/metadata/F2244D)  |
-|&nbsp; &nbsp; ↳ [Empfehlungen zur Handhabung]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/B14C4A`](https://www.w3id.org/conservation/terms/metadata/B14C4A)  |
-| [Konservatorische Bedingungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/C3A182`](https://www.w3id.org/conservation/terms/metadata/C3A182)  |
-| &nbsp; &nbsp; ↳ [Temperatur (konservatorische Bedingungen)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/A2FA1B`](https://www.w3id.org/conservation/terms/metadata/A2FA1B)  |
-| &nbsp; &nbsp; ↳ [Luftfeuchtigkeit (konservatorische Bedingung)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/BA8198`](https://www.w3id.org/conservation/terms/metadata/BA8198)  |
-| &nbsp; &nbsp; ↳ [Beleuchtungsstärke (konservatorische Bedingungen)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/DF7759`](https://www.w3id.org/conservation/terms/metadata/DF7759)  |
-| &nbsp; &nbsp; ↳ [UV-Schutz (konservatorische Bedingung)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/FD6617`](https://www.w3id.org/conservation/terms/metadata/FD6617)  |
-| [Monitoring]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/C11192`](https://www.w3id.org/conservation/terms/metadata/C11192)  |
-| &nbsp; &nbsp; [Datum des Monitoring]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/F5G576`](https://www.w3id.org/conservation/terms/metadata/F5G576)  |
-| &nbsp; &nbsp; ↳ [Zuständige Person (Monitoring)]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/B9835A`](https://www.w3id.org/conservation/terms/metadata/B9835A)  |
-| &nbsp; &nbsp; ↳ [Überprüfte Bedingungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/FFFCB7`](https://www.w3id.org/conservation/terms/metadata/FFFCB7)  |
-| &nbsp; &nbsp; ↳ [Ergebnis des Monitorings]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/F396G6`](https://www.w3id.org/conservation/terms/metadata/F396G6)  |
+| [General handling recommendations]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/GF9C49`](https://www.w3id.org/conservation/terms/metadata/GF9C49)  |
+| &nbsp; &nbsp; ↳ [Presentation guidelines]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/D941BB`](https://www.w3id.org/conservation/terms/metadata/D941BB)  |
+| &nbsp; &nbsp; ↳ [Packaging and transport recommendations]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/F2244D`](https://www.w3id.org/conservation/terms/metadata/F2244D)  |
+|&nbsp; &nbsp; ↳ [General handling recommendations]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/B14C4A`](https://www.w3id.org/conservation/terms/metadata/B14C4A)  |
+| [Conservation conditions]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/C3A182`](https://www.w3id.org/conservation/terms/metadata/C3A182)  |
+| &nbsp; &nbsp; ↳ [Temperature (conservation conditions)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/A2FA1B`](https://www.w3id.org/conservation/terms/metadata/A2FA1B)  |
+| &nbsp; &nbsp; ↳ [Humidity (conservation conditions)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/BA8198`](https://www.w3id.org/conservation/terms/metadata/BA8198)  |
+| &nbsp; &nbsp; ↳ [Illuminance (conservation conditions)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/DF7759`](https://www.w3id.org/conservation/terms/metadata/DF7759)  |
+| &nbsp; &nbsp; ↳ [UV protection (conservation conditions)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/FD6617`](https://www.w3id.org/conservation/terms/metadata/FD6617)  |
+| [Monitoring]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/C11192`](https://www.w3id.org/conservation/terms/metadata/C11192)  |
+| &nbsp; &nbsp; [Date of monitoring]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/F5G576`](https://www.w3id.org/conservation/terms/metadata/F5G576)  |
+| &nbsp; &nbsp; ↳ [Responsible person (monitoring)]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/B9835A`](https://www.w3id.org/conservation/terms/metadata/B9835A)  |
+| &nbsp; &nbsp; ↳ [Verified conditions]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/FFFCB7`](https://www.w3id.org/conservation/terms/metadata/FFFCB7)  |
+| &nbsp; &nbsp; ↳ [Result of monitoring]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/F396G6`](https://www.w3id.org/conservation/terms/metadata/F396G6)  |
 
 
-*Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
-
---- 
-
-## Hinweise zur Implementierung
+*Further information on the individual elements can be found on the relevant subpages.*
 
 --- 
 
-## Entsprechungen in anderen Schemata
+## Implementation notes
 
-| Schema | Entsprechende Einheit | URI |
+:::tip
+As the relevant parameters for preventive conservation are highly specific and individual depending on the object group, the elements listed in this section are all intended solely as recommendations, aggregated from comparisons across different specialist fields as part of the community-based development process for this schema.  Not all elements are equally relevant in every case. Depending on the factors relevant to their own object types, institutions may expand upon or omit elements when implementing the scheme in their own systems. In the long term, it might be useful to further develop this section collaboratively within the individual conservation specialist groups.
+:::
+
+--- 
+
+## Equivalents in other schemas
+
+| Schema | Corresponding unit  | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
 |[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 |[LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
-*Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 
+*Detailed mappings at element level can be found on the pages for each individual metadata element.* 
 
