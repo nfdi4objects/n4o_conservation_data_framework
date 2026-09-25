@@ -27,8 +27,7 @@ Die Art der Kennzeichnungsnummer dokumentiert den Status der Kennzeichnungsnumme
 
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-required">Pflicht</span>
 
@@ -37,8 +36,7 @@ Ohne die Angabe, ob die Nummer dauerhaft oder temporär ist, bleibt unklar, ob d
 
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text/URI</span>
 
@@ -47,8 +45,7 @@ Die Einordnung der Kennzeichnungsnummer sollte aus einem kontrollierten Vokabula
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Nein</span>
 
@@ -57,13 +54,12 @@ Die Kennzeichnungsnummer muss mit genau einem definierenden Nummerntyp beschrieb
 
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Art der Kennzeichnungsnummer: Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)</span>
-
-<span class="label label-text">- Art der Kennzeichnungsnummer: Temporäre Fundnummer</span>
+- Art der Kennzeichnungsnummer: Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
+- Art der Kennzeichnungsnummer: Temporäre Fundnummer
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

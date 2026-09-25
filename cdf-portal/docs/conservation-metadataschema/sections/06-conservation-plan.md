@@ -8,7 +8,7 @@ sidebar_position: 6
 
 Die Sektion Erhaltungskonzept bildet das Kernstück der Restaurierungsdokumentation. Sie erfasst die konservatorisch-restauratorischen Überlegungen, Ziele und durchgeführten Maßnahmen zur Erhaltung oder Rekonstruktion eines Objektes. Der Begriff “Erhaltungskonzept” fasst dabei sowohl rein **konservatorische Eingriffe** (Sicherung, Stabilisierung, etc.) als auch **restauratorische Maßnahmen** (Wiederherstellung/ Rekonstruktion) unter einem neutralen Oberbegriff zusammen.
 
-Die Sektion spiegelt dabei zwei Phasen der realen Arbeit wieder: die **Planungsphase**, mit Anlass und Ziel (die auch dokumentiert werden können, wenn noch keine konkrete Maßnahme durchgeführt worden ist) sowie die Durchführungsphase, die als ereignisbasierte Modellierung Details zur Ausführung (Wer?, Wo?, Wann?, Welche Methodik, Material und Werkzeuge?) der Maßnahme(n) enthält. Auf diese Weise entsteht eine vollständige Dokumentation des gesamten Erhaltungsprozesses, von der Entscheidungsfindung bis zur praktischen Umsetzung. 
+Die Sektion spiegelt dabei zwei Phasen der realen Arbeit wieder: die **Planungsphase**, mit Anlass und Ziel (die auch dokumentiert werden können, wenn noch keine konkrete Maßnahme durchgeführt worden ist) sowie die **Durchführungsphase**, die als ereignisbasierte Modellierung Details zur Ausführung (Wer?, Wo?, Wann?, Welche Methodik, Material und Werkzeuge?) der Maßnahme(n) enthält. Auf diese Weise entsteht eine vollständige Dokumentation des gesamten Erhaltungsprozesses, von der Entscheidungsfindung bis zur praktischen Umsetzung. 
 
 ---
 

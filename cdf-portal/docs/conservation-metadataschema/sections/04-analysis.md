@@ -8,7 +8,7 @@ sidebar_position: 4
 
 Die Sektion Untersuchung dokumentiert systematische Untersuchungsverfahren, die im Zuge der Konservierung-Restaurierung durchgeführt wurden. Dies können optische Begutachtungen (z. B. unter dem Mikroskop) im Rahmen der Zustandserfassung oder komplexere naturwissenschaftliche Analysen (z. B. Röntgenfluoreszenzanalyse, Raman-Spektroskopie, Pigmentanalysen) sein. Die Sektion ist **ereignisbasiert** modelliert, d.h. sie erfasst jede durchgeführte Untersuchung als eigenständiges Event mit zugehörigen Kontextinformationen (Wer? Wann? Wie? Mit welchem Ergebnis?). Mehrere durchgeführte Untersuchungen können durch die Wiederholung der gesamten Sektion chronologisch dokumentiert werden. 
 
-Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Untersuchungen durchgeführt wurden. 
+Die Sektion als Ganzes ist **bedingt verpflichtend:** Sie ist nur Teil der Dokumentation, wenn im Rahmen der konservatorisch-restauratorischen Bearbeitung tatsächlich Untersuchungen durchgeführt wurden. 
 
 ---
 
@@ -36,8 +36,10 @@ Die Sektion ist bedingt verpflichtend: Sie ist nur Teil der Dokumentation, wenn 
 
 :::note
 Die in dieser Sektion dokumentierten Untersuchungsergebnisse können inhaltliche Relevanz für andere Sektionen haben (z. B. genauere Angaben zur Materialität). Solche Erkenntnisse sollten in der jeweiligen Sektion als ergänzender Eintrag (Wiederholung des entpsrechenden Elements) festgehalten und mit dem zugrunde liegenden Untersuchungsergebnis verknüpft werden, um die Evidenzgrundlage nachvollziehbar zu machen (beispielsweise den Unterschied zwischen einer naturwissenschaftlich belegten und einer visuell-subjektiv eingeschätzten Materialbestimmung).
+:::
 
-Nicht jede Untersuchung wird von der Restaurator:in, die den Dokumentationsdatensatz anlegt, selbst durchgeführt. Werden komplexere Untersuchungen (z.B. Röntgenfluoreszenzanalyse) in anderen Abteilungen oder externe Institutionen beauftragt, sollten die zentralen Ereignisinformationen, wer, wann, wo die Untersuchung durchgeführt hat und warum sie im Rahmen der konservatorischen Maßnahme erforderlich war, dennoch in der Restaurierungsdokumentation erfasst werden. Über das Element "durchführende Einrichtung" kann in einem solchen Anwendungsfall die externe Durchführung kenntlich gemacht werden. Für die Ergebnisse der Untersuchungen kann dann auf den zugehörigen Untersuchungsdatensatz referenziert werden. Um die zentralen Erkenntnisse der Untersuchung auch auf einen Blick in der Restaurierungsdokumentation einsehen zu können, bietet es sich an zusätzlich eine kurze textliche Zusammenfassung zu formulieren. 
+:::note
+Nicht jede Untersuchung wird von der Restaurator:in, die den Dokumentationsdatensatz anlegt, selbst durchgeführt. Werden komplexere Untersuchungen (z.B. Röntgenfluoreszenzanalyse) in anderen Abteilungen oder externen Institutionen beauftragt sollten die zentralen Ereignisinformationen (wer, wann, wo die Untersuchung durchgeführt hat und warum sie im Rahmen der konservatorischen Maßnahme erforderlich war) dennoch in der Restaurierungsdokumentation erfasst werden. Über das Element "durchführende Einrichtung" kann in einem solchen Anwendungsfall die externe Durchführung kenntlich gemacht werden. Für die Ergebnisse der Untersuchungen kann dann auf den zugehörigen Untersuchungsdatensatz referenziert werden. Um die zentralen Erkenntnisse der Untersuchung auch auf einen Blick in der Restaurierungsdokumentation einsehen zu können, bietet es sich an zusätzlich eine kurze textliche Zusammenfassung zu formulieren. 
 :::
 
 --- 

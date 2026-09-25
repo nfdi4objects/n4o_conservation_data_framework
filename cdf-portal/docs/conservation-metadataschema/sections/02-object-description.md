@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Zweck und Funktion der Sektion
 
-Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des Objekts. Im Unterschied zur Objektkennzeichnung, die der Identifikation dient, beschreibt diese Sektion das Objekt in seiner konkreten materiellen Erscheinung. Die Sektion konzentriert sich dabei auf Informationen, die für Restaurator:innen als Grundlage für Zustandsbewertungen, die Auswahl geeigneter Konservierungsmethoden und die Interpretation von Schadensphänomenen relevant sind. 
+Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des Objekts. Ebenso wie bei der Sektion [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/object-identification) wurde bei der Zusammenstellung der Metadatenelementen dieser Sektion der Fokus auf jene Informationen zur materiellen Erscheinungsform des Objektes gelegt, die für Restaurator:innen relevante für die Zustandsbewertung, die Auswahl geeigneter Konservierungsmethoden und die Interpretation von Schadensphänomenen sein können. In der Regel werden diese Informationen bereits während der Aufnahme des Objektes in die Sammlung bzw. bei archäologischen Objekten auch häufig bereits während oder unmittelbar nach der Ausgrabung erfasst und dem/der Restaurator:in bei Übergabe des Objektes mitgeteilt. Gleichzeitig werden sie jedoch häufig durch vertiefende Beobachtungen, die erst während oder durch den Restaurierungsprozess festgestellt werden können, ergänzt oder spezifiziert (z.B. die Herstellungstechnik, durch die Entdeckung und Interpretation von eindeutigen Herstellungsspuren). 
 
 ---
 
@@ -26,9 +26,11 @@ Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des 
 ## Hinweise zur Implementierung
 
 :::note
-Die Angaben dieser Sektion sollten idealerweise direkt aus dem entsprechenden Objektdatensatz in die Restaurierungsdokumentation übernommen bzw. mit diesem verknüpft sein, um eine kohärente Datenverwaltung zu gewährleisten. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn kein referenzierbarer Objektdatensatz zur Verfügung steht (beispielsweise wenn kein zentrales Sammlungsmanagementsystem verwendet wird oder wenn das Objekt erst im Rahmen der Konservierung-Restaurierung inventarisiert wird).  
+Die Angaben dieser Sektion sollten idealerweise direkt aus dem entsprechenden Objektdatensatz in die Restaurierungsdokumentation übernommen bzw. mit diesem verknüpft sein, um eine kohärente Datenverwaltung zu gewährleisten. Eine manuelle Erfassung durch Restaurator:innen ist nur dann erforderlich, wenn kein referenzierbarer Objektdatensatz zur Verfügung steht (beispielsweise wenn kein zentrales Sammlungsmanagementsystem verwendet wird oder wenn das Objekt erst im Rahmen der Konservierung-Restaurierung inventarisiert wird). 
+::: 
 
-Werden durch die Restaurierung neue Erkenntnisse zur Objektbeschreibung gewonnen (z.B. präzisere Angaben zu Material oder Herstellungstechnik), sollen diese in der Restaurierungsdokumentation als ergänzender Eintrag (Wiederholung des entsprechenden Metadatenelements) festgehalten werden, ohne bestehende Angaben zu überschreiben. Die aktualisierten Angaben sollten anschließend auch in den Objektdatensatz zurückgespielt werden, sodass die im Rahmen der Restaurierung gewonnenen Erkenntnisse dauerhaft an zentraler Stelle der Objektinformationen einsehbar sind. 
+:::note
+Werden durch die Restaurierung neue Erkenntnisse zur Objektbeschreibung gewonnen (z.B. präzisere Angaben zu Material oder Herstellungstechnik), sollen diese in der Restaurierungsdokumentation als ergänzender Eintrag (Wiederholung des entsprechenden Metadatenelements) in dieser Sektion festgehalten werden, ohne bestehende Angaben zu überschreiben. Die aktualisierten Angaben sollten anschließend auch in den Objektdatensatz zurückgespielt werden, sodass die im Rahmen der Restaurierung gewonnenen Erkenntnisse dauerhaft an zentraler Stelle der Objektinformationen einsehbar sind. 
 :::
 
 --- 

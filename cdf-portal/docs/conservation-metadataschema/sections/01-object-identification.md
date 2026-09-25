@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Zweck und Funktion der Sektion
 
-Die Objektkennzeichnung dient der eindeutigen Identifikation des dokumentierten Objekts und seiner Einordnung in übergeordnete Kontexte. Sie gewährleistet, dass das Objekt vor, während und nach dem gesamten Behandlungsprozess zweifelsfrei zugeordnet werden kann.
+Die Objektkennzeichnung dient der eindeutigen Identifikation des dokumentierten Objekts und seiner Einordnung in übergeordnete Kontexte. Sie gewährleistet, dass das Objekt im gesamten Behandlungsprozess zweifelsfrei zugeordnet werden kann. 
 
 Die in dieser Sektion erfassten Daten werden in der Regel nicht von Restaurator:innen selbst erhoben, sondern als Objektdaten von Kurator:innen bzw. Auftraggeber:innen übernommen. Die zugeordneten Metadatenelemente orientieren sich daher an bestehenden Standards zur allgemeinen Objekterfassung. Die Sektion konzentriert sich dabei auf Informationen, die für Restaurator:innen als Grundlage für Zustandsbewertungen, die Auswahl geeigneter Konservierungsmethoden und die Interpretation von Schadensphänomenen relevant sind.
 

@@ -2,11 +2,6 @@
 title: Kennzeichnungsnummer
 sidebar_position: 2
 ---
-
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
-
  
 
 # Kennzeichnungsnummer
@@ -34,8 +29,7 @@ Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im R
 
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-required">Pflicht</span>
 
@@ -44,8 +38,7 @@ Die Kennzeichnungsnummer gewährleistet die eindeutige Identifikation, insbesond
 
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text/URI</span>
 
@@ -54,20 +47,21 @@ Im Idealfall handelt es sich bei der Kennung um einen maschinenlesbaren, persist
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Nein</span>
+
+Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennung zugeordnet sein muss. Weitere bzw. ehemalige Objektnummern (z.B. alte Inventarnummern, temporäre Fundnummern oder sonstige Fremdnummern) können stattdessen im optionalen Element [Weitere Objektnummer](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/elements/alternative-object-number/) erfasst werden.
 :::
+
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
 <span class="label label-text">- Kennzeichnungsnummer: O.2023_3245</span>
-
 <span class="label label-text">- Kennzeichnungsnummer: FD_2024-127</span>
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata
@@ -75,4 +69,4 @@ Im Idealfall handelt es sich bei der Kennung um einen maschinenlesbaren, persist
 | Schema | Elementname | Verpflichtungsgrad |
 |:--------|:-------------------|:----|
 | [MDS v1.1](www.minimaldatensatz.de) | [Inventarnummer](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104544/Inventarnummer+Pflicht) | Pflicht |
-| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Objektnummer](https://collectionstrust.org.uk/resource/object-number/?tr=de) |
+| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Objektnummer](https://collectionstrust.org.uk/resource/object-number/?tr=de) | Pflicht |

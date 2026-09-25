@@ -28,8 +28,7 @@ Das Element erfasst eine zusätzliche Nummer, die dem Objekt zugeordnet ist oder
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-optional">Optional</span>
 
@@ -38,16 +37,14 @@ Dieses Element ist optional, da nicht jedes Objekt über mehrere Nummern verfüg
 
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text</span>
 :::
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Ja</span>
 
@@ -56,13 +53,12 @@ Das Element ist wiederholbar, um mehrere alternative Nummern erfassen zu können
 
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Weitere Objektnummer: FN_2349</span>
-
-<span class="label label-text">- Weitere Objektnummer: 2024/03</span>
+- Weitere Objektnummer: FN_2349
+- Weitere Objektnummer: 2024/03
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

@@ -35,7 +35,8 @@
 .label-text { background:#7f8c8d; }
 
 .theme-admonition .label {
-  font-size: 1.25em; 
+  font-size: 1.25em;
+  margin-bottom: 0.75em; 
 }
 
 /* Sidebar-Hintergrundfarbe */
