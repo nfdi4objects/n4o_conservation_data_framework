@@ -62,9 +62,9 @@ Das Element ist wiederholbar, da verschiedene Aspekte der Provenienz relevant se
 
 :::tip[Beispiel]
 
-- **Herkunft - Fundort:** Italien; URI: [https://www.geonames.org/3175395/italian-republic.html](https://www.geonames.org/3175395/italian-republic.html)</span>
+- **Herkunft - Fundort:** Italien; URI: [https://www.geonames.org/3175395/italian-republic.html](https://www.geonames.org/3175395/italian-republic.html)
 
-- **Herkunft - Kulturelle Zuordnung:** Etrusker; URI [http://d-nb.info/gnd/4015627-8](http://d-nb.info/gnd/4015627-8)</span>
+- **Herkunft - Kulturelle Zuordnung:** Etrusker; URI [http://d-nb.info/gnd/4015627-8](http://d-nb.info/gnd/4015627-8)
 
 - **Herkunft - Erwerb:** Schenkung 1976 aus Sammlung Müller
 :::
