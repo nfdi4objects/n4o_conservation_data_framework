@@ -2,11 +2,6 @@
 title: Eingangsdatum
 sidebar_position: 6
 ---
-
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
-
  
 
 # Eingangsdatum
@@ -32,8 +27,7 @@ Das Eingangsdatum erfasst das Datum, an dem das Objekt in die aktuell zuständig
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-conditional">Bedingte Pflicht</span>
 
@@ -42,8 +36,7 @@ Das Eingangsdatum sollte - sofern bekannt - immer erfasst werden, da es für sp�
  
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Date (nach ISO 8601) oder Text</span>
 
@@ -52,20 +45,19 @@ Im Idealfall sollte ein konkretes Datum erfasst werden. Ist dieses nicht eindeut
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Nein</span>
 :::
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Eingangsdatum: 2025-03-25</span>
+- **Eingangsdatum:** 2025-03-25
 
-<span class="label label-text">- Eingangsdatum: 1865</span>
+- **Eingangsdatum:** 1865
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

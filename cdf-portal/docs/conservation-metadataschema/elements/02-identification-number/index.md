@@ -58,8 +58,8 @@ Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennun
 
 :::tip[Beispiel]
 
-<span class="label label-text">- Kennzeichnungsnummer: O.2023_3245</span>
-<span class="label label-text">- Kennzeichnungsnummer: FD_2024-127</span>
+- **Kennzeichnungsnummer:** O.2023_3245
+- **Kennzeichnungsnummer:** FD_2024-127
 :::
 
 ---

@@ -29,8 +29,7 @@ Die Datierung erfasst die zeitliche Einordnung der Entstehung des Objekts. Je na
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-recommended">Empfohlen</span>
 
@@ -39,8 +38,7 @@ Die Erfassung der zeitlichen Einordnung ist empfohlen, da sie für die Interpret
  
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Datum (nach ISO 8601), Text/URI</span>
 
@@ -49,8 +47,7 @@ Die Granularität der Datierung orientiert sich an den in der jeweiligen Fachdis
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Ja</span>
 
@@ -59,15 +56,15 @@ Das Element ist wiederholbar, um bei Bedarf sowohl Jahreszahl als auch Epoche/Pe
 
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Datierung: 1697</span>
+- **Datierung:** 1697
 
-<span class="label label-text">- zeitliche Einordnung: Urnenfelderzeit; URI: [http://chronontology.dainst.org/period/xsq5dzQ1iPLL](http://chronontology.dainst.org/period/xsq5dzQ1iPLL)</span>
+- **zeitliche Einordnung:** Urnenfelderzeit; URI: [http://chronontology.dainst.org/period/xsq5dzQ1iPLL](http://chronontology.dainst.org/period/xsq5dzQ1iPLL)
 
-<span class="label label-text">- Herstellungsdatum: 1854-02-14</span>
+- **Herstellungsdatum:** 1854-02-14
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

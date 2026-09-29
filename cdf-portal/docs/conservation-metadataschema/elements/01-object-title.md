@@ -29,8 +29,7 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-required">Pflicht</span>
 
@@ -39,8 +38,7 @@ Die Objektbenennung ist f체r die fachliche Verst채ndlichkeit der Dokumentation e
  
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text</span>
 
@@ -49,20 +47,19 @@ Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilit�
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Ja</span>
 :::
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Objektbenennung: Der Schrei</span>
+- **Objektbenennung:** Der Schrei
  
-<span class="label label-text">- Objektbenennung: Portr채tgem채lde Herzog Johann III.</span>
+- **Objektbenennung:** Portr채tgem채lde Herzog Johann III.
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

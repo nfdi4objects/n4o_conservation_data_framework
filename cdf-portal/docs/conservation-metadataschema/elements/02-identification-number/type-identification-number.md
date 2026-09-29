@@ -56,8 +56,8 @@ Die Kennzeichnungsnummer muss mit genau einem definierenden Nummerntyp beschrieb
 
 :::tip[Beispiel]
 
-- Art der Kennzeichnungsnummer: Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
-- Art der Kennzeichnungsnummer: Temporäre Fundnummer
+- **Art der Kennzeichnungsnummer:** Inventarnummer; URI:[http://terminology.lido-schema.org/lido00113](http://terminology.lido-schema.org/lido00113)
+- **Art der Kennzeichnungsnummer:** Temporäre Fundnummer
 :::
 
 ---

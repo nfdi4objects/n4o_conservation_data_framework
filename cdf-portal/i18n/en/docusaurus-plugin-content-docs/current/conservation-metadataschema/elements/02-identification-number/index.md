@@ -3,11 +3,9 @@ title: Identification number
 sidebar_position: 2
 ---
 
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
+:::caution work-in-Progress
+This page has not been build completely.
 :::
-
- 
 
 # Identification number
 

@@ -55,8 +55,8 @@ Das Element ist wiederholbar, um mehrere alternative Nummern erfassen zu können
 
 :::tip[Beispiel]
 
-- Weitere Objektnummer: FN_2349
-- Weitere Objektnummer: 2024/03
+- **Weitere Objektnummer:** FN_2349
+- **Weitere Objektnummer:** 2024/03
 :::
 
 ---

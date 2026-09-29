@@ -16,6 +16,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - Lokation
+- Normaler Standort
 - Objektstandort
 - Verwahrende Einrichtung
 - Sammlung
@@ -27,8 +28,7 @@ Das Element Standort erfasst den regelhaften Aufbewahrungsort des Objektes, auß
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-required">Pflicht</span>
 
@@ -37,8 +37,7 @@ Der Standort ist verpflichtend, da ohne diese Information nach der Restaurierung
 
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text/URI</span>
 
@@ -47,8 +46,7 @@ Bei diesem Element ist zwischen interner und öffentlicher Darstellung zu differ
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Ja</span>
 
@@ -57,16 +55,15 @@ Das Element ist wiederholbar, um insbesondere Standortwechsel vor und nach der R
 
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
 intern:
-<span class="label label-text">- Ehemaliger Standort: Objektdepot Nr. 3 (unklimatisiert), Regal 12, Fach C</span>
+- **Ehemaliger Standort:** Objektdepot Nr. 3 (unklimatisiert), Regal 12, Fach C
 
-<span class="label label-text">- Aktueller Standort: Dauerausstellung A, Raum 102, klimatisierte Eckvitrine Nr. 5</span>
+- **Aktueller Standort:** Dauerausstellung A, Raum 102, klimatisierte Eckvitrine Nr. 5
 
 öffentlich: 
-- Standort: LEIZA, [ROR-ID: ror.org/0483qx226](https://ror.org/0483qx226), Dauerausstellung A, klimatisierte Vitrine 
+- **Standort:** LEIZA, [ROR-ID: ror.org/0483qx226](https://ror.org/0483qx226), klimatisierte Vitrine 
 :::
 
 ---

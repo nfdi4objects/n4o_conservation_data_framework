@@ -2,11 +2,6 @@
 title: Objektbeziehung
 sidebar_position: 10
 ---
-
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
-
  
 
 # Objektbeziehung
@@ -17,7 +12,7 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ## Begrifflichkeiten 
 
- **URI der Conservation Metadata Terminology:** 
+ **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/GB6DF3](https://www.w3id.org/conservation/terms/metadata/GB6DF3)
 
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - 
@@ -27,36 +22,33 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-required">Pflicht</span>
 :::
  
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text</span>
 :::
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Nein</span>
 :::
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
-<span class="label label-text">- Art der Kennzeichnungsnummer: Intenvarnummer</span>
+- **Art der Kennzeichnungsnummer:** Intenvarnummer
 
-<span class="label label-text">- Art der Kennzeichnungsnummer: Temporäre Fundnummer</span>
+- **Art der Kennzeichnungsnummer:** Temporäre Fundnummer
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata

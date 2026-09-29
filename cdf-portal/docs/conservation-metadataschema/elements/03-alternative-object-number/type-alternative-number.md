@@ -2,11 +2,6 @@
 title: Art der weiteren Objektnummer
 sidebar_position: 1
 ---
-
-:::caution Translation pending
-This page has not been translated into English yet. The German original is shown below.
-:::
-
  
 
 # Art der weiteren Objektnummer
@@ -30,8 +25,7 @@ Die Art der weiteren Objektnummer spezifiziert den Typ der im Feld „Weitere Ob
  
 ---
 
-:::info
-### Verpflichtungsgrad
+:::info[Verpflichtungsgrad]
 
 <span class="label label-conditional">Bedingte Pflicht</span>
 
@@ -40,8 +34,7 @@ Sobald eine weitere Objektnummer erfasst wurde, ist die Angabe der Art verpflich
  
 ---
 
-:::info
-### Feldwert
+:::info[Feldwert]
 
 <span class="label label-text">Text/URI</span>
 
@@ -50,8 +43,7 @@ Die Typisierung der weiteren Objektnummer sollte aus einem kontrollierten Vokabu
 
 ---
 
-:::info
-### Wiederholbar
+:::info[Wiederholbar]
 
 <span class="label label-text">Nein</span>
 
@@ -60,15 +52,15 @@ Pro weitere Objektnummer muss genau eine Nummernart angegeben werden, daher ist 
 
 ---
 
-:::tip
-## Beispiel
+:::tip[Beispiel]
 
 - Weitere Objektnummer: FD-2024-127
-<span class="label label-text">- Art der weiteren Objektnummer: Fundnummer</span>
+    - **Art der weiteren Objektnummer:** frühere Fundnummer
 
 - Weitere Objektnummer: 2001_3223
-<span class="label label-text">- Art der weiteren Objektnummer: alte Inventarnummer; URI:[http://terminology.lido-schema.org/lido00188](http://terminology.lido-schema.org/lido00188)</span>
+    - **Art der weiteren Objektnummer:** alte Inventarnummer; URI:[http://terminology.lido-schema.org/lido00188](http://terminology.lido-schema.org/lido00188)
 :::
+
 ---
 
 ## Entsprechungen in anderen Schemata
