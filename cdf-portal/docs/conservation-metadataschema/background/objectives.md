@@ -23,6 +23,7 @@ Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgeste
 Das vorliegende Schema richtet sich primär an Fachpersonen aus dem Bereich der Konservierung-Restaurierung, unabhängig von ihrer institutionellen Anbindung oder fachlichen Spezialisierung. Es soll Restaurator:innen in Museen, Denkmalfachbehörden, Universitäten, Hochschulen, außeruniversitären (Forschungs-) Einrichtungen sowie freiberuflich Tätigen eine Orientierung für die systematische Dokumentation ihrer Arbeit bieten. Das Metadatenschema ist bewusst so konzipiert, dass es in unterschiedlichen Erfassungssystemen anwendbar ist. Es versteht sich nicht als starre Vorgabe, sondern als Rahmen, der Raum für fach- und kontextspezifische Anpassungen lässt, dabei jedoch einen verbindlichen Kern an notwendigen Informationen definiert.
 
 Darüber hinaus kann das Schema auch für Personen relevant sein, die mit der Entwicklung oder Anpassung von Dokumentationssystemen befasst sind, etwa bei der Implementierung neuer Datenbanklösungen oder der Überarbeitung bestehender Vorlagen. Auch für die Lehre in der restauratorischen Ausbildung bietet das Metadatenschema eine strukturierte Grundlage zur Vermittlung guter Dokumentationspraxis im Sinne eines qualitätvollen Forschungsdatenmanagements.
+
  
 ---
 [^1] Siehe hierzu beispielsweise ICOMOS Deutschland, ICOMOS Luxemburg, ICOMOS Österreich, & ICOMOS Schweiz. (2012). MONUMENTA I: Internationale Grundsätze und Richtlinien der Denkmalpflege. Stuttgart.
