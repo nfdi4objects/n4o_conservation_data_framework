@@ -14,8 +14,8 @@ Die Sektion als Ganzes ist **bedingt verpflichtend:** Sie ist nur Teil der Dokum
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Untersuchungskennung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A2AG55`](https://www.w3id.org/conservation/terms/metadata/A2AG55) |
 | [Untersuchungsanlass]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CF3C22`](https://www.w3id.org/conservation/terms/metadata/CF3C22) | 
 | [Zuständige Person (Untersuchung)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G7F25F`](https://www.w3id.org/conservation/terms/metadata/G7F25F) | 

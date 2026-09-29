@@ -21,10 +21,9 @@ An overview of the schema’s development, the specialised reference frameworks 
 ### [Basic Knowledge of Metadata](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/metadata-basics)  
 A concise introduction to key concepts such as:
 - FAIR principles
-- metadata
-- metadata schema
+- metadata and metadata schema
 - controlled vocabularies
-- semantic modelling
+- unique identifier
 
 This chapter provides a common conceptual framework and helps to clarify the structural choices made in the schema.
 

@@ -2,6 +2,11 @@
 title: Basiswissen Metadaten
 sidebar_position: 3
 ---
+
+:::caution Work-in-progress
+Diese Seite befindet sich noch im Aufbau
+:::
+
 # Basiswissen Metadaten
 
 Diese Seite bietet eine kompakte Einführung in zentrale Begriffe der digitalen Arbeit mit Metadaten. Die Erklärungen sind dabei bewusst praxisnah und auf die Arbeit in der Restaurierung zugeschnitten. 

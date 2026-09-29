@@ -13,8 +13,8 @@ The object description captures the material and physical characteristics of the
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Object typ]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
 | [Further object properties]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
 | [Object material]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 

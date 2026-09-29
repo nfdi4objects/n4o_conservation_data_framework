@@ -19,8 +19,8 @@ This section is **Conditionally mandatory**: it forms part of the documentation 
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Date of risk assessment]() | <span class="label label-required">Mandatory</span>  | [`https://www.w3id.org/conservation/terms/metadata/AFD671`](https://www.w3id.org/conservation/terms/metadata/AFD671)  |
 | [Responsible person (Risk assessment)]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CCCC7G`](https://www.w3id.org/conservation/terms/metadata/CCCC7G)  |
 | [Type of hazard]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/BGGCA4`](https://www.w3id.org/conservation/terms/metadata/BGGCA4)  |

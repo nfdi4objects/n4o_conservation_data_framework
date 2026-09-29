@@ -5,7 +5,7 @@ sidebar_position: 1
  
 # Type of alternative object number
 
-Section: [Objekt identification](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/sections/01-object-identification)
+Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/sections/01-object-identification)
 
 ---
 ## Terminology 

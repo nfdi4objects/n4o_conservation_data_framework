@@ -2,7 +2,11 @@
 title: Schöpfer:in
 sidebar_position: 9
 ---
- 
+
+:::caution work-in-Progress
+Diese Seite befindet sich noch im Aufbau!
+:::
+
 
 # Schöpfer:in
 
@@ -24,21 +28,21 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 :::info[Verpflichtungsgrad]
 
-<span class="label label-required">Pflicht</span>
+<span class="label label-required"></span>
 :::
  
 ---
 
 :::info[Feldwert]
 
-<span class="label label-text">Text</span>
+<span class="label label-text"></span>
 :::
 
 ---
 
 :::info[Wiederholbar]
 
-<span class="label label-text">Nein</span>
+<span class="label label-text"></span>
 :::
 ---
 

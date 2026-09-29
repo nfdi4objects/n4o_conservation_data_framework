@@ -19,8 +19,8 @@ This section reflects two phases of the actual work: the **planning phase**, inc
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Reason for conservation intervention]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/C6A532`](https://www.w3id.org/conservation/terms/metadata/C6A532)  |
 | [Conservation objective]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/FGF575`](https://www.w3id.org/conservation/terms/metadata/FGF575)  |
 | [Intervention]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/DA9CGG`](https://www.w3id.org/conservation/terms/metadata/DA9CGG)  |

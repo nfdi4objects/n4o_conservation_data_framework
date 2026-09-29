@@ -14,8 +14,8 @@ Die Sektion ist **bedingt verpflichtend**: Sie ist nur Teil der Dokumentation, w
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Datum der Gefährdungsbewertung]() | <span class="label label-required">Pflicht</span>  | [`https://www.w3id.org/conservation/terms/metadata/AFD671`](https://www.w3id.org/conservation/terms/metadata/AFD671)  |
 | [Zuständige Person (Gefährdungsbewertung)]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CCCC7G`](https://www.w3id.org/conservation/terms/metadata/CCCC7G)  |
 | [Art der Gefährdung]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/BGGCA4`](https://www.w3id.org/conservation/terms/metadata/BGGCA4)  |

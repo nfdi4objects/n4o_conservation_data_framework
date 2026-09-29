@@ -2,12 +2,17 @@
 title: Conservation Metadata Schema
 sidebar_position: 2
 ---
-# Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (kurz: KuR-MDS), Version 1.0
-Dieses Portal dokumentiert die Entwicklung eines gemeinsamen Metadatenschemas für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kulturgütern. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
+# Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Conservation Metadata Schema oder kurz KuR-MDS), Version 1.0
+Dieses Portal dokumentiert die Entwicklung eines gemeinsamen Metadatenschemas für die Beschreibung von konservierungs- und restaurierungsbezogenen Informationen an Kunst und Kulturgut. Ziel ist es, die nachhaltige Dokumentation, Austauschbarkeit und Nachnutzung solcher Daten in Forschung, Museumspraxis und Denkmalpflege zu verbessern.
 
-Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als **agile Referenzumgebung** ergänzend zu formalen Publikationen.
+Die hier veröffentlichte Version wird kontinuierlich weiterentwickelt und dient als **agile Referenzumgebung** ergänzend zur formalen Publikation:
 
+:::info[NFDI4Objects Commons Publikation]
 
+Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
+:::
+
+ 
 ## Arbeitsprozess 
 Die Entwicklung des Schemas erfolgt transparent und partizipativ innerhalb der Temporary Working Group (TWG) [*Community-Standards für kontrollierte Vokabulare und Austauschformate im Bereich der Erhaltung und Pflege des kulturellen Erbes*](https://www.nfdi4objects.net/portal/twgs/community-standards-f%C3%BCr-kontrollierte-vokabulare-und-austauschformate-im-bereich-der-erhaltung-und-pflege-des-kulturellen-erbes/). Gleichzeitig erfolgt in iterativen Feedbackschleifen eine Einbeziehung der breiteren Community z.B. im Community Cluster (CC) [*Consersation Science*](https://www.nfdi4objects.net/portal/ccs/cc14_conservation_sciences/) oder auf Veranstaltungen. Interessierte und motivierte Personen sind jederzeit für die aktive Beteiligung an der Weiterentwicklung des Schemas in der TWG herzlich willkommen! 
 

@@ -19,8 +19,8 @@ This section is conditionally mandatory: it forms part of the documentation only
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Examination identifier]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/A2AG55`](https://www.w3id.org/conservation/terms/metadata/A2AG55) |
 | [Reason for examination]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CF3C22`](https://www.w3id.org/conservation/terms/metadata/CF3C22) | 
 | [Examining person]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/G7F25F`](https://www.w3id.org/conservation/terms/metadata/G7F25F) | 

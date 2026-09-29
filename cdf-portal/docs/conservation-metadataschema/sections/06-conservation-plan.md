@@ -14,8 +14,8 @@ Die Sektion spiegelt dabei zwei Phasen der realen Arbeit wieder: die **Planungsp
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Anlass der Erhaltungsmaßnahme]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/C6A532`](https://www.w3id.org/conservation/terms/metadata/C6A532)  |
 | [konservatorische Zielsetzung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/FGF575`](https://www.w3id.org/conservation/terms/metadata/FGF575)  |
 | [Erhaltungsmaßnahme]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/DA9CGG`](https://www.w3id.org/conservation/terms/metadata/DA9CGG)  |

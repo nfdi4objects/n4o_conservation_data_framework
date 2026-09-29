@@ -14,8 +14,8 @@ Da bei präventiver Konservierung die relevanten Parameter je nach Objektgruppe 
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Allgemeine Umgangsempfehlungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/GF9C49`](https://www.w3id.org/conservation/terms/metadata/GF9C49)  |
 | &nbsp; &nbsp; ↳ [Präsentationsvorgaben]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/D941BB`](https://www.w3id.org/conservation/terms/metadata/D941BB)  |
 | &nbsp; &nbsp; ↳ [Verpackungs- und Transportempfehlungen]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/F2244D`](https://www.w3id.org/conservation/terms/metadata/F2244D)  |

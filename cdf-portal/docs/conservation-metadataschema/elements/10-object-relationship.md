@@ -3,6 +3,10 @@ title: Objektbeziehung
 sidebar_position: 10
 ---
  
+:::caution work-in-Progress
+Diese Seite befindet sich noch im Aufbau!
+:::
+
 
 # Objektbeziehung
 
@@ -24,29 +28,27 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 :::info[Verpflichtungsgrad]
 
-<span class="label label-required">Pflicht</span>
+<span class="label label-required"></span>
 :::
  
 ---
 
 :::info[Feldwert]
 
-<span class="label label-text">Text</span>
+<span class="label label-text"></span>
 :::
 
 ---
 
 :::info[Wiederholbar]
 
-<span class="label label-text">Nein</span>
+<span class="label label-text"></span>
 :::
 ---
 
 :::tip[Beispiel]
 
-- **Art der Kennzeichnungsnummer:** Intenvarnummer
 
-- **Art der Kennzeichnungsnummer:** Temporäre Fundnummer
 :::
 
 ---

@@ -14,8 +14,8 @@ Die Sektion ist für jeden Datensatz verpflichtend, da administrative Metadaten 
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Datensatzkennung]() |  <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G50P34`](https://www.w3id.org/conservation/terms/metadata/G50P34)  |
 | [Erstellungsdatum des Datensatzes]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D78721`](https://www.w3id.org/conservation/terms/metadata/D78721)  |
 | [Bearbeiter:in]()  | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F285B2`](https://www.w3id.org/conservation/terms/metadata/F285B2)  |

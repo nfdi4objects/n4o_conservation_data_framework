@@ -12,8 +12,8 @@ Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des 
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Objekttyp]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
 | [Weitere Objekteigenschaften]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
 | [Objektmaterial]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 

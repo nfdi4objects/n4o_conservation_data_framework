@@ -19,8 +19,8 @@ The section as a whole is mandatory, as it provides the fundamental basis for co
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [ID of the condition assessment]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/R48T23`](https://www.w3id.org/conservation/terms/metadata/R48T23) |
 | [Reason for the condition assessment]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/G5TA85`](https://www.w3id.org/conservation/terms/metadata/G5TA85) |
 | ↳ [Time of entry]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/A8ABBA`](https://www.w3id.org/conservation/terms/metadata/A8ABBA) |

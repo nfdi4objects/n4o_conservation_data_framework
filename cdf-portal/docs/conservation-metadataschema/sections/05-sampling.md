@@ -14,8 +14,8 @@ Die Sektion ist als Ganzes bedingt verpflichtend: Sie ist nur Teil der Dokumenta
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Probenkennung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CB7747`](https://www.w3id.org/conservation/terms/metadata/CB7747)  |
 | [Anlass der Probennahme]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/C33D85`](https://www.w3id.org/conservation/terms/metadata/C33D85)  |
 | [Datum der Probennahme]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D3AF3A`](https://www.w3id.org/conservation/terms/metadata/D3AF3A)  |

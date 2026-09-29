@@ -19,8 +19,8 @@ This section is mandatory for every dataset, as administrative metadata ensures 
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Record identifier]() |  <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/G50P34`](https://www.w3id.org/conservation/terms/metadata/G50P34)  |
 | [Date of report creation]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D78721`](https://www.w3id.org/conservation/terms/metadata/D78721)  |
 | [Creator (Data set)]()  | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/F285B2`](https://www.w3id.org/conservation/terms/metadata/F285B2)  |

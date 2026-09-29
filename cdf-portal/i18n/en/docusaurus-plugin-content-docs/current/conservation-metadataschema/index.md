@@ -6,7 +6,12 @@ sidebar_position: 2
 # Conservation Metadata Schema, version 1.0
 This portal documents the development of a community-driven metadata schema for describing information relating to the conservation and restoration of cultural heritage objects. The aim is to improve the long-term documentation, interchangeability and re-use of such data in research, museum practice and heritage conservation.
 
-The version published here is subject to ongoing development and serves as an **agile reference environment** to complement formal publications.
+The version published here is subject to ongoing development and serves as an **agile reference environment** to complement the formal publication:
+
+:::info[NFDI4Objects Commons Publication]
+
+Fischer, K., & Witt, N. (2026). Bericht zum Metadatenschema für die Dokumentation von Konservierungs- und Restaurierungsmaßnahmen (Version v.1). Zenodo. https://doi.org/10.5281/zenodo.22871824
+:::
 
 
 ## Work process  

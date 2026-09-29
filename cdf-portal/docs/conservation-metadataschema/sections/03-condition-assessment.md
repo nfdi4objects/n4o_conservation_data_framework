@@ -14,8 +14,8 @@ Die Sektion als Ganzes ist verpflichtend, da sie die elementare Grundlage für k
 
 ## Übersicht der enthaltenen Metadatenelemente
 
-| Element | Verpflichtungsgrad | URI |
-|:--------|:-------------------|:----|
+| Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
+|:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Kennung der Zustandserfassung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/R48T23`](https://www.w3id.org/conservation/terms/metadata/R48T23) |
 | [Anlass der Zustandserfassung]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G5TA85`](https://www.w3id.org/conservation/terms/metadata/G5TA85) |
 | [Erfassungszeitpunkt]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A8ABBA`](https://www.w3id.org/conservation/terms/metadata/A8ABBA) |

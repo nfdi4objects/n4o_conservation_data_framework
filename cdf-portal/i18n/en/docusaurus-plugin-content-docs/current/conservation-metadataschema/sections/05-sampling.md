@@ -19,8 +19,8 @@ This section is conditionally mandatory: it forms part of the documentation only
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [Sample identifier]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/CB7747`](https://www.w3id.org/conservation/terms/metadata/CB7747)  |
 | [Reason for sampling]() | <span class="label label-conditional">Conditional</span> | [`https://www.w3id.org/conservation/terms/metadata/C33D85`](https://www.w3id.org/conservation/terms/metadata/C33D85)  |
 | [Date of sampling]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D3AF3A`](https://www.w3id.org/conservation/terms/metadata/D3AF3A)  |

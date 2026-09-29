@@ -17,8 +17,8 @@ The ‘Preventive Conservation‘ section documents recommendations and guidelin
 
 ## Overview of the metadata elements included
 
-| Element | Level of obligation | URI |
-|:--------|:-------------------|:----|
+| Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
+|:--------|:--------------------|:---------------------------------------------------------------------|
 | [General handling recommendations]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/GF9C49`](https://www.w3id.org/conservation/terms/metadata/GF9C49)  |
 | &nbsp; &nbsp; ↳ [Presentation guidelines]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/D941BB`](https://www.w3id.org/conservation/terms/metadata/D941BB)  |
 | &nbsp; &nbsp; ↳ [Packaging and transport recommendations]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/F2244D`](https://www.w3id.org/conservation/terms/metadata/F2244D)  |
