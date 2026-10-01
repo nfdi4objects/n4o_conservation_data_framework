@@ -1,0 +1,83 @@
+/* ===== Gemeinsames Raster ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+/* Breitere Spalten für Kacheln mit mehr Text */
+.gridWide {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+/* ===== StatGrid ===== */
+.stat {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+  padding: 1.25rem 1rem;
+  text-align: center;
+}
+
+.statValue {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--ifm-color-primary);
+}
+
+.statLabel {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* ===== CardGrid ===== */
+.card {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: border-color 0.2s;
+}
+
+.card:hover {
+  border-color: var(--ifm-color-primary);
+}
+
+.cardIcon {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+}
+
+.cardTitle {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.cardText {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* ===== LevelGrid ===== */
+.level {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-top: 4px solid var(--level-accent);
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 1.1rem; /* skaliert das .label (0.75em) auf angenehme Größe */
+}
+
+.levelHighlight {
+  border-width: 2px;
+  border-top-width: 4px;
+  border-color: var(--level-accent);
+}
+
+.levelText {
+  margin: 0.6rem 0 0;
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-700);
+}

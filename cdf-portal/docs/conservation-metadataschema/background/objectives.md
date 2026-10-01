@@ -2,23 +2,69 @@
 title: Zielsetzung und Motivation
 sidebar_position: 1
 ---
+
+import {StatGrid, CardGrid, LevelGrid} from '@site/src/components/tiles';
+
 # Zielsetzung und Motivation
+
+:::tip Auf einen Blick
+Restaurator:innen dokumentieren zunehmend digital, aber in sehr unterschiedlichen Formaten und Strukturen. Inhaltlich sind sie sich weitgehend einig, was dokumentiert werden
+sollte. Das Metadatenschema überführt diesen Konsens in eine gemeinsame, maschinenlesbare Struktur.
+:::
+
+## Restaurierungsdokumentation als wichtige Forschungsdaten
 
 Die Dokumentation konservatorisch-restauratorischer Maßnahmen bildet eine wichtige Grundlage für die langfristige Erhaltung und wissenschaftliche Erschließung von Kunst- und Kulturgut. Sie sichert nicht nur die Nachvollziehbarkeit durchgeführter Eingriffe, sondern fördert auch Restaurierungsentscheidungen und künftige Forschung. Restaurierungsdaten liefern wertvolle Informationen für angrenzende, objektbezogene Disziplinen wie Archäologie, Kunstgeschichte oder Provenienzforschung. Sie bieten darüber hinaus eine fundamentale Wissensquelle für die korrekte Interpretation nachfolgender naturwissenschaftlicher Analysen behandelter Objekte, unterstützen ein präventives Sammlungsmanagement und fördern nicht zuletzt die Entwicklung neuer konservierungswissenschaftlicher Methodiken.
 
 Obwohl Dokumentation bereits seit Einführung der Charta von Venedig[^1] als fester Bestandteil der restauratorischen Arbeit etabliert ist, fehlt es bislang an einem einheitlichen und übergreifenden Referenzrahmen dafür, welche Informationen in einer vollständigen und qualitativen Dokumentation verbindlich enthalten sein sollten. Diese Situation ist insbesondere vor dem Hintergrund der fortschreitenden Digitalisierung und der sich rasch entwickelnden technischen Möglichkeiten der automatisierten Datenverarbeitung problematisch. Während strukturierte, maschinenlesbare Daten neue Potenziale für fachliche sowie interdisziplinäre wissenschaftliche Anschlussfähigkeit eröffnen könnten, bleiben diese Chancen ohne übergreifende Standards weitgehend ungenutzt.
 
-Eine im Frühjahr 2025 durchgeführte Online-Umfrage mit 240 Teilnehmenden aus dem Bereich der Konservierung-Restaurierung bestätigte den Eindruck, dass die aktuelle Dokumentationslandschaft in der Praxis von erheblicher Heterogenität geprägt ist. Die Ergebnisse zeigen, dass die Digitalisierung der Dokumentationspraxis bereits weit fortgeschritten ist (Abb. 1): 48,8 % der Befragten dokumentieren hybrid (sowohl analog als auch digital) und 39,17% arbeiten bereits ausschließlich digital . Trotz dieser hohen Digitalisierungsrate offenbarte die Umfrage jedoch eine erhebliche Heterogenität in der konkreten Umsetzung. Die verwendeten Systeme, Formate und Strukturierungsansätze variieren stark zwischen und selbst innerhalb von Einrichtungen. Zwar gaben 30,8 % der Teilnehmenden an, vorgefertigte Musterprotokolle zu nutzen, und 25,8 % arbeiten mit etablierten Ablagevorlagen, doch handelt es sich dabei überwiegend um einrichtungsinterne Lösungen, die häufig nicht stringent umgesetzt oder regelmäßig verändert werden. Prinzipien des [Semantic Web](/cdf-portal/docs/conservation-metadataschema/background/Konzeptionelle%20Grundlagen/glossar#semantic-web)  und [Linked Open Data](/cdf-portal/docs/conservation-metadataschema/background/Konzeptionelle%20Grundlagen/lossar#linked-open-data)  für strukturierte, semantisch modellierte und maschinenlesbare Daten finden in der restauratorischen Dokumentationspraxis bislang kaum Anwendung.[^2]
+### Empirische Grundlage durch Community-Umfrage
+Eine im Frühjahr 2025 durchgeführte Online-Umfrage mit 240 Teilnehmenden aus dem Bereich der Konservierung-Restaurierung bestätigte den Eindruck, dass die aktuelle Dokumentationslandschaft in der Praxis von erheblicher Heterogenität geprägt ist. Die Ergebnisse zeigen, dass die Digitalisierung der Dokumentationspraxis bereits weit fortgeschritten ist 
 
 ![Umfrageergebnisse zur fachlichen Dokumentation](/img/Umfrage_Grafik_Dokumentation.png)
-*Abb. 1: Umfrageergebnisse zur fachlichen Dokumentation (Kristina Fischer/ LEIZA, CC-BY 4.0)*
+
+*Umfrageergebnisse zur fachlichen Dokumentation (Kristina Fischer/ LEIZA, CC-BY 4.0)*
+
+<StatGrid items={[
+  {value: '240',    label: 'Teilnehmende'},
+  {value: '48,8 %', label: 'dokumentieren hybrid'},
+  {value: '39,2 %', label: 'arbeiten rein digital'},
+  {value: '30,8 %', label: 'nutzen Musterprotokolle'},
+]} />
+
+Von den 240 Teilnehmenden dokumentieren 48,8 % hybrid (sowohl analog als auch digital) und 39,17% arbeiten bereits ausschließlich digital. Trotz dieser hohen Digitalisierungsrate offenbarte die Umfrage jedoch eine erhebliche Heterogenität in der konkreten Umsetzung. Die verwendeten Systeme, Formate und Strukturierungsansätze variieren stark zwischen und selbst innerhalb von Einrichtungen. Zwar gaben 30,8 % der Teilnehmenden an, vorgefertigte Musterprotokolle zu nutzen, und 25,8 % arbeiten mit etablierten Ablagevorlagen, doch handelt es sich dabei überwiegend um einrichtungsinterne Lösungen, die häufig nicht stringent umgesetzt oder regelmäßig verändert werden. Prinzipien des [Semantic Web](/conservation-metadataschema/background/conceptual-foundations/glossar#semantic-web)  und [Linked Open Data](/conservation-metadataschema/background/conceptual-foundations/glossar#linked-open-data) für strukturierte, semantisch modellierte und maschinenlesbare Daten finden in der restauratorischen Dokumentationspraxis bislang kaum Anwendung.[^2]
 
 Diese Heterogenität erschwert die Vergleichbarkeit von Informationen und die langfristige Nachnutzbarkeit restauratorischer Daten erheblich. Die bewährten, aber semantisch eher geschlossenen Formate freitextbasierter Berichte in Word- oder PDF-Formaten[^2] stoßen zunehmend an Grenzen, wenn Dokumentationen in andere Systeme überführt oder maschinell ausgewertet werden sollen. Ohne gemeinsame strukturelle und semantische Standards bleiben wichtige Potenziale für systematische Auswertungen, vergleichende Studien und die Integration restauratorischer Daten in übergreifende Forschungsinfrastrukturen unerschlossen.
 Die Umfrage liefert darüber hinaus eine weitere entscheidende und zugleich ermutigende Erkenntnis. Trotz der formalen Heterogenität besteht eine hohe inhaltliche Übereinstimmung darüber, welche Informationen für die Dokumentation konservatorisch-restauratorischer Maßnahmen als zentral erachtet werden. Dies gilt sowohl fach- als auch institutionsübergreifend[^2]. Die verschiedenen Fachdisziplinen (Archäologie, Baudenkmalpflege, Gemälderestaurierung, Textilrestaurierung etc.) legen erwartungsgemäß jeweils einen etwas anderen Fokus auf die spezifischen Kontextinformationen, die sich aus den verschiedenen Objektarten ergeben. Abgesehen davon stimmen Restaurator:innen jedoch weitgehend darin überein, welche Informationen zum eigentlichen Restaurierungsprozess dokumentiert werden sollten. Dieser Konsens verdeutlicht, dass inhaltlich die zentralen Informationen über Fachgrenzen hinweg bereits ähnlich erfasst werden. Was fehlt, ist ein gemeinsamer Orientierungsrahmen, der diese vorhandene Übereinstimmung in eine strukturierte, interoperable Form überführt und dabei insbesondere auch die sich rasch entwickelnden Anforderungen maschinenlesbarer Forschungsdaten berücksichtigt. 
 
-Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgestellten Metadatenschemas als gemeinsamer Dokumentationsstandard in der Konservierung-Restaurierung. Das Metadatenschema versteht sich als Orientierungshilfe für eine einheitliche Dokumentationspraxis, ohne die notwendige Flexibilität fachspezifischer Anforderungen einzuschränken. Informationen werden dabei grundsätzlich in verpflichtende, empfohlene sowie optionale Angaben unterteilt. Aus den als „Pflicht“-Feldern deklarierten Metadatenelementen ergeben sich jene Informationen, die für eine grundlegend vollständige Dokumentation konservatorisch-restauratorischer Tätigkeiten als essenziell erachtet werden („Minimaldatensatz“). 
+### Das Metadatenschema als Referenzrahmen
+> Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgestellten Metadatenschemas als gemeinsamer Dokumentationsstandard in der Konservierung-Restaurierung. Das Metadatenschema versteht sich als Orientierungshilfe für eine einheitliche Dokumentationspraxis, ohne die notwendige Flexibilität fachspezifischer Anforderungen einzuschränken.
+
+Die erfassten Informationen werden dabei in unterschiedliche Verpflichtungsgrade eingeteilt:
+
+<LevelGrid items={[
+  {level: 'required', highlight: true,
+   text: 'Bilden zusammen den Minimaldatensatz einer vollständigen Dokumentation.'},
+  {level: 'conditional',
+   text: 'Verpflichtend, sobald der jeweilige Sachverhalt zutrifft.'},
+  {level: 'recommended',
+   text: 'Tragen zu einer qualitätvollen, gut nachnutzbaren Dokumentation bei.'},
+  {level: 'optional',
+   text: 'Fach- und kontextspezifische Ergänzungen.'},
+]} />
+
 
 ### Zielgruppe
+
+<CardGrid items={[
+  {icon: '🖌️', title: 'Restaurator:innen',
+   text: 'In Museen, Denkmalfachbehörden, Hochschulen oder freiberuflich.'},
+  {icon: '🗄️', title: 'Systementwicklung',
+   text: 'Bei neuen Datenbanklösungen oder überarbeiteten Vorlagen.'},
+  {icon: '🎓', title: 'Lehre',
+   text: 'Zur Vermittlung guter Dokumentationspraxis.'},
+]} />
+
 Das vorliegende Schema richtet sich primär an Fachpersonen aus dem Bereich der Konservierung-Restaurierung, unabhängig von ihrer institutionellen Anbindung oder fachlichen Spezialisierung. Es soll Restaurator:innen in Museen, Denkmalfachbehörden, Universitäten, Hochschulen, außeruniversitären (Forschungs-) Einrichtungen sowie freiberuflich Tätigen eine Orientierung für die systematische Dokumentation ihrer Arbeit bieten. Das Metadatenschema ist bewusst so konzipiert, dass es in unterschiedlichen Erfassungssystemen anwendbar ist. Es versteht sich nicht als starre Vorgabe, sondern als Rahmen, der Raum für fach- und kontextspezifische Anpassungen lässt, dabei jedoch einen verbindlichen Kern an notwendigen Informationen definiert.
 
 Darüber hinaus kann das Schema auch für Personen relevant sein, die mit der Entwicklung oder Anpassung von Dokumentationssystemen befasst sind, etwa bei der Implementierung neuer Datenbanklösungen oder der Überarbeitung bestehender Vorlagen. Auch für die Lehre in der restauratorischen Ausbildung bietet das Metadatenschema eine strukturierte Grundlage zur Vermittlung guter Dokumentationspraxis im Sinne eines qualitätvollen Forschungsdatenmanagements.
@@ -26,4 +72,6 @@ Darüber hinaus kann das Schema auch für Personen relevant sein, die mit der En
  
 ---
 [^1]: Siehe hierzu beispielsweise ICOMOS Deutschland, ICOMOS Luxemburg, ICOMOS Österreich, & ICOMOS Schweiz. (2012). MONUMENTA I: Internationale Grundsätze und Richtlinien der Denkmalpflege. Stuttgart.
-[^2]: Die Primärdaten der Umfrage finden sich unter: Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. [DOI](https://doi.org/10.5281/zenodo.17047278). Die schriftliche Auswertung der Umfrage bei Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanage-ment für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. [DOI](https://doi.org/10.5281/zenodo.17475354)
+[^2]: Die Primärdaten der Umfrage finden sich unter:   
+Fischer, Kristina (2025). N4O Community Survey Conservation - Data (v1.0). GitHub/Zenodo. [DOI](https://doi.org/10.5281/zenodo.17047278).   
+Die schriftliche Auswertung der Umfrage bei Fischer, K., & Witt, N. (2025). Zusammenfassung des Status Quo im Forschungsdatenmanage-ment für den Bereich der Konservierung-Restaurierung (Version v1). Zenodo. [DOI](https://doi.org/10.5281/zenodo.17475354)
