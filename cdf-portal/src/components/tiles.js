@@ -50,8 +50,8 @@ export function CardGrid({items}) {
  * --level-* aus src/css/custom.css.
  * ------------------------------------------------------------- */
 const LEVELS = {
-  required:    {label: 'Verpflichtend',         cls: 'label-required',    color: 'var(--level-required)'},
-  conditional: {label: 'Bedingt verpflichtend', cls: 'label-conditional', color: 'var(--level-conditional)'},
+  required:    {label: 'Pflicht',         cls: 'label-required',    color: 'var(--level-required)'},
+  conditional: {label: 'Bedingte Pflicht', cls: 'label-conditional', color: 'var(--level-conditional)'},
   recommended: {label: 'Empfohlen',             cls: 'label-recommended', color: 'var(--level-recommended)'},
   optional:    {label: 'Optional',              cls: 'label-optional',    color: 'var(--level-optional)'},
 };

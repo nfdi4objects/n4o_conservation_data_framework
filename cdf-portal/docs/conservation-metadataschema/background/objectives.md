@@ -25,6 +25,8 @@ Eine im Frühjahr 2025 durchgeführte Online-Umfrage mit 240 Teilnehmenden aus d
 
 *Umfrageergebnisse zur fachlichen Dokumentation (Kristina Fischer/ LEIZA, CC-BY 4.0)*
 
+#### Zentrale Ergebnisse der Umfrage
+
 <StatGrid items={[
   {value: '240',    label: 'Teilnehmende'},
   {value: '48,8 %', label: 'dokumentieren hybrid'},
@@ -37,16 +39,16 @@ Von den 240 Teilnehmenden dokumentieren 48,8 % hybrid (sowohl analog als auch di
 Diese Heterogenität erschwert die Vergleichbarkeit von Informationen und die langfristige Nachnutzbarkeit restauratorischer Daten erheblich. Die bewährten, aber semantisch eher geschlossenen Formate freitextbasierter Berichte in Word- oder PDF-Formaten[^2] stoßen zunehmend an Grenzen, wenn Dokumentationen in andere Systeme überführt oder maschinell ausgewertet werden sollen. Ohne gemeinsame strukturelle und semantische Standards bleiben wichtige Potenziale für systematische Auswertungen, vergleichende Studien und die Integration restauratorischer Daten in übergreifende Forschungsinfrastrukturen unerschlossen.
 Die Umfrage liefert darüber hinaus eine weitere entscheidende und zugleich ermutigende Erkenntnis. Trotz der formalen Heterogenität besteht eine hohe inhaltliche Übereinstimmung darüber, welche Informationen für die Dokumentation konservatorisch-restauratorischer Maßnahmen als zentral erachtet werden. Dies gilt sowohl fach- als auch institutionsübergreifend[^2]. Die verschiedenen Fachdisziplinen (Archäologie, Baudenkmalpflege, Gemälderestaurierung, Textilrestaurierung etc.) legen erwartungsgemäß jeweils einen etwas anderen Fokus auf die spezifischen Kontextinformationen, die sich aus den verschiedenen Objektarten ergeben. Abgesehen davon stimmen Restaurator:innen jedoch weitgehend darin überein, welche Informationen zum eigentlichen Restaurierungsprozess dokumentiert werden sollten. Dieser Konsens verdeutlicht, dass inhaltlich die zentralen Informationen über Fachgrenzen hinweg bereits ähnlich erfasst werden. Was fehlt, ist ein gemeinsamer Orientierungsrahmen, der diese vorhandene Übereinstimmung in eine strukturierte, interoperable Form überführt und dabei insbesondere auch die sich rasch entwickelnden Anforderungen maschinenlesbarer Forschungsdaten berücksichtigt. 
 
-### Das Metadatenschema als Referenzrahmen
-> Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgestellten Metadatenschemas als gemeinsamer Dokumentationsstandard in der Konservierung-Restaurierung. Das Metadatenschema versteht sich als Orientierungshilfe für eine einheitliche Dokumentationspraxis, ohne die notwendige Flexibilität fachspezifischer Anforderungen einzuschränken.
+:::info Das Metadatenschema als Referenzrahmen
+Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgestellten Metadatenschemas als gemeinsamer Dokumentationsstandard in der Konservierung-Restaurierung. Das Metadatenschema versteht sich als Orientierungshilfe für eine einheitliche Dokumentationspraxis, ohne die notwendige Flexibilität fachspezifischer Anforderungen einzuschränken.
 
-Die erfassten Informationen werden dabei in unterschiedliche Verpflichtungsgrade eingeteilt:
+**Die erfassten Informationen werden dabei in unterschiedliche Verpflichtungsgrade eingeteilt:**
 
 <LevelGrid items={[
   {level: 'required', highlight: true,
    text: 'Bilden zusammen den Minimaldatensatz einer vollständigen Dokumentation.'},
   {level: 'conditional',
-   text: 'Verpflichtend, sobald der jeweilige Sachverhalt zutrifft.'},
+   text: 'Verpflichtend, sobald die jeweiligen Informationen vorliegen.'},
   {level: 'recommended',
    text: 'Tragen zu einer qualitätvollen, gut nachnutzbaren Dokumentation bei.'},
   {level: 'optional',
@@ -56,18 +58,18 @@ Die erfassten Informationen werden dabei in unterschiedliche Verpflichtungsgrade
 
 ### Zielgruppe
 
+Das vorliegende Schema richtet sich primär an Fachpersonen aus dem Bereich der Konservierung-Restaurierung, unabhängig von ihrer institutionellen Anbindung oder fachlichen Spezialisierung. Es soll Restaurator:innen in Museen, Denkmalfachbehörden, Universitäten, Hochschulen, außeruniversitären (Forschungs-) Einrichtungen sowie freiberuflich Tätigen eine Orientierung für die systematische Dokumentation ihrer Arbeit bieten. Das Metadatenschema ist bewusst so konzipiert, dass es in unterschiedlichen Erfassungssystemen anwendbar ist. Es versteht sich nicht als starre Vorgabe, sondern als Rahmen, der Raum für fach- und kontextspezifische Anpassungen lässt, dabei jedoch einen verbindlichen Kern an notwendigen Informationen definiert.
+
+Darüber hinaus kann das Schema auch für Personen relevant sein, die mit der Entwicklung oder Anpassung von Dokumentationssystemen befasst sind, etwa bei der Implementierung neuer Datenbanklösungen oder der Überarbeitung bestehender Vorlagen. Auch für die Lehre in der restauratorischen Ausbildung bietet das Metadatenschema eine strukturierte Grundlage zur Vermittlung guter Dokumentationspraxis im Sinne eines qualitätvollen Forschungsdatenmanagements.
+
 <CardGrid items={[
   {icon: '🖌️', title: 'Restaurator:innen',
-   text: 'In Museen, Denkmalfachbehörden, Hochschulen oder freiberuflich.'},
+   text: 'In Museen, Denkmalfachbehörden, Hochschulen oder Selbstständige.'},
   {icon: '🗄️', title: 'Systementwicklung',
    text: 'Bei neuen Datenbanklösungen oder überarbeiteten Vorlagen.'},
   {icon: '🎓', title: 'Lehre',
    text: 'Zur Vermittlung guter Dokumentationspraxis.'},
 ]} />
-
-Das vorliegende Schema richtet sich primär an Fachpersonen aus dem Bereich der Konservierung-Restaurierung, unabhängig von ihrer institutionellen Anbindung oder fachlichen Spezialisierung. Es soll Restaurator:innen in Museen, Denkmalfachbehörden, Universitäten, Hochschulen, außeruniversitären (Forschungs-) Einrichtungen sowie freiberuflich Tätigen eine Orientierung für die systematische Dokumentation ihrer Arbeit bieten. Das Metadatenschema ist bewusst so konzipiert, dass es in unterschiedlichen Erfassungssystemen anwendbar ist. Es versteht sich nicht als starre Vorgabe, sondern als Rahmen, der Raum für fach- und kontextspezifische Anpassungen lässt, dabei jedoch einen verbindlichen Kern an notwendigen Informationen definiert.
-
-Darüber hinaus kann das Schema auch für Personen relevant sein, die mit der Entwicklung oder Anpassung von Dokumentationssystemen befasst sind, etwa bei der Implementierung neuer Datenbanklösungen oder der Überarbeitung bestehender Vorlagen. Auch für die Lehre in der restauratorischen Ausbildung bietet das Metadatenschema eine strukturierte Grundlage zur Vermittlung guter Dokumentationspraxis im Sinne eines qualitätvollen Forschungsdatenmanagements.
 
  
 ---
