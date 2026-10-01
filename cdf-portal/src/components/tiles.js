@@ -50,11 +50,19 @@ export function CardGrid({items}) {
  * --level-* aus src/css/custom.css.
  * ------------------------------------------------------------- */
 const LEVELS = {
-  required:    {label: 'Pflicht',         cls: 'label-required',    color: 'var(--level-required)'},
-  conditional: {label: 'Bedingte Pflicht', cls: 'label-conditional', color: 'var(--level-conditional)'},
+  required:    {label: 'Verpflichtend',         cls: 'label-required',    color: 'var(--level-required)'},
+  conditional: {label: 'Bedingt verpflichtend', cls: 'label-conditional', color: 'var(--level-conditional)'},
   recommended: {label: 'Empfohlen',             cls: 'label-recommended', color: 'var(--level-recommended)'},
   optional:    {label: 'Optional',              cls: 'label-optional',    color: 'var(--level-optional)'},
 };
+
+/* Einzelnes Label, z. B. auf Element-Seiten:
+ * <LevelBadge level="required" /> */
+export function LevelBadge({level}) {
+  const l = LEVELS[level];
+  if (!l) return null;
+  return <span className={`label ${l.cls}`}>{l.label}</span>;
+}
 
 /* Übersicht aller Grade als Kacheln:
  * <LevelGrid items={[
