@@ -1,5 +1,5 @@
 ---
-title: Hintergrund und Konzeption
+title: Background and Concept
 sidebar_position: 1
 ---
 
@@ -18,14 +18,16 @@ A description of the current situation, the identified needs in the field of con
 ### [Methodology and development process](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/development-process) 
 An overview of the schema’s development, the specialised reference frameworks taken into account, and the iterative development process involving the community.
 
-### [Basic Knowledge of Metadata](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/metadata-basics)  
+### [Conceptual Foundations](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/background/metadata-basics)  
 A concise introduction to key concepts such as:
 - FAIR principles
-- metadata and metadata schema
-- controlled vocabularies
-- unique identifier
+- Metadata and metadata schemas
+- Controlled vocabularies
+- Unique identifiers
 
-This chapter provides a common conceptual framework and helps to clarify the structural choices made in the schema.
+as well as a basic glossary of important terms.
+
+This section provides a common conceptual framework and facilitates an understanding of the structural decisions made in the schema.
 
 ---
 

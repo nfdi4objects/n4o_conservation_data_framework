@@ -19,7 +19,7 @@ Die Dokumentation konservatorisch-restauratorischer Maßnahmen bildet eine wicht
 Obwohl Dokumentation bereits seit Einführung der Charta von Venedig[^1] als fester Bestandteil der restauratorischen Arbeit etabliert ist, fehlt es bislang an einem einheitlichen und übergreifenden Referenzrahmen dafür, welche Informationen in einer vollständigen und qualitativen Dokumentation verbindlich enthalten sein sollten. Diese Situation ist insbesondere vor dem Hintergrund der fortschreitenden Digitalisierung und der sich rasch entwickelnden technischen Möglichkeiten der automatisierten Datenverarbeitung problematisch. Während strukturierte, maschinenlesbare Daten neue Potenziale für fachliche sowie interdisziplinäre wissenschaftliche Anschlussfähigkeit eröffnen könnten, bleiben diese Chancen ohne übergreifende Standards weitgehend ungenutzt.
 
 ### Empirische Grundlage durch Community-Umfrage
-Eine im Frühjahr 2025 durchgeführte Online-Umfrage mit 240 Teilnehmenden aus dem Bereich der Konservierung-Restaurierung bestätigte den Eindruck, dass die aktuelle Dokumentationslandschaft in der Praxis von erheblicher Heterogenität geprägt ist. Die Ergebnisse zeigen, dass die Digitalisierung der Dokumentationspraxis bereits weit fortgeschritten ist 
+Eine im Frühjahr 2025 durchgeführte Online-Umfrage mit 240 Teilnehmenden aus dem Bereich der Konservierung-Restaurierung bestätigte den Eindruck, dass die aktuelle Dokumentationslandschaft in der Praxis von erheblicher Heterogenität geprägt ist. Die Ergebnisse zeigen jedoch ebenfalls, dass die Digitalisierung der Dokumentationspraxis grundsätzlich bereits weit fortgeschritten ist:
 
 ![Umfrageergebnisse zur fachlichen Dokumentation](/img/Umfrage_Grafik_Dokumentation.png)
 
@@ -39,8 +39,11 @@ Von den 240 Teilnehmenden dokumentieren 48,8 % hybrid (sowohl analog als auch di
 Diese Heterogenität erschwert die Vergleichbarkeit von Informationen und die langfristige Nachnutzbarkeit restauratorischer Daten erheblich. Die bewährten, aber semantisch eher geschlossenen Formate freitextbasierter Berichte in Word- oder PDF-Formaten[^2] stoßen zunehmend an Grenzen, wenn Dokumentationen in andere Systeme überführt oder maschinell ausgewertet werden sollen. Ohne gemeinsame strukturelle und semantische Standards bleiben wichtige Potenziale für systematische Auswertungen, vergleichende Studien und die Integration restauratorischer Daten in übergreifende Forschungsinfrastrukturen unerschlossen.
 Die Umfrage liefert darüber hinaus eine weitere entscheidende und zugleich ermutigende Erkenntnis. Trotz der formalen Heterogenität besteht eine hohe inhaltliche Übereinstimmung darüber, welche Informationen für die Dokumentation konservatorisch-restauratorischer Maßnahmen als zentral erachtet werden. Dies gilt sowohl fach- als auch institutionsübergreifend[^2]. Die verschiedenen Fachdisziplinen (Archäologie, Baudenkmalpflege, Gemälderestaurierung, Textilrestaurierung etc.) legen erwartungsgemäß jeweils einen etwas anderen Fokus auf die spezifischen Kontextinformationen, die sich aus den verschiedenen Objektarten ergeben. Abgesehen davon stimmen Restaurator:innen jedoch weitgehend darin überein, welche Informationen zum eigentlichen Restaurierungsprozess dokumentiert werden sollten. Dieser Konsens verdeutlicht, dass inhaltlich die zentralen Informationen über Fachgrenzen hinweg bereits ähnlich erfasst werden. Was fehlt, ist ein gemeinsamer Orientierungsrahmen, der diese vorhandene Übereinstimmung in eine strukturierte, interoperable Form überführt und dabei insbesondere auch die sich rasch entwickelnden Anforderungen maschinenlesbarer Forschungsdaten berücksichtigt. 
 
-:::info Das Metadatenschema als Referenzrahmen
+## Das Metadatenschema als Referenzrahmen
+
+:::info 
 Diese Ausgangslage bildete die Motivation für die Entwicklung des hier vorgestellten Metadatenschemas als gemeinsamer Dokumentationsstandard in der Konservierung-Restaurierung. Das Metadatenschema versteht sich als Orientierungshilfe für eine einheitliche Dokumentationspraxis, ohne die notwendige Flexibilität fachspezifischer Anforderungen einzuschränken.
+:::
 
 **Die erfassten Informationen werden dabei in unterschiedliche Verpflichtungsgrade eingeteilt:**
 

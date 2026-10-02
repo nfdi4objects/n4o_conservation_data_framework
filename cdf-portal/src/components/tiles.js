@@ -1,4 +1,5 @@
 import React from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './tiles.module.css';
 
 /* ---------------------------------------------------------------
@@ -50,18 +51,38 @@ export function CardGrid({items}) {
  * --level-* aus src/css/custom.css.
  * ------------------------------------------------------------- */
 const LEVELS = {
-  required:    {label: 'Pflicht',         cls: 'label-required',    color: 'var(--level-required)'},
-  conditional: {label: 'Bedingte Pflicht', cls: 'label-conditional', color: 'var(--level-conditional)'},
-  recommended: {label: 'Empfohlen',             cls: 'label-recommended', color: 'var(--level-recommended)'},
-  optional:    {label: 'Optional',              cls: 'label-optional',    color: 'var(--level-optional)'},
+  required: {
+    cls: 'label-required',
+    color: 'var(--level-required)',
+    label: {de: 'Pflicht', en: 'Mandatory'},
+  },  
+  
+  conditional: {
+    cls: 'label-conditional',
+    color: 'var(--level-conditional)',
+    label: {de: 'Bedingte Pflicht', en: 'Conditional'},
+  },
+  recommended: {
+    cls: 'label-recommended',
+    color: 'var(--level-recommended)',
+    label: {de: 'Empfohlen', en: 'Recommended'},
+  },
+  optional: {
+    cls: 'label-optional',
+    color: 'var(--level-optional)',
+    label: {de: 'Optional', en: 'Optional'},
+  },
 };
 
 /* Einzelnes Label, z. B. auf Element-Seiten:
- * <LevelBadge level="required" /> */
+ * <LevelBadge level="required" />
+ * Der Text richtet sich automatisch nach der aktuellen Sprache. */
 export function LevelBadge({level}) {
+  const {i18n} = useDocusaurusContext();
   const l = LEVELS[level];
   if (!l) return null;
-  return <span className={`label ${l.cls}`}>{l.label}</span>;
+  const text = l.label[i18n.currentLocale] ?? l.label.de;
+  return <span className={`label ${l.cls}`}>{text}</span>;
 }
 
 /* Übersicht aller Grade als Kacheln:
