@@ -1,10 +1,10 @@
 ---
-title: Eindeutige Identifikatoren
-sidebar_position: 5
+title: Unique Identifier
+sidebar_position: 4
 ---
 
 :::caution Work-in-progress
-Diese Seite befindet sich noch im Aufbau
+This page is still under development
 :::
 
-# Eindeutige Identifikatoren
+# Unique Identifier

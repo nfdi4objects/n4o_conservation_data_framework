@@ -1,10 +1,10 @@
 ---
-title: Kontrollierte Vokabulare
-sidebar_position: 4
+title: Controlled Vocabularies
+sidebar_position: 3
 ---
 
 :::caution Work-in-progress
-Diese Seite befindet sich noch im Aufbau
+This page is still under development
 :::
 
-# Kontrollierte Vokabulare
+# Controlled Vocabularies

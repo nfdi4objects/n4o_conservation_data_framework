@@ -69,5 +69,5 @@ This element can be repeated in order to record both the year and the era/period
 
 | Schema  | Element name | Level of obligation |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Conditional obligation | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Conditional obligation | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Object production date](https://collectionstrust.org.uk/resource/object-production-date/) and [Date information](https://collectionstrust.org.uk/resource/date-information/)| Recommended |

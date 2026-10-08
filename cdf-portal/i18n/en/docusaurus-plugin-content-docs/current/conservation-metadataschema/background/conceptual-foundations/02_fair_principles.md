@@ -1,10 +1,10 @@
 ---
-title: FAIR-Prinzipien
-sidebar_position: 2
+title: FAIR Principles
+sidebar_position: 1
 ---
 
 :::caution Work-in-progress
-Diese Seite befindet sich noch im Aufbau
+This page is still under development
 :::
 
-# FAIR-Prinzipien als Leitgedanke
+# The FAIR principles as a guiding philosophy

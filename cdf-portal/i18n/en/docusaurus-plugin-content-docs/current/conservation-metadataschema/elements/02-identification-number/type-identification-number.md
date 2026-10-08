@@ -63,5 +63,5 @@ The identification number must be described using exactly one defining number ty
 
 | Schema  | Element name | Level of obligation |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | no equivalent | not applicable | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | no equivalent | not applicable | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | no equivalent | not applicable | 

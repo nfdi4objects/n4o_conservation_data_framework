@@ -1,6 +1,6 @@
 ---
 title: Basic Knowledge of Metadata
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Basic Knowledge of Metadata

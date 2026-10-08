@@ -85,5 +85,5 @@ In der vorliegenden ersten Version des KuR-Schemas wird dieser Bereich daher bew
 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | [Ort](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48105080/Ort+Bedingt+Pflicht) | Bedingte Pflicht | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | [Ort](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48105080/Ort+Bedingt+Pflicht) | Bedingte Pflicht | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Angaben zur Objektherstellung](https://collectionstrust.org.uk/resource/object-production-information/?tr=de) und [Angaben zum Ort](https://collectionstrust.org.uk/resource/place-information/?tr=de)| keine Angabe |

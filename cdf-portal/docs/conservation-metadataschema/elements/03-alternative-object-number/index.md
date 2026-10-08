@@ -65,5 +65,5 @@ Das Element ist wiederholbar, um mehrere alternative Nummern erfassen zu können
 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Andere Nummer](https://collectionstrust.org.uk/resource/other-number/?tr=de) | Sofern erforderlich | 

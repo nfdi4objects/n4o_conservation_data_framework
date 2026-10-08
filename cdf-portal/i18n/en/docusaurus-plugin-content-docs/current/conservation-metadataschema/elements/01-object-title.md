@@ -67,5 +67,5 @@ The field can be repeated so that multiple descriptions or additional sub-descri
 
 | Schema        | Element name | Level of obligation |
 |:--------------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Mandatory | 
+| [MDS v1.1](http://www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Mandatory | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/)| [Titel](https://collectionstrust.org.uk/resource/title/?tr=de)| not specified | 

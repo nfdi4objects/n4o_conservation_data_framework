@@ -66,5 +66,5 @@ Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilit√
 
 | Schema        | Elementname | Verpflichtungsgrad |
 |:--------------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Pflicht
+| [MDS v1.1](http://www.minimaldatensatz.de)| [Objektitel oder - benennung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48103813/Objekttitel+oder+-benennung+Pflicht)|Pflicht
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/)| [Titel](https://collectionstrust.org.uk/resource/title/?tr=de)| keine Angabe| 

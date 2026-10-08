@@ -64,5 +64,5 @@ Ideally, a specific date should be recorded. If this is not known with certainty
 
 | Schema  | Element name | Level of obligation |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Conditional mandatory | 
+| [MDS v1.1](http://www.minimaldatensatz.de)| [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Conditional mandatory | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) |[Accession date](https://collectionstrust.org.uk/resource/accession-date/) & [Date information](https://collectionstrust.org.uk/resource/date-information/)| Record once only for an object or group of objects |

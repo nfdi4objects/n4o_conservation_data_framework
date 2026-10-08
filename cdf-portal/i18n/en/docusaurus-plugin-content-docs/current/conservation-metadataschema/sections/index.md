@@ -15,9 +15,9 @@ In line with this principle, the sections are divided into different **levels of
 
 <LevelGrid items={[
   {level: 'required', 
-   text: 'This comprises the information without which it would not be possible to produce documentation that is complete and comprehensible to third parties. These elements constitute the actual **minimum data set** in the strict sense.'},
+   text: 'This comprises the information without which it would not be possible to produce documentation that is complete and comprehensible to third parties.'},
   {level: 'conditional',
-   text: 'Refers to fields that must be completed only under certain circumstances[^1], e.g. only if a specific activity has been carried out.'},
+   text: 'Refers to sections that must be completed only under certain circumstances, e.g. only if a specific activity has been carried out.'},
   {level: 'recommended',
    text: 'Refers to information that is deemed desirable from a professional perspective. Recording this information significantly improves the quality and reusability of the documentation, whilst its absence does not impair the fundamental understanding of the conservation documentation.'},
   {level: 'optional',
@@ -28,4 +28,3 @@ In line with this principle, the sections are divided into different **levels of
 
 In this way, the schema can be assembled and expanded like a modular system, depending on the specific application. This flexibility makes it possible both to ensure a common basis for cross-cutting comparability and reusability, and to allow for the necessary subject-specific specification and differentiation. The Conservation MDS thus provides a guiding framework for the structured recording and description of the various work processes and outcomes.
 
-[^1]: The second use case for *Conditional* concerns information that is generally expected to be included in high-quality documentation (and which therefore goes beyond a mere recommendation), but which, in practice, is often not (or no longer) available at the time of recording (e.g. when digitising analogue reports retrospectively). This category thus strikes a balance between the substantive requirement for comprehensive digital documentation and the current realities of existing documentation practices.

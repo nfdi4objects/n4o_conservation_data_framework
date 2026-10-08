@@ -18,9 +18,9 @@ Die Sektion als Ganzes ist verpflichtend, da sie die elementare Grundlage für k
 |:--------|:-------------------|:------------------------------------------------------------------------------|
 | [Kennung der Zustandserfassung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/R48T23`](https://www.w3id.org/conservation/terms/metadata/R48T23) |
 | [Anlass der Zustandserfassung]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/G5TA85`](https://www.w3id.org/conservation/terms/metadata/G5TA85) |
-| [Erfassungszeitpunkt]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A8ABBA`](https://www.w3id.org/conservation/terms/metadata/A8ABBA) |
+| ↳ [Erfassungszeitpunkt]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/A8ABBA`](https://www.w3id.org/conservation/terms/metadata/A8ABBA) |
 | [Erfassungsdatum]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CA1BC5`](https://www.w3id.org/conservation/terms/metadata/CA1BC5) |
-| [Zuständige Person (Zustandserfassung)]() | <span class="label label-required">Pflicht</span>| [`https://www.w3id.org/conservation/terms/metadata/HRO94F`](https://www.w3id.org/conservation/terms/metadata/HRO94F) |
+| [Zuständige Person]() | <span class="label label-required">Pflicht</span>| [`https://www.w3id.org/conservation/terms/metadata/HRO94F`](https://www.w3id.org/conservation/terms/metadata/HRO94F) |
 | [Dokumentationsform]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/CDD6B5`](https://www.w3id.org/conservation/terms/metadata/CDD6B5)  |
 | ↳ [Verweis]() | <span class="label label-conditional">Bedingte Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/GDF23F`](https://www.w3id.org/conservation/terms/metadata/GDF23F) |
 | [Zustandsbeschreibung]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/AC1786`](https://www.w3id.org/conservation/terms/metadata/AC1786) |

@@ -71,5 +71,5 @@ Das Element ist wiederholbar, um bei Bedarf sowohl Jahreszahl als auch Epoche/Pe
 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Bedingte Pflicht | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | [Datierung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104553/Datierung+Bedingt+Pflicht) | Bedingte Pflicht | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Objekt: Herstellung: Datum](https://collectionstrust.org.uk/resource/object-production-information/?tr=de) & [Angaben zum Datum](https://collectionstrust.org.uk/resource/date-information/?tr=de)| keine Angabe |

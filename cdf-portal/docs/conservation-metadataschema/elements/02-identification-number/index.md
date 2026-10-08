@@ -68,5 +68,5 @@ Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennun
 
 | Schema | Elementname | Verpflichtungsgrad |
 |:--------|:-------------------|:----|
-| [MDS v1.1](www.minimaldatensatz.de) | [Inventarnummer](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104544/Inventarnummer+Pflicht) | Pflicht |
+| [MDS v1.1](http://www.minimaldatensatz.de) | [Inventarnummer](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104544/Inventarnummer+Pflicht) | Pflicht |
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Objektnummer](https://collectionstrust.org.uk/resource/object-number/?tr=de) | Pflicht |

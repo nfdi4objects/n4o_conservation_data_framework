@@ -85,5 +85,5 @@ In this first version of the Conservation Metadata Schema, this area is therefor
 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | [Ort](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48105080/Ort+Bedingt+Pflicht) | Conditional obligation | 
+| [MDS v1.1](http://www.minimaldatensatz.de)| [Ort](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48105080/Ort+Bedingt+Pflicht) | Conditional obligation | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Object production information](https://collectionstrust.org.uk/resource/object-production-information/) and [Place information](https://collectionstrust.org.uk/resource/place-information/)| not specified |

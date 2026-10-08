@@ -66,5 +66,5 @@ Die Kennzeichnungsnummer muss mit genau einem definierenden Nummerntyp beschrieb
 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
-| [MDS v1.1](www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
+| [MDS v1.1](http://www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
 | [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | keine Entsprechung | nicht zutreffend | 

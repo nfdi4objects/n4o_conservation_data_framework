@@ -11,14 +11,18 @@ Das KuR-Metadatenschema definiert eine Reihe von Elementen, mit denen sämtliche
 
 <LevelGrid items={[
   {level: 'required', 
-   text: 'Umfasst jene Informationen, ohne die eine vollständige und für Dritte nachvollziehbare Dokumentation nicht möglich ist. Diese Elemente bilden den eigentlichen **Minimaldatensatz** im engeren Sinne.'},
+   text: 'Umfasst jene Informationen, ohne die eine vollständige und für Dritte nachvollziehbare Dokumentation nicht möglich ist. Diese Elemente bilden den eigentlichen Minimaldatensatz im engeren Sinne.'},
   {level: 'conditional',
-   text: 'Bezeichnet Elemente, die nur unter bestimmten Umständen verpflichtend auszufüllen sind[^1], z.b. nur wenn eine bestimmte Tätigkeit durchgeführt wurde.'},
+   text: 'Bezeichnet Elemente, die nur unter bestimmten Umständen verpflichtend auszufüllen sind, z.b. nur wenn eine bestimmte Tätigkeit durchgeführt wurde.'},
   {level: 'recommended',
    text: 'Bezieht sich auf Informationen, die aus fachlicher Sicht als wünschenswert deklariert werden. Ihre Erfassung verbessert die Qualität und Nachnutzbarkeit der Dokumentation erheblich, ohne dass ihr Fehlen das grundlegende Verständnis der konservatorisch-restauratorischen Dokumentation beeinträchtigt.'},
   {level: 'optional',
    text: 'Dient der Erweiterung des Schemas für spezifische Fachdisziplinen oder besondere Arbeitskontexte. Diese Elemente zeigen exemplarisch auf, wie das Schema kontextspezifisch ausgebaut werden kann und speisen sich hauptsächlich aus den Antworten der durchgeführten Community-Umfrage.'},
 ]} />
+
+:::caution Sonderfall der Bedingten Pflicht
+Der zweite Anwendungsfall der *bedingten Pflicht* betrifft Informationen, die grundsätzlich für eine qualitätvolle Dokumentation erwartet werden (die also über eine bloße Empfehlung hinausgehen), in der realen Praxis jedoch zum Zeitpunkt der Erfassung häufig nicht (mehr) verfügbar sind (z.B. bei der Retrodigitalisierung analoger Berichte). Die Kategorie schafft damit eine Balance zwischen dem inhaltlichen Anspruch an eine vollständige, digitale Dokumentation und den aktuellen realen Gegebenheiten bisheriger Dokumentationspraktiken.
+:::
 
 Pflichtelemente sichern die Mindestinformationen, während optionale Elemente erste Beispiele für eine fachspezifische Erweiterung aufzeigen. Das Schema versteht sich nicht als abgeschlossenes, starres System, sondern als erweiterbarer Rahmen. Institutionen und Fachbereiche *können* und *sollen* das Schema um zusätzliche, für ihre spezifischen Bedürfnisse relevante Elemente ergänzen, solange die durch die Pflichtelemente definierten Minimalangaben enthalten bleiben. 
 
