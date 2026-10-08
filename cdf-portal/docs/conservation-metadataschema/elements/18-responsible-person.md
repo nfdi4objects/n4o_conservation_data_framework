@@ -69,19 +69,18 @@ Das Element *Zuständige Person* ist verpflichtend, da ohne diese Information di
 
 ### Feldwert
 
-<span class="label label-text">Text / URI</span>
+<span class="label label-text">Text / URI</span>  
 
 Der Datenwert dieses Elementes sollte strukturiert bzw. maschinenlesbar erfasst werden. Dabei können *Vor- und Nachnamen* in einem Freitextfeld oder idealerweise aus einer festen Liste zuständiger Kolleg:innen erfasst werde und zusätzlich ein *maschinenlesbarer Identifier* (z. B. [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/), [![ROR](/img/ror-icon-bw-16.png)](https://ror.org/), [ISNI](https://isni.org/)) hinterlegt sein. Dies ermöglicht eine eindeutige Zuordnung und verbessert die Interoperabilität über verschiedene Datenbanken und Systeme hinweg.
-:::
 
 ---
 
 ### Wiederholbar
 
-<span class="label label-text">Nein</span>
+<span class="label label-text">Nein</span>  
+
 
 Für jedes Ereignis muss genau eine hauptverantwortliche Person benannt werden, daher ist dieses Element nicht wiederholbar. Zusätzliche Beteiligte könnten durch ein optionales Feld ergänzt werden. 
-:::
 
 ---
 

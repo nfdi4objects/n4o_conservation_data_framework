@@ -21,36 +21,35 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ---
 
-## Definition
+:::info Definition
  
 Die Objektbenennung erfasst die gebräuchliche Bezeichnung des konkreten Objekts, auf das sich die Restaurierungsdokumentation bezieht, in natürlicher Sprache. Sie dient dazu, das Objekt schnell identifizierbar und ansprechbar zu machen, sowohl in der internen Kommunikation als auch in der Dokumentation.
  
 Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Objekttyp und beschreibenden Attributen bestehen. Entscheidend ist, dass die Benennung das Objekt für Menschen eindeutig wiedererkennbar macht.
- 
+:::
+
 ---
 
-:::info[Verpflichtungsgrad]
+### Verpflichtungsgrad
 
-<span class="label label-required">Pflicht</span>
+<span class="label label-required">Pflicht</span>  
 
 Die Objektbenennung ist für die fachliche Verständlichkeit der Dokumentation erforderlich und schafft den notwendigen Kontext für alle Beteiligten. Ohne sie bleibt das behandelte Objekt selbst bei vorhandener Inventarnummer für die menschliche Kommunikation inhaltlich schwer einzuordnen.
-:::
  
 ---
 
-:::info[Feldwert]
+### Feldwert
 
-<span class="label label-text">Text</span>
+<span class="label label-text">Text</span>  
 
 Das Element sollte als Freitext-Feld angelegt werden, um ausreichend Flexibilität für die fachspezifische Beschreibung des jeweiligen Objektes zu ermöglichen.
-:::
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
-<span class="label label-text">Ja</span>
-:::
+<span class="label label-text">Ja</span>  
+
 ---
 
 :::tip[Beispiel]
