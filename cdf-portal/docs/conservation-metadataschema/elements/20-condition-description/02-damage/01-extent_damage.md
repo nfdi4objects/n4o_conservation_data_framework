@@ -10,9 +10,9 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Schadensgrad
 
-Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
-↳ Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
-&nbsp; &nbsp; ↳ Oberelement: [Schadensphänomen](/conservation-metadatenschema/elements/damage)
+- Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
+  - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
+    - Oberelement: [Schadensphänomen](/conservation-metadataschema/elements/condition-description/damage/)
 
 ---
  

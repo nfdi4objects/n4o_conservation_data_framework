@@ -10,9 +10,9 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Aktuelle Maße
 
-Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
-↳ Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
-&nbsp; &nbsp; ↳ Oberelement: [Physischer Objektzustand](/conservation-metadatenschema/elements/physical-condition)
+- Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
+  - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
+    - Oberelement: [Physischer Objektzustand](/conservation-metadataschema/elements/condition-description/physical-condition/)
 
 ---
  

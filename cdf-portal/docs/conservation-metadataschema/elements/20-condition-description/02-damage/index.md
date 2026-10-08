@@ -10,8 +10,8 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Schadensphänomene
 
-Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
-    ↳ Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
+- Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
+  - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
 
 ---
  

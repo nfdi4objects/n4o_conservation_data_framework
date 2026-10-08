@@ -63,21 +63,25 @@ Benennung der Person, die die jweilige Handlung durchgeführt hat bzw. für dies
 <span class="label label-required">Pflicht</span>
  
 Das Element *Zuständige Person* ist verpflichtend, da ohne diese Information die Nachvollziehbarkeit und Verantwortlichkeit der jeweiligen Handlung nicht gewährleistet ist. Die Qualität der Ergebnisse sowie deren Dokumentation hängt in den meisten Fällen direkt von der Expertise und Erfahrung der durchführenden Person ab. Die Angabe ermöglicht es, bei Rückfragen oder Unklarheiten Kontakt aufzunehmen und die Einschätzung zu validieren. 
+:::
+
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text">Text / URI</span>
 
 Der Datenwert dieses Elementes sollte strukturiert bzw. maschinenlesbar erfasst werden. Dabei können *Vor- und Nachnamen* in einem Freitextfeld oder idealerweise aus einer festen Liste zuständiger Kolleg:innen erfasst werde und zusätzlich ein *maschinenlesbarer Identifier* (z. B. [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/), [![ROR](/img/ror-icon-bw-16.png)](https://ror.org/), [ISNI](https://isni.org/)) hinterlegt sein. Dies ermöglicht eine eindeutige Zuordnung und verbessert die Interoperabilität über verschiedene Datenbanken und Systeme hinweg.
+:::
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text">Nein</span>
 
 Für jedes Ereignis muss genau eine hauptverantwortliche Person benannt werden, daher ist dieses Element nicht wiederholbar. Zusätzliche Beteiligte könnten durch ein optionales Feld ergänzt werden. 
+:::
 
 ---
 
