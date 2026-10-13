@@ -114,7 +114,6 @@ Der iterative, kollaborative Prozess zur Entwicklung des KuR-MDS in der Temporar
     text: 'Nach erfolgreicher Bewertung im NFDI4Objects Commons Prozess übergang in Status als offizieller Standard. Publikation der finalen Version auf Zenodo. Grundlage für die folgende Entwicklung eines interoperablen Austauschformats.',
     milestone: false,
   },
-  },
   {
     date: 'Januar 2027',
     title: 'Start Phase 2 - Weiterentwicklung zum Austauschformat"',
