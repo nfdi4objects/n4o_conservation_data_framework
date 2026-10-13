@@ -22,31 +22,32 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
- 
+:::info
+Definition here
+:::
+
 ---
 
-:::info[Level of obligation]
+## Modelling 
+
+### Level of obligation
 
 <span class="label label-conditional">Optional</span>
 
-
-:::
  
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 
-:::
-
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">No</span>
-:::
+
 ---
 
 :::tip[Example]

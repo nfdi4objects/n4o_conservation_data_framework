@@ -21,34 +21,35 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ## Definition
 
+:::info
 Die Art der weiteren Objektnummer spezifiziert den Typ der im Feld „Weitere Objektnummer" erfassten Kennzeichnung (z.B. Fundnummer, alte Inventarnummer, Fremdobjektnummer). Diese Typisierung macht den Ursprung und Verwendungszweck der alternativen Nummer nachvollziehbar.
+:::
  
 ---
+## Modellierung
 
-:::info[Verpflichtungsgrad]
+### Verpflichtungsgrad
 
 <span class="label label-conditional">Bedingte Pflicht</span>
 
 Sobald eine weitere Objektnummer erfasst wurde, ist die Angabe der Art verpflichtend. Ohne Typisierung geht der semantische Kontext verloren, und die zusätzliche Nummer wird zu einer bedeutungslosen Zeichenkette ohne erkennbaren Bezug zum Objekt oder seiner Geschichte.
-:::
+
  
 ---
 
-:::info[Feldwert]
+### Feldwert 
 
 <span class="label label-text">Text/URI</span>
 
 Die Typisierung der weiteren Objektnummer sollte aus einem kontrollierten Vokabular der im eigenen Anwendungskontext typischerweise auftretenden Arten von Nummern gespeist werden. Neben der natürlichsprachlichen Bezeichnung sollte dabei im Idealfall auch ein maschinenlesbarer Identifier (URI) erfasst werden.
-:::
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text">Nein</span>
 
-Pro weitere Objektnummer muss genau eine Nummernart angegeben werden, daher ist das Element nur in Kombination mit dem Element [Weitere Objektnummer]() wiederholbar. 
-:::
+Pro weitere Objektnummer muss genau eine Nummernart angegeben werden, daher ist das Element nur in Kombination mit dem Element [Weitere Objektnummer](/conservation-metadataschema/elements/alternative-object-number/) wiederholbar. 
 
 ---
 

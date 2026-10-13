@@ -29,34 +29,37 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ## Definition
 
+:::info
 Die Herkunft erfasst Informationen zur geografischen, kulturellen oder kontextuellen Provenienz des Objektes. Je nach Fachdisziplin können hier unterschiedliche Aspekte, wie Fundort, kulturelle Zuordnung, Werkstattzugehörigkeit oder Erwerbsinformationen, dokumentiert werden. 
+:::
  
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung
+
+### Verpflichtungsgrad
 
 <span class="label label-recommended">Empfohlen</span>
 
 Die Herkunft ist empfohlen, da sie Kontextinformationen liefert, die für die Interpretation von Materialeigenschaften, Herstellungstechniken und Erhaltungszustand relevant sein können. Regionalspezifische Traditionen, klimatische Bedingungen am Herkunftsort oder kulturelle Praktiken beeinflussen sowohl die ursprüngliche Beschaffenheit als auch das Alterungsverhalten von Objekten.
-:::
+
  
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text">Text/URI</span>
 
 Für das zugehörige Datenfeld dieses Elementes sollten entsprechende kontrollierte Vokabulare verwendet werden, um eine einheitliche Begrifflichkeit sicherzustellen. Dabei sollte im Idealfall neben der natürlichsprachlichen Bezeichnung auch ein zugehöriger eindeutiger Identifikator (URI) erfasst werden, um die Maschinenlesbarkeit zu verbessern.
-:::
+
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text">Ja</span>
 
 Das Element ist wiederholbar, da verschiedene Aspekte der Provenienz relevant sein können.
-:::
 
 ---
 

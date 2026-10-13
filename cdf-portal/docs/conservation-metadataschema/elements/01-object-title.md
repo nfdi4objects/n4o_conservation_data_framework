@@ -20,8 +20,9 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - Motiv
 
 ---
+## Definition
 
-:::info Definition
+:::info
  
 Die Objektbenennung erfasst die gebräuchliche Bezeichnung des konkreten Objekts, auf das sich die Restaurierungsdokumentation bezieht, in natürlicher Sprache. Sie dient dazu, das Objekt schnell identifizierbar und ansprechbar zu machen, sowohl in der internen Kommunikation als auch in der Dokumentation.
  
@@ -29,6 +30,8 @@ Die Benennung kann aus einem offiziellen Titel oder aus einer Kombination von Ob
 :::
 
 ---
+
+## Modellierung
 
 ### Verpflichtungsgrad
 

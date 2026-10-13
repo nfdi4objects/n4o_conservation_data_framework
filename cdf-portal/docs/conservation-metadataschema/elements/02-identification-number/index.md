@@ -25,34 +25,37 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ## Definition
 
+:::info 
 Das Element erfasst eine eindeutige alphanumerische Kennung, die das Objekt im Restaurierungsprozess identifizierbar macht.  
+:::
 
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung
+
+### Verpflichtungsgrad
 
 <span class="label label-required">Pflicht</span>
 
 Die Kennzeichnungsnummer gewährleistet die eindeutige Identifikation, insbesondere bei Objekten mit ähnlichen oder identischen Benennungen und ist somit unverzichtbar für die systematische Objektverwaltung.
-:::
+
 
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text">Text/URI</span>
 
 Im Idealfall handelt es sich bei der Kennung um einen maschinenlesbaren, persistenten Identifier (PID). In der Praxis verfügen jedoch noch nicht alle Einrichtungen über solch ein strukturiertes Kennzeichnungssystem, daher schreibt das Schema an dieser Stelle kein verpflichtendes Format der Kennung vor. 
-:::
+
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text">Nein</span>
 
 Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennung zugeordnet sein muss. Weitere bzw. ehemalige Objektnummern (z.B. alte Inventarnummern, temporäre Fundnummern oder sonstige Fremdnummern) können stattdessen im optionalen Element [Weitere Objektnummer](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/elements/alternative-object-number/) erfasst werden.
-:::
 
 ---
 

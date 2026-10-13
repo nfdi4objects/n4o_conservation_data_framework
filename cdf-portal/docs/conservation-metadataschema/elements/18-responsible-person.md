@@ -54,16 +54,19 @@ Sektion: [Gefährdungsbewertung](/conservation-metadataschema/sections/risk-asse
 
 ## Definition
  
-Benennung der Person, die die jweilige Handlung durchgeführt hat bzw. für diese verantwortlich ist. 
+:::info
+Benennung der Person, die die jeweilige Handlung durchgeführt hat bzw. für diese verantwortlich ist. 
+:::
  
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung
+
+### Verpflichtungsgrad
 
 <span class="label label-required">Pflicht</span>
  
 Das Element *Zuständige Person* ist verpflichtend, da ohne diese Information die Nachvollziehbarkeit und Verantwortlichkeit der jeweiligen Handlung nicht gewährleistet ist. Die Qualität der Ergebnisse sowie deren Dokumentation hängt in den meisten Fällen direkt von der Expertise und Erfahrung der durchführenden Person ab. Die Angabe ermöglicht es, bei Rückfragen oder Unklarheiten Kontakt aufzunehmen und die Einschätzung zu validieren. 
-:::
 
 ---
 

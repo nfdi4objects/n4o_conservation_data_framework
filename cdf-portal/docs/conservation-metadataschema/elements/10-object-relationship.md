@@ -21,29 +21,33 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - 
 
+---
 ## Definition
- 
+
+:::info
+Hier Definition
+:::
  
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung
+
+### Verpflichtungsgrad
 
 <span class="label label-required"></span>
-:::
  
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text"></span>
-:::
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text"></span>
-:::
+
 ---
 
 :::tip[Beispiel]

@@ -1,6 +1,6 @@
 ---
-title: Aktuelles Gewicht
-sidebar_position: 2
+title: Bisherige Umgebungsbedingungen
+sidebar_position: 3
 ---
  
 :::caution work-in-Progress
@@ -8,11 +8,10 @@ Diese Seite befindet sich noch im Aufbau!
 :::
 
 
-# Aktuelles Gewicht
+# Bisherige Umgebungsbedingungen
 
 - Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
-  - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
-    - Oberelement: [Physischer Objektzustand](/conservation-metadataschema/elements/condition-description/physical-condition/)
+    - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
 
 ---
  

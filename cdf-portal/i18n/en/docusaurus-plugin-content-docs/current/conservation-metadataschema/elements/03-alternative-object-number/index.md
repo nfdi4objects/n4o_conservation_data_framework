@@ -24,34 +24,34 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
+:::info
 This element records an additional number that is or was assigned to the object but is not (or is no longer) used as its primary identifier. This may be a previous number that was replaced as a result of inventorying or a change of collection, or it may be external reference numbers from other contexts (e.g. numbers from previous owners).
+:::
  
 ---
+## Modelling
 
-:::info[Level of obligation]
+### Level of obligation
 
 <span class="label label-optional">Optional</span>
 
 This element is optional, as not every object has multiple numbers, and recording this information falls outside the main focus of the conservation documentation.
-:::
 
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 The field value for this element is defined as a free-text field so that as wide a variety of number types as possible can be entered. Where available, former identifiers (URI/PID) may also be entered.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">Yes</span>
 
 The element can be repeated to allow multiple alternative numbers to be entered.
-:::
 
 ---
 

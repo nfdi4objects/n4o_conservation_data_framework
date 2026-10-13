@@ -30,34 +30,36 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
+:::info
 This element records a unique alphanumeric identifier that enables the object to be identified during the conservation process.  
+:::
 
 ---
 
-:::info[Level of obligation]
+## Modelling
+
+### Level of obligation
 
 <span class="label label-required">Mandatory</span>
 
 The identification number ensures unambiguous identification, particularly in the case of items with similar or identical names, and is therefore essential for systematic object management.
-:::
 
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 Ideally, the identifier should be a machine-readable, persistent identifier (PID). In practice, however, not all organisations have such a structured identification system in place yet; therefore, the schema does not specify a mandatory format for the identifier at this stage.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">Nein</span>
 
 This element cannot be repeated, as each object must be assigned exactly one unique identifier. Additional or previous object numbers (e.g. old inventory numbers, temporary find numbers or other external numbers) can instead be recorded in the optional element [Alternative object number](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/elements/alternative-object-number).
-:::
+
 ---
 
 :::tip[Example]

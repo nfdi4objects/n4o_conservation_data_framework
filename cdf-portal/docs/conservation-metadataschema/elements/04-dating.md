@@ -23,12 +23,17 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - Dating
 
 ---
+
+## Definition
+
 :::info Definition
  
 Die Datierung erfasst die zeitliche Einordnung der Entstehung des Objekts. Je nach Objekt kann dies ein konkretes Datum, eine Jahreszahl, eine ungefähre Zeitspanne oder eine Periode/Epoche sein.
 :::
  
 ---
+
+## Modellierung
 
 ### Verpflichtungsgrad
 

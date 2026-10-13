@@ -23,25 +23,32 @@ Diese Seite befindet sich noch im Aufbau!
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - 
 
+---
 ## Definition
- 
- 
----
 
-:::info[Verpflichtungsgrad]
-
-
+:::info
+Hier Definition
+:::
  
 ---
 
-:::info[Feldwert]
+## Modellierung
 
+### Verpflichtungsgrad
 
+<span class="label label-required"></span>
+ 
+---
+
+### Feldwert
+
+<span class="label label-text"></span>
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
+<span class="label label-text"></span>
 
 ---
 

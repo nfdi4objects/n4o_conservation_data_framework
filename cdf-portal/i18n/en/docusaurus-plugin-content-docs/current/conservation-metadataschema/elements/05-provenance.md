@@ -29,34 +29,35 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
+:::info
 The ‘Provenance’ element refers to information regarding the geographical, cultural or contextual origin of the object. Depending on the discipline, various aspects - such as the site of discovery, cultural classification, workshop affiliation or details of acquisition – may be documented here. Even information stating that an object comes from the art trade and that, in some cases, no documented provenance details are available may also be noted here.
- 
+:::
+
 ---
 
-:::info[Level of obligation]
+## Modelling
+
+### Level of obligation
 
 <span class="label label-recommended">Recommended</span>
 
 It is recommended that the provenance be recorded, as it provides contextual information that may be relevant to the interpretation of material properties, manufacturing techniques and the state of preservation. Region-specific traditions, climatic conditions at the place of origin and cultural practices influence both the original condition and the ageing behaviour of objects.
-:::
  
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 Appropriate controlled vocabularies should be used for the associated data field of this element in order to ensure consistent terminology. Ideally, in addition to the natural language description, a corresponding unique identifier (URI) should also be recorded to improve machine readability.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">Yes</span>
 
 This element is repeatable, as various aspects of provenance may be relevant.
-:::
 
 ---
 

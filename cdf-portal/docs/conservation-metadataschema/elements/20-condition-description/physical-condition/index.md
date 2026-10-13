@@ -1,5 +1,5 @@
 ---
-title: Aktuelle Maße
+title: Physischer Objektzustand
 sidebar_position: 1
 ---
  
@@ -8,11 +8,10 @@ Diese Seite befindet sich noch im Aufbau!
 :::
 
 
-# Aktuelle Maße
+# Physischer Objektzustand
 
 - Sektion: [Zustandserfassung](/conservation-metadataschema/sections/condition-assessment)
-  - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
-    - Oberelement: [Physischer Objektzustand](/conservation-metadataschema/elements/condition-description/physical-condition/)
+   - Oberelement: [Zustandsbeschreibung](/conservation-metadataschema/elements/condition-description)
 
 ---
  
@@ -23,25 +22,32 @@ Diese Seite befindet sich noch im Aufbau!
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
 - 
 
+---
 ## Definition
- 
- 
----
 
-:::info[Verpflichtungsgrad]
-
-
+:::info
+Hier Definition
+:::
  
 ---
 
-:::info[Feldwert]
+## Modellierung
 
+### Verpflichtungsgrad
 
+<span class="label label-required"></span>
+ 
+---
+
+### Feldwert
+
+<span class="label label-text"></span>
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
+<span class="label label-text"></span>
 
 ---
 

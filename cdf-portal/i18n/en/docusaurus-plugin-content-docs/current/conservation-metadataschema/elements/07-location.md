@@ -24,34 +24,35 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
  
+:::info
 The ‘Location’ element records the usual storage location of the object, outside the conservation facility. This recording relates to location information relevant to the planning, execution and return of the object following conservation and restoration work. Day-to-day object management, including detailed tracking of the object’s movements, falls outside the primary scope of this schema.
+:::
  
 ---
 
-:::info[Level of obligation]
+## Modelling
+
+### Level of obligation
 
 <span class="label label-required">Mandatory</span>
 
 The location is mandatory, as without this information it will be unclear where the object should be returned to following conservation. In the event of a change of location after conservation has been completed, both the previous and future locations should be recorded separately. The previous location may provide insights into the damage sustained, whilst the future location may have influenced the choice of conservation methods and materials.
-:::
 
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 With regard to this element, a distinction must be made between internal and public presentation. For internal use, it is advisable to record the location precisely, particularly where the location is associated with specific climatic conditions. When making the dataset publicly available, however, for security reasons, the exact location within the institution should not be specified. Instead, it is recommended to provide the name of the collection or the holding institution, together with a unique identifier (e.g. [ISIL](https://isil.staatsbibliothek-berlin.de/suche), [ROR](https://ror.org/), [ISNI](https://isni.oclc.org/cbs/DB=1.2/SET=1/TTL=1/) or [GND-ID](https://explore.gnd.network/)). In this way, information regarding the whereabouts of the restored object is retained during data exchange without exposing it to an increased risk of theft.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">Yes</span>
 
 This element is repeatable, specifically to enable the recording of changes in location before and after conservation. However, it must be clearly indicated which is the current location to which the object will be/has been moved following conservation.
-:::
 
 ---
 

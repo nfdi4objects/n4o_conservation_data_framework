@@ -22,36 +22,36 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
  
+:::info
 The object title captures the common name of the specific object to which the conservation documentation refers, in natural language. It serves to make the object quickly identifiable and referable to, both in internal communication and in the documentation.
 
 The name may consist of an official title or a combination of the object type and descriptive attributes. The key point is that the name makes the object clearly recognisable to people.
+:::
  
 ---
+## Modelling
 
-:::info[Level of obligation]
+### Level of obligation
 
 <span class="label label-required">Mandatory</span>
 
 Labeling objects is essential for ensuring that the documentation is professional comprehensible and provides the necessary context for all those involved. Without it, even if an inventory number is available, the object in question remains difficult to contextualise in terms of its content for the purposes of human communication.
-:::
  
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text</span>
 
 The element should be created as a free-text field to allow sufficient flexibility for the subject-specific description of the relevant object.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">Yes</span>
 
 The field can be repeated so that multiple descriptions or additional sub-descriptions can be entered. 
-:::
 
 ---
 

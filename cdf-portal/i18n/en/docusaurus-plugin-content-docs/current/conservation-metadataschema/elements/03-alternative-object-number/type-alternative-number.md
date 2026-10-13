@@ -22,34 +22,35 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
+:::info
 The element specifies the type of identifier entered in the [Additional object number](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/elements/alternative-object-number/) element (e.g. find number, old inventory number, external object number) at the time of conservation. This classification makes it possible to trace the origin and intended use of the alternative number.
+:::
  
 ---
 
-:::info[Level of obligation]
+## Modelling
+
+### Level of obligation
 
 <span class="label label-conditional">Conditional</span>
 
 As soon as a alternative object number has been recorded, it is essential to specify the type. Without this classification, the semantic context is lost, and the additional number becomes a meaningless string of characters with no discernible connection to the object or its history.
-:::
  
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Text / URI</span>
 
 The classification of the alternative object numbers should be based on a controlled vocabulary comprising the types of numbers typically encountered in the specific application context. In addition to the natural-language description, a machine-readable identifier (URI) should ideally also be recorded.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">No</span>
 
-Exactly one number type must be specified for each additional object number; therefore, this element can only be repeated in combination with the [Additional object number](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/elements/alternative-object-number/) element.
-:::
+Exactly one number type must be specified for each additional object number; therefore, this element can only be repeated in combination with the [Additional object number](/en/conservation-metadataschema/elements/alternative-object-number/) element.
 
 ---
 

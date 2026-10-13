@@ -21,28 +21,31 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 - 
 
 ## Definition
- 
+
+:::info
+Hier Definition
+:::
  
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung
+
+### Verpflichtungsgrad
 
 <span class="label label-required"></span>
-:::
  
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text"></span>
-:::
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 
-:::
+
 ---
 
 :::tip[Beispiel]

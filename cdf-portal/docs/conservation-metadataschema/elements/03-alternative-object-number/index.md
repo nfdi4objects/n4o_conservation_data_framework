@@ -24,32 +24,36 @@ Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_d
 
 ## Definition
 
+:::info
 Das Element erfasst eine zusätzliche Nummer, die dem Objekt zugeordnet ist oder war, aber nicht (mehr) als primäre Identifikation verwendet wird. Dies kann eine frühere Nummer sein, die durch Inventarisierung oder Sammlungswechsel ersetzt wurde oder auch externe Referenznummern aus anderen Kontexten (z. B. Nummern aus Voreigentum).  
+:::
  
 ---
 
-:::info[Verpflichtungsgrad]
+## Modellierung 
+
+### Verpflichtungsgrad
 
 <span class="label label-optional">Optional</span>
 
 Dieses Element ist optional, da nicht jedes Objekt über mehrere Nummern verfügt bzw. die Erfassung außerhalb des Hauptfokus der Restaurierungsdokumentation liegt. 
-:::
+
 
 ---
 
-:::info[Feldwert]
+### Feldwert
 
 <span class="label label-text">Text</span>
-:::
+
 
 ---
 
-:::info[Wiederholbar]
+### Wiederholbar
 
 <span class="label label-text">Ja</span>
 
 Das Element ist wiederholbar, um mehrere alternative Nummern erfassen zu können. 
-:::
+
 
 ---
 

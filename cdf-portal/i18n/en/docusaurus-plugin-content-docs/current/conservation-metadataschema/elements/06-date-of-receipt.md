@@ -23,32 +23,34 @@ Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation
 
 ## Definition
 
+:::info
 The date of entry records the date on which the object was added to the collection currently under the institution’s care. It documents the date of the institution’s acquisition, whether through purchase, donation, discovery or transfer of ownership. This field refers exclusively to the object’s inclusion in the collection, not to the date on which it was delivered to the conservation labratory.
+:::
  
 ---
 
-:::info[Level of obligation]
+## Modelling
+
+### Level of obligation
 
 <span class="label label-conditional">Conditional</span>
 
 The date of acquisition should always be recorded, where known, as it is relevant for subsequent research and for reconstructing the object’s history. In practice, however, the date of acquisition is not always documented, particularly in the case of older collections, permanent loans or objects with an unclear acquisition history; for this reason, this field has been defined as conditionally mandatory.
-:::
  
 ---
 
-:::info[Field value]
+### Field value
 
 <span class="label label-text">Date (according to ISO 8601) or Text</span>
 
 Ideally, a specific date should be recorded. If this is not known with certainty, years or approximate time periods may alternatively be documented as free text. If the date on which the object became part of the collection in question cannot be determined, the data value ‘unknown’ should be entered rather than leaving the field blank. This clearly documents that the date of acquisition was not known at the time the conservation documentation was drawn up. At the same time, it prevents an empty field from being mistakenly interpreted as having been omitted by accident when the data is re-used at a later time.
-:::
 
 ---
 
-:::info[Repeatable]
+### Repeatable
 
 <span class="label label-text">No</span>
-:::
+
 ---
 
 :::tip[Example]
