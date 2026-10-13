@@ -24,7 +24,7 @@ Kompakte Einführung in zentrale Konzepte wie:
 - Kontrollierte Vokabulare  
 - Eindeutige Identifikatoren 
 
-sowie ein grundlegendes Glossar wichtiger Begriffe. 
+sowie ein grundlegendes [Glossar](/conservation-metadataschema/background/conceptual-foundations/glossar) wichtiger Begriffe. 
 
 Dieser Abschnitt dient der gemeinsamen begrifflichen Grundlage und erleichtert das Verständnis der strukturellen Entscheidungen im Schema.
 

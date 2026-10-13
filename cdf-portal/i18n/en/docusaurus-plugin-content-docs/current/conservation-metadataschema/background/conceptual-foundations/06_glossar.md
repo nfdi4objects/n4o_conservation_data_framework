@@ -9,14 +9,14 @@ Diese Seite befindet sich noch im Aufbau
 
 # Glossar zentraler Begrifflichkeiten
 
-## Forschungsdatenmanagement
+## Research data management
 
 ## Linked Open Data
-Linked Open Data meint frei zugängliche Datensätze, die nach einheitlichen Standards im Internet miteinan-der verknüpft sind, sodass von einer Information direkt zu verbundenen Informationen gesprungen werden kann. 
+Linked Open Data refers to freely accessible datasets that are linked together on the internet according to uniform standards, so that one can jump directly from one piece of information to related information. 
 
 ## SKOS
 
 ## RDF
 
 ## Semantic Web
-Das Semantic Web ist die Idee eines weiterentwickelten Internets, in dem Informationen nicht nur für Men-schen lesbar, sondern auch für Computer verständlich aufbereitet sind. So können Maschinen Zusammenhän-ge zwischen Informationen erkennen, statt nur Text zu durchsuchen. Die Idee ist bis heute nicht vollständig Wirklichkeit geworden, doch viele ihrer Konzepte werden bereits genutzt.
+The Semantic Web is the concept of an advanced form of the Internet in which information is structured in such a way that it is not only readable by humans but also understandable by computers. This enables machines to recognise connections between pieces of information, rather than simply searching through text. Although the idea has not yet been fully realised, many of its concepts are already in use.

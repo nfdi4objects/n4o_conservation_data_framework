@@ -32,14 +32,14 @@ Als weitere empirische Grundlage dienten die Dokumentationssysteme der in der TW
 ### Normative Bezugssysteme
 
 <NormList items={[
-  {badge: 'DIN EN 16095', text: 'Terminologische Grundlage für zentrale Begriffe wie „Kennzeichnungsnummer", „Umgebungsbedingungen" und „Behandlung/Eingriff"'},
+  {badge: 'DIN EN 16095', text: 'Terminologische Grundlage für zentrale Begriffe wie ‘Kennzeichnungsnummer’, ‘Umgebungsbedingungen’ und ‘Behandlung/Eingriff’'},
   {badge: 'ISO 8601',     text: 'Empfohlener Standard für alle zeitbezogenen Angaben im Format YYYY-MM-DD'},
   {badge: 'MDS v1.1',    text: 'Minimaldatensatz-Empfehlung der AG Minimaldatensatz (Deutscher Museumsbund) als Referenz für Objektinformationen'},
   {badge: 'LIDO und CIDOC CRM', text: 'Maßgebliche Datenstandards des Kulturerbebereichs für die langfristige Anschlussfähigkeit und Interoperabilität'},
   {badge: 'DataCite Metadataschema', text: 'Übergeordneter NFDI-Metadatenstandard für die einheitliche Beschreibung von Forschungsdaten'},
 ]} />
  
-Das Schema entstand im Rahmen von **NFDI4Objects** mit dem übergeordneten Ziel, Forschungsdaten zu materiellen Kulturerbeobjekten auffindbar, zugänglich und nachnutzbar zu machen. Die Anschlussfähigkeit an [LIDO](lido-schema.org) und [CIDOC CRM](https://cidoc-crm.org/) war daher von Beginn an ein zentrales Entwicklungsziel.
+Das Schema entstand im Rahmen von **NFDI4Objects** mit dem übergeordneten Ziel, Forschungsdaten zu materiellen Kulturerbeobjekten auffindbar, zugänglich und nachnutzbar zu machen. Die Anschlussfähigkeit an [LIDO](https://lido-schema.org) und [CIDOC CRM](https://cidoc-crm.org/) war daher von Beginn an ein zentrales Entwicklungsziel.
 
 Auch die in der NFDI disziplinübergreifende als Standard festgelegten Metadatenschemata wie [DataCite](https://doi.org/10.14454/mzv1-5b55) oder [schema.org](https://schema.org/) wurden von Beginn an miteinbezogen. 
 
@@ -97,7 +97,7 @@ Der iterative, kollaborative Prozess zur Entwicklung des KuR-MDS in der Temporar
     milestone: true,
   },
   {
-    date: 'Semptember 2026',
+    date: 'September 2026',
     title: 'Publikation der Dokumentation in Kommentierungsphase',
     text: 'Veröffentlichung der umfassenden Dokumentation im NFDI4Objects Community Hub und Start der vierwöchigen Kommentierungsphase als "offenes Community-Review". Parallel Vorstellung des Schemas auf weiteren Veranstaltungen.',
     milestone: true,
@@ -110,13 +110,13 @@ Der iterative, kollaborative Prozess zur Entwicklung des KuR-MDS in der Temporar
   },
   {
     date: 'Ende 2026',
-    title: 'Beschluss des Metadatenschemas als offizieller NFDI4Objects Standard"',
+    title: 'Beschluss des Metadatenschemas als offizieller NFDI4Objects Standard',
     text: 'Nach erfolgreicher Bewertung im NFDI4Objects Commons Prozess übergang in Status als offizieller Standard. Publikation der finalen Version auf Zenodo. Grundlage für die folgende Entwicklung eines interoperablen Austauschformats.',
     milestone: false,
   },
   {
     date: 'Januar 2027',
-    title: 'Start Phase 2 - Weiterentwicklung zum Austauschformat"',
+    title: 'Start Phase 2 - Weiterentwicklung zum Austauschformat',
     text: 'Tba',
     milestone: false,
   },
