@@ -13,7 +13,7 @@ import { StatGrid, CardGrid, NormList, PhaseStrip, Timeline, ScopeGrid } from '@
 
 ## Grundlagen und Bezugssysteme
 
-Das Metadatenschema basiert auf einer systematischen Analyse und Synthese bestehender Dokumentationspraktiken, etablierter Normen sowie den Erkenntnissen einer vorgeschalteten [Online-Umfrage](https://doi.org/10.5281/zenodo.22871824) unter Fachpersonen aus unterschiedlichen institutionellen und disziplinären Kontexten der Konservierung-Restaurierung.
+Das Metadatenschema basiert auf einer systematischen Analyse und Synthese bestehender Dokumentationspraktiken, etablierter Normen sowie den Erkenntnissen einer vorgeschalteten [Online-Umfrage](https://doi.org/10.5281/zenodo.17475354) unter Fachpersonen aus unterschiedlichen institutionellen und disziplinären Kontexten der Konservierung-Restaurierung.
 
 ### Umfrageergebnisse als empirische Grundlage
 
@@ -140,12 +140,14 @@ Dieser Ansatz ist für die Konservierung-Restaurierung besonders geeignet, da Re
   {
     icon: '🗂️',
     title: 'Conservation Metadata Terminology',
-    text: 'SKOS-basiertes Vokabular mit eindeutigen URI-Identifikatoren je Element. Nutzende können Datenbankfelder intern beliebig benennen, solange sie eine URI-Referenz hinterlegen — Interoperabilität bleibt beim Export erhalten.',
+    text: {<>SKOS-basiertes Vokabular mit eindeutigen URI-Identifikatoren je Element. Nutzende können Datenbankfelder intern beliebig benennen, solange sie eine URI-Referenz hinterlegen — Interoperabilität bleibt beim Export erhalten.{' '}
+      <a href="https://www.w3id.org/conservation/terms/metadata">Zur Terminology →</a></>},
   },
   {
     icon: '🖥️',
     title: 'Conservation Documentation Mockup-Page',
-    text: 'Simulierte Eingabeoberfläche mit beispielhaften Datenwerten. Elementbezeichnungen verlinken direkt auf die Conservation Metadata Terminology. Diente als Diskussionsgrundlage in der TWG und als Vermittlungsinstrument in die Community.',
+    text: {<>Simulierte Eingabeoberfläche mit beispielhaften Datenwerten. Elementbezeichnungen verlinken direkt auf die Conservation Metadata Terminology. Diente als Diskussionsgrundlage in der TWG und als Vermittlungsinstrument in die Community.{' '}
+      <a href="https://conservationdata.github.io/docu/#/">Zur MockupPage →</a></>},
   },
 ]} />
  
