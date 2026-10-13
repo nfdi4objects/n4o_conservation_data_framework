@@ -11,13 +11,13 @@ Während die Abschnitte [Sektionen](https://nfdi4objects.github.io/n4o_conservat
 
 ## Inhalte dieses Bereichs
 
-### [Zielsetzung und Motivation](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/introduction)  
+### [Zielsetzung und Motivation](/conservation-metadataschema/background/objectives)  
 Darstellung der fachlichen Ausgangssituation, der identifizierten Bedarfe in der restauratorischen Dokumentation sowie der Ziele, die mit dem Metadatenschema verfolgt werden.
 
-### [Methodik und Entwicklungsprozess](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/development-process) 
+### [Methodik und Entwicklungsprozess](/conservation-metadataschema/background/development-process) 
 Überblick über die Entstehung des Schemas, berücksichtigte fachliche Bezugssysteme sowie den iterativen Entwicklungsprozess unter Einbindung der Community.
 
-### [Konzeptionelle Grundlagen](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/background/metadata-basics)  
+### [Konzeptionelle Grundlagen](/conservation-metadataschema/background/conceptual-foundations/)  
 Kompakte Einführung in zentrale Konzepte wie:
 - FAIR-Prinzipien
 - Metadaten und Metadatenschema  

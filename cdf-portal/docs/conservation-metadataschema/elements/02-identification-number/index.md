@@ -15,7 +15,7 @@ Sektion: [Objektkennzeichnung](/conservation-metadataschema/sections/object-iden
  **URI der Conservation Metadata Terminology:** [https://www.w3id.org/conservation/terms/metadata/F7D3DB)](https://www.w3id.org/conservation/terms/metadata/F7D3DB)
 
 **Mögliche alternativen Feldbezeichnungen in Datenbanksystemen:**
-- Intenvarnummer
+- Inventarnummer
 - Objektnummer
 - Signatur
 - Katalognummer
@@ -55,7 +55,7 @@ Im Idealfall handelt es sich bei der Kennung um einen maschinenlesbaren, persist
 
 <span class="label label-text">Nein</span>
 
-Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennung zugeordnet sein muss. Weitere bzw. ehemalige Objektnummern (z.B. alte Inventarnummern, temporäre Fundnummern oder sonstige Fremdnummern) können stattdessen im optionalen Element [Weitere Objektnummer](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/elements/alternative-object-number/) erfasst werden.
+Das Element ist nicht wiederholbar, da jedem Objekt genau eine eindeutige Kennung zugeordnet sein muss. Weitere bzw. ehemalige Objektnummern (z.B. alte Inventarnummern, temporäre Fundnummern oder sonstige Fremdnummern) können stattdessen im optionalen Element [Weitere Objektnummer](/conservation-metadataschema/elements/alternative-object-number/) erfasst werden.
 
 ---
 

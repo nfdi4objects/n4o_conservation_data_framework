@@ -1,5 +1,5 @@
 ---
-title: Development and Methodology
+title: Methodology and Development Process
 sidebar_position: 2
 ---
 
@@ -7,4 +7,4 @@ sidebar_position: 2
 This page has not been build.
 :::
 
-# Development and Methodology
+# Methodology and Development Process

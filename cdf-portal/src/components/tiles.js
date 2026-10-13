@@ -25,7 +25,6 @@ export function StatGrid({items}) {
 
 /* ---------------------------------------------------------------
  * Inhalts-Kacheln mit Icon, Titel und Text (z. B. Zielgruppe)
- * icon und text sind optional.
  *
  * <CardGrid items={[
  *   {icon: '🖌️', title: 'Restaurator:innen', text: '…'},
@@ -47,16 +46,13 @@ export function CardGrid({items}) {
 
 /* ---------------------------------------------------------------
  * Verpflichtungsgrade
- * Nutzt die globalen Klassen .label / .label-* und die Variablen
- * --level-* aus src/css/custom.css.
  * ------------------------------------------------------------- */
 const LEVELS = {
   required: {
     cls: 'label-required',
     color: 'var(--level-required)',
     label: {de: 'Pflicht', en: 'Mandatory'},
-  },  
-  
+  },
   conditional: {
     cls: 'label-conditional',
     color: 'var(--level-conditional)',
@@ -74,9 +70,6 @@ const LEVELS = {
   },
 };
 
-/* Einzelnes Label, z. B. auf Element-Seiten:
- * <LevelBadge level="required" />
- * Der Text richtet sich automatisch nach der aktuellen Sprache. */
 export function LevelBadge({level}) {
   const {i18n} = useDocusaurusContext();
   const l = LEVELS[level];
@@ -85,11 +78,6 @@ export function LevelBadge({level}) {
   return <span className={`label ${l.cls}`}>{text}</span>;
 }
 
-/* Übersicht aller Grade als Kacheln:
- * <LevelGrid items={[
- *   {level: 'required', highlight: true, text: '…'},
- *   {level: 'conditional', text: '…'},
- * ]} /> */
 export function LevelGrid({items}) {
   return (
     <div className={styles.grid}>
@@ -103,6 +91,108 @@ export function LevelGrid({items}) {
           {text && <p className={styles.levelText}>{text}</p>}
         </div>
       ))}
+    </div>
+  );
+}
+
+/* ---------------------------------------------------------------
+ * NEU: Norm-Liste (Badge + Beschreibungstext)
+ *
+ * <NormList items={[
+ *   {badge: 'DIN EN 16095', text: 'Terminologische Grundlage…'},
+ *   {badge: 'ISO 8601',     text: 'Datumsformat YYYY-MM-DD'},
+ * ]} />
+ * ------------------------------------------------------------- */
+export function NormList({items}) {
+  return (
+    <div className={styles.normList}>
+      {items.map((item) => (
+        <div key={item.badge} className={styles.normItem}>
+          <span className={styles.normBadge}>{item.badge}</span>
+          <span className={styles.normText}>{item.text}</span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+/* ---------------------------------------------------------------
+ * NEU: Phasen-Streifen (Phase 1 → Phase 2 → …)
+ *
+ * <PhaseStrip phases={[
+ *   {num: 'Phase 1 — abgeschlossen', name: 'Inhaltlicher Standard', desc: '…'},
+ *   {num: 'Phase 2 — geplant',       name: 'Austauschformat',       desc: '…'},
+ * ]} />
+ * ------------------------------------------------------------- */
+export function PhaseStrip({phases}) {
+  return (
+    <div className={styles.phaseStrip}>
+      {phases.map((phase, i) => (
+        <React.Fragment key={phase.name}>
+          <div className={styles.phaseBlock}>
+            <div className={styles.phaseNum}>{phase.num}</div>
+            <div className={styles.phaseName}>{phase.name}</div>
+            {phase.desc && <div className={styles.phaseDesc}>{phase.desc}</div>}
+          </div>
+          {i < phases.length - 1 && (
+            <div className={styles.phaseArrow}>→</div>
+          )}
+        </React.Fragment>
+      ))}
+    </div>
+  );
+}
+
+/* ---------------------------------------------------------------
+ * NEU: Timeline
+ *
+ * <Timeline items={[
+ *   {date: 'Dez. 2024', title: 'Gründung TWG', text: '…', milestone: false},
+ *   {date: 'Mai 2025',  title: 'Erste Vorstellung', text: '…', milestone: true},
+ * ]} />
+ * ------------------------------------------------------------- */
+export function Timeline({items}) {
+  return (
+    <div className={styles.timeline}>
+      {items.map((item) => (
+        <div key={item.title} className={styles.timelineItem}>
+          <div
+            className={`${styles.timelineDot} ${item.milestone ? styles.timelineDotMilestone : ''}`}
+          />
+          <div className={styles.timelineContent}>
+            <div className={styles.timelineDate}>{item.date}</div>
+            <div className={styles.timelineTitle}>{item.title}</div>
+            {item.text && <p className={styles.timelineBody}>{item.text}</p>}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+/* ---------------------------------------------------------------
+ * NEU: Scope-Grid (Im Fokus / Ausgeklammert)
+ *
+ * <ScopeGrid
+ *   inItems={['Konservatorische Prozesse', 'Zustandserfassung']}
+ *   outItems={['Museale Verwaltungsdaten', 'Kunsthistorische Primärdaten']}
+ * />
+ * ------------------------------------------------------------- */
+export function ScopeGrid({inLabel = 'Im Fokus', outLabel = 'Bewusst ausgeklammert', inItems, outItems}) {
+  return (
+    <div className={styles.scopeGrid}>
+      <div className={`${styles.scopeCol} ${styles.scopeColIn}`}>
+        <div className={styles.scopeColHeading}>{inLabel}</div>
+        <ul className={styles.scopeList}>
+          {inItems.map((item) => <li key={item}>{item}</li>)}
+        </ul>
+      </div>
+      <div className={`${styles.scopeCol} ${styles.scopeColOut}`}>
+        <div className={styles.scopeColHeading}>{outLabel}</div>
+        <ul className={styles.scopeList}>
+          {outItems.map((item) => <li key={item}>{item}</li>)}
+        </ul>
+      </div>
     </div>
   );
 }
