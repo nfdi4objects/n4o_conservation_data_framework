@@ -10,8 +10,8 @@ This page has not been build completely.
 
 # Physical condition
 
-- Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
-   - Upper element: [Condition description](/en/conservation-metadataschema/elements/condition-description)
+- Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
+   - Upper element: [Condition description](/conservation-metadataschema/elements/condition-description)
 
 ---
  

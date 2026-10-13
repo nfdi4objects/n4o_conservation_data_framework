@@ -10,7 +10,7 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Conservation history
 
-Section: [Condition assessment](/en/conservation-metadataschema/sections/03-condition-assessment)
+Section: [Condition assessment](/conservation-metadataschema/sections/03-condition-assessment)
 
 ---
  

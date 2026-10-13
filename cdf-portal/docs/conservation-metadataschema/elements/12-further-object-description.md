@@ -10,7 +10,7 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Weitere Objektbeschreibung
 
-Sektion: [Objektbeschreibung](/conservation-metadataschema/sections/02-object-description)
+Sektion: [Objektbeschreibung](/conservation-metadataschema/sections/object-description)
 
 ---
  

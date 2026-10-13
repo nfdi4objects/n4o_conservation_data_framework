@@ -10,7 +10,7 @@ This page has not been build completely.
 
 # Manufacturing technology
 
-Section: [Object description](/en/conservation-metadataschema/sections/object-description)
+Section: [Object description](/conservation-metadataschema/sections/object-description)
 
 ---
  

@@ -10,9 +10,11 @@ This page has not been build completely.
 
 # Damage
 
-- Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
-   - Upper element: [Condition description](/en/conservation-metadataschema/elements/condition-description)
-
+- Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
+   - Upper element: [Condition description](/conservation-metadataschema/elements/condition-description)
+      
+      - Sub-Element: [Extent of damage](/conservation-metadataschema/elements/condition-description/damage/extent_damage/)
+      - Sub-Element: [Cause of damage](/conservation-metadataschema/elements/condition-description/damage/cause_damage/)
 ---
  
 ## Terminology 

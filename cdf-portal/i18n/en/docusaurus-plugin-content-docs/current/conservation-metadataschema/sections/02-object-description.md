@@ -15,10 +15,10 @@ The object description captures the material and physical characteristics of the
 
 | Element | Level of obligation | Unique identifier of the element (link to the associated vocabulary) |
 |:--------|:--------------------|:---------------------------------------------------------------------|
-| [Object typ]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
-| [Further object properties]() | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
-| [Object material]() | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 
-| [Manufacturing technology]() | <span class="label label-recommended">Recommended</span> | [https://www.w3id.org/conservation/terms/metadata/C4BCF8](https://www.w3id.org/conservation/terms/metadata/C4BCF8) | 
+| [Object typ](/conservation-metadataschema/elements/object-type/) | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
+| [Further object properties](/conservation-metadataschema/elements/further-object-description) | <span class="label label-recommended">Recommended</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
+| [Object material](/conservation-metadataschema/elements/object-material) | <span class="label label-required">Mandatory</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 
+| [Manufacturing technology](/conservation-metadataschema/elements/manufacturing-technology) | <span class="label label-recommended">Recommended</span> | [https://www.w3id.org/conservation/terms/metadata/C4BCF8](https://www.w3id.org/conservation/terms/metadata/C4BCF8) | 
 
 *Further information on the individual elements can be found on the relevant subpages.*
 

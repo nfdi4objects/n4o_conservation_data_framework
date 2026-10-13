@@ -9,15 +9,15 @@ sidebar_position: 18
 The *Responsible person* element is one of the elements that must be documented for all event records. For this reason, the field appears in several sections.
 :::
 
-Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
+Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
 
-Section: [Examination](/en/conservation-metadataschema/sections/analysis/)
+Section: [Examination](/conservation-metadataschema/sections/analysis/)
 
-Section: [Sampling](/en/conservation-metadataschema/sections/sampling)
+Section: [Sampling](/conservation-metadataschema/sections/sampling)
 
-Section: [Conservation concept](/en/conservation-metadataschema/sections/conservation-plan)
+Section: [Conservation concept](/conservation-metadataschema/sections/conservation-plan)
 
-Section: [Risk assessment](/en/conservation-metadataschema/sections/risk-assessment)
+Section: [Risk assessment](/conservation-metadataschema/sections/risk-assessment)
 
 ---
  

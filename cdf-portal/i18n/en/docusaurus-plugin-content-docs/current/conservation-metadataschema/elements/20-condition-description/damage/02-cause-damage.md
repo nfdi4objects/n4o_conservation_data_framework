@@ -10,9 +10,9 @@ This page has not been build completely.
 
 # Cause of damage
 
-- Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
-   - Upper element: [Condition description](/en/conservation-metadataschema/elements/condition-description)
-    - Upper element: [Damage](/en/conservation-metadataschema/elements/condition-description/damage/)
+- Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
+   - Upper element: [Condition description](/conservation-metadataschema/elements/condition-description)
+    - Upper element: [Damage](/conservation-metadataschema/elements/condition-description/damage/)
 
 ---
  

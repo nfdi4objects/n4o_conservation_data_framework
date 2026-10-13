@@ -10,9 +10,9 @@ This page has not been build completely.
 
 # Current dimensions
 
-- Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
-   - Upper element: [Condition description](/en/conservation-metadataschema/elements/condition-description)
-    - Upper element: [Physical condition](/en/conservation-metadataschema/elements/condition-description/physical-condition/)
+- Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
+   - Upper element: [Condition description](/conservation-metadataschema/elements/condition-description)
+    - Upper element: [Physical condition](/conservation-metadataschema/elements/condition-description/physical-condition/)
 
 ---
  

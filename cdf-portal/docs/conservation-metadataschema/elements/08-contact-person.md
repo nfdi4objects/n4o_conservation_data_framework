@@ -9,7 +9,7 @@ Diese Seite befindet sich noch im Aufbau!
 
 # Ansprechperson
 
-Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/01-object-identification)
+Sektion: [Objektkennzeichnung](/conservation-metadataschema/sections/object-identification)
 
 ---
  

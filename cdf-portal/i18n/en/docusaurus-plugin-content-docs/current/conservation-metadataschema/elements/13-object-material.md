@@ -10,7 +10,7 @@ This page has not been build completely.
 
 # Object material
 
-Section: [Object description](/en/conservation-metadataschema/sections/02-object-description)
+Section: [Object description](/conservation-metadataschema/sections/object-description)
 
 ---
  

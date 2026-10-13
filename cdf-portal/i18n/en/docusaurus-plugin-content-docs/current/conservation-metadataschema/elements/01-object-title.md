@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Object title
 
-Section: [Object identification](https://nfdi4objects.github.io/n4o_conservation_data_framework/en/conservation-metadataschema/sections/object-identification)
+Section: [Object identification](/conservation-metadataschema/sections/object-identification)
 
 ---
 ## Terminology

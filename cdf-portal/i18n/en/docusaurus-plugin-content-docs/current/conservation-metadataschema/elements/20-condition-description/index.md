@@ -10,7 +10,7 @@ This page has not been build completely.
 
 # Condition description
 
-Section: [Condition assessment](/en/conservation-metadataschema/sections/condition-assessment)
+Section: [Condition assessment](/conservation-metadataschema/sections/condition-assessment)
 
 ---
  

@@ -14,10 +14,10 @@ Die Objektbeschreibung erfasst die materiellen und physischen Eigenschaften des 
 
 | Element | Verpflichtungsgrad | Eindeutiger Identifikator des Elements (Verlinkung zum zugehörigen Vokabular) |
 |:--------|:-------------------|:------------------------------------------------------------------------------|
-| [Objekttyp]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
-| [Weitere Objekteigenschaften]() | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
-| [Objektmaterial]() | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 
-| [Herstellungstechnik]() | <span class="label label-recommended">Empfohlen</span> | [https://www.w3id.org/conservation/terms/metadata/C4BCF8](https://www.w3id.org/conservation/terms/metadata/C4BCF8) | 
+| [Objekttyp](/conservation-metadataschema/elements/object-type) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/F1BA31 `](https://www.w3id.org/conservation/terms/metadata/F1BA31) |
+| [Weitere Objekteigenschaften](/conservation-metadataschema/elements/further-object-description) | <span class="label label-recommended">Empfohlen</span> | [`https://www.w3id.org/conservation/terms/metadata/BGC9F3`](https://www.w3id.org/conservation/terms/metadata/BGC9F3) | 
+| [Objektmaterial](/conservation-metadataschema/elements/object-material) | <span class="label label-required">Pflicht</span> | [`https://www.w3id.org/conservation/terms/metadata/D866AD`](https://www.w3id.org/conservation/terms/metadata/D866AD) | 
+| [Herstellungstechnik](/conservation-metadataschema/elements/manufacturing-technology) | <span class="label label-recommended">Empfohlen</span> | [https://www.w3id.org/conservation/terms/metadata/C4BCF8](https://www.w3id.org/conservation/terms/metadata/C4BCF8) | 
 
 *Weiterführende Informationen zu den einzelnen Elementen finden Sie auf den jeweiligen Unterseiten.*
 

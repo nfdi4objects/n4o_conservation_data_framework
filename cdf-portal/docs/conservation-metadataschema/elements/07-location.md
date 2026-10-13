@@ -6,7 +6,7 @@ sidebar_position: 7
 
 # Standort
 
-Sektion: [Objektkennzeichnung](https://nfdi4objects.github.io/n4o_conservation_data_framework/conservation-metadataschema/sections/01-object-identification)
+Sektion: [Objektkennzeichnung](/conservation-metadataschema/sections/object-identification)
 
 ---
  

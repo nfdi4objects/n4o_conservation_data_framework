@@ -10,7 +10,7 @@ This page has not been build completely.
 
 # Date of entry (condition assessment)
 
-Section: [Condition assessment](/en/conservation-metadataschema/sections/03-condition-assessment)
+Section: [Condition assessment](/conservation-metadataschema/sections/03-condition-assessment)
 
 ---
  
