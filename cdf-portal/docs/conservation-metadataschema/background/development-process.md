@@ -140,14 +140,14 @@ Dieser Ansatz ist für die Konservierung-Restaurierung besonders geeignet, da Re
   {
     icon: '🗂️',
     title: 'Conservation Metadata Terminology',
-    text: {<>SKOS-basiertes Vokabular mit eindeutigen URI-Identifikatoren je Element. Nutzende können Datenbankfelder intern beliebig benennen, solange sie eine URI-Referenz hinterlegen — Interoperabilität bleibt beim Export erhalten.{' '}
-      <a href="https://www.w3id.org/conservation/terms/metadata">Zur Terminology →</a></>},
+    text: <>SKOS-basiertes Vokabular mit eindeutigen URI-Identifikatoren je Element. Nutzende können Datenbankfelder intern beliebig benennen, solange sie eine URI-Referenz hinterlegen — Interoperabilität bleibt beim Export erhalten.{' '}
+      <a href="https://www.w3id.org/conservation/terms/metadata">Zur Terminology →</a></>,
   },
   {
     icon: '🖥️',
     title: 'Conservation Documentation Mockup-Page',
-    text: {<>Simulierte Eingabeoberfläche mit beispielhaften Datenwerten. Elementbezeichnungen verlinken direkt auf die Conservation Metadata Terminology. Diente als Diskussionsgrundlage in der TWG und als Vermittlungsinstrument in die Community.{' '}
-      <a href="https://conservationdata.github.io/docu/#/">Zur MockupPage →</a></>},
+    text: <>Simulierte Eingabeoberfläche mit beispielhaften Datenwerten. Elementbezeichnungen verlinken direkt auf die Conservation Metadata Terminology. Diente als Diskussionsgrundlage in der TWG und als Vermittlungsinstrument in die Community.{' '}
+      <a href="https://conservationdata.github.io/docu/#/">Zur MockupPage →</a></>,
   },
 ]} />
  
