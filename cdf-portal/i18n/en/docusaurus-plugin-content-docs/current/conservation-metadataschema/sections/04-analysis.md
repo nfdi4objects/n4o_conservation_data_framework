@@ -53,7 +53,7 @@ Not every examination is carried out by the conservator who creates the document
 | Schema | Corresponding unit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
-|[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
+|[Spectrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 | [LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
 *Detailed mappings at element level can be found on the pages for each individual metadata element.* 

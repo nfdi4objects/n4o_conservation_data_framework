@@ -74,4 +74,4 @@ intern:
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
 | [MDS v1.1](http://www.minimaldatensatz.de) | [Verwahrende Einrichtung](https://deutsche-digitale-bibliothek.atlassian.net/wiki/spaces/DFD/pages/48104568/Verwahrende+Einrichtung+Pflicht) | Pflicht | 
-| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Angaben zum Objektstandort](https://collectionstrust.org.uk/resource/object-location-information/?tr=de) | keine Angabe |
+| [Spectrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Angaben zum Objektstandort](https://collectionstrust.org.uk/resource/object-location-information/?tr=de) | keine Angabe |

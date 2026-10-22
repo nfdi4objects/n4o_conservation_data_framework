@@ -69,4 +69,4 @@ The element can be repeated to allow multiple alternative numbers to be entered.
 | Schema  | Element name | Level of obligation |
 |:--------|:------------|:-------------------|
 | [MDS v1.1](http://www.minimaldatensatz.de) | no equivalent | not applicable |  
-| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Other number](https://collectionstrust.org.uk/resource/other-number/) | Where necessary | 
+| [Spectrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Other number](https://collectionstrust.org.uk/resource/other-number/) | Where necessary | 

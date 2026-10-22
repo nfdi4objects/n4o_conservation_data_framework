@@ -70,4 +70,4 @@ Exactly one number type must be specified for each additional object number; the
 | Schema  | Element name | Level of obligation |
 |:--------|:------------|:-------------------|
 | [MDS v1.1](http://www.minimaldatensatz.de) | no equivalent | not applicable |   
-| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Other number type](https://collectionstrust.org.uk/resource/other-number-type/) | Record once only for an Other number |
+| [Spectrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Other number type](https://collectionstrust.org.uk/resource/other-number-type/) | Record once only for an Other number |

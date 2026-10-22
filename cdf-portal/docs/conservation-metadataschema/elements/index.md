@@ -30,3 +30,11 @@ Die folgenden Seiten erläutern die einzelnen Elemente mit ihren Definition, die
 
 Neben der inhaltlichen Beschreibung ist jedem Element eine URI zugeordnet, die auf einen Eintrag in der **Conservation Metadata Terminology** verweist. Dabei handelt es sich um ein kontrolliertes Vokabular, das die Bezeichnungen der Elemente selbst — und damit perspektivisch die Feldbezeichnungen in Datenbanksystemen — standardisiert und eindeutig referenzierbar macht. Die URI dient also nicht der Erläuterung des Elements, sondern seiner maschinenlesbaren Identifikation als Begriff. Was es mit der Conservation Metadata Terminology genauer auf sich hat, wird im Abschnitt [Methodik und Entwicklungsprozess](/conservation-metadataschema/background/development-process) erklärt.
 
+## Modellierungshinweis: Bewusste Abweichungen von der Event-Struktur
+
+Wie im Abschnitt [Konzeptionelle Meilensteine](/conservation-metadataschema/background/development-process#konzeptionelle-meilensteine) dargestellt, folgt die Modellierung der Elemente in einigen Bereichen bereits der ereignisbasierten Logik von LIDO und CIDOC CRM. In der aktuellen 1.0 Version ist diese Modellierung jedoch noch nicht überall konsequent umgesetzt. 
+
+Dieser Bruch ist uns bewusst, und wir haben ihn in Kauf genommen. Restaurierungsberichte entstehen bislang überwiegend als Freitexte, häufig in gängigen Textprogrammen wie Microsoft Word. Ein direkter Sprung von dort in eine vollständig event-basierte XML-Modellierung wäre für viele Restaurator:innen ein großer Schritt und könnte die Akzeptanz des Schemas gefährden. Elemente wie [Schöpfer:in](/conservation-metadataschema/elements/creator-object), [Zuständige Person](/conservation-metadataschema/elements/responsible-person) oder [Herstellungstechnik](/conservation-metadataschema/elements/manufacturing-technology) greifen deshalb etablierte Dokumentationspraktiken auf. Sie geben diesen Informationen eine strukturierte, maschinenlesbare Form, ohne bereits das vollständige Ereignismodell vorauszusetzen.
+
+Wir verstehen diese Elemente als Kompromiss der aktuellen Version und als Zwischenschritt. Bei der Weiterentwicklung in Richtung LIDO können sie dann in die Event-Struktur überführt werden. Weil die Inhalte schon jetzt strukturiert erfasst werden, sind sie für diese Überführung gut vorbereitet.
+

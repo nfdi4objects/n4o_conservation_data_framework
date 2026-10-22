@@ -51,7 +51,7 @@ Das Metadatenelement *Ressourcentyp*, wie es beim MDS, LIDO oder auch DataCite M
 | Schema | Entsprechende Einheit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
-|[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
+|[Spectrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 | [LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 | [DataCite Metadata Schema 4.7](https://datacite-metadata-schema.readthedocs.io/en/4.7/) | DataCite Metadata Properties | [`https://datacite-metadata-schema.readthedocs.io/en/4.7/properties/`](https://datacite-metadata-schema.readthedocs.io/en/4.7/properties/) | 
 

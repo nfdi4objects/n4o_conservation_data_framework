@@ -46,7 +46,7 @@ Die Sektion als Ganzes ist verpflichtend, da sie die elementare Grundlage für k
 | Schema | Entsprechende Einheit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
-|[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
+|[Spectrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 | [LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 
 *Detaillierte Mappings auf Elementebene finden sich jeweils auf den Seiten der einzelnen Metadatenelemente.* 

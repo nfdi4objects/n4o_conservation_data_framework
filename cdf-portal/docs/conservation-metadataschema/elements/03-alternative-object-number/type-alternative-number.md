@@ -69,4 +69,4 @@ Pro weitere Objektnummer muss genau eine Nummernart angegeben werden, daher ist 
 | Schema  | Elementname | Verpflichtungsgrad |
 |:--------|:------------|:-------------------|
 | [MDS v1.1](http://www.minimaldatensatz.de) | keine Entsprechung | nicht zutreffend | 
-| [Spektrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Andere Nummer: Art](https://collectionstrust.org.uk/resource/other-number-type/?tr=de) | keine Angabe |
+| [Spectrum 5.1](https://collectionstrust.org.uk/spectrum/) | [Andere Nummer: Art](https://collectionstrust.org.uk/resource/other-number-type/?tr=de) | keine Angabe |

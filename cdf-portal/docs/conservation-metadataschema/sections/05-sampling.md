@@ -38,7 +38,7 @@ Die Sektion ist als Ganzes bedingt verpflichtend: Sie ist nur Teil der Dokumenta
 | Schema | Entsprechende Einheit | URI |
 |:-------|:----------------------|:----|
 |[MDS v1.1](www.minimaldatensatz.de)|  | 
-|[Spektrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
+|[Spectrum 5.1](https://collectionstrust.org.uk/spectrum/?tr=de)| | | 
 |[LIDO v1.1](https://www.lido-schema.org/schema/v1.1/lido-v1.1.html) |  | | 
 |[DataCite Metadata Schema](https://support.datacite.org/docs/datacite-metadata-schema) | IGSN ID Metadata Recommendations | [`https://support.datacite.org/docs/igsn-id-metadata-recommendations`](https://support.datacite.org/docs/igsn-id-metadata-recommendations) | 
 
