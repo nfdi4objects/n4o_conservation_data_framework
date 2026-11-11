@@ -35,8 +35,7 @@ const config = {
     },
   ],
   // Zählt auch Seitenwechsel innerhalb der Single-Page-App.
-  clientModules: [require.resolve('./src/goatcounter.js')]
-  
+  clientModules: [require.resolve('./src/goatcounter.js')],
   presets: [
     [
       'classic',
