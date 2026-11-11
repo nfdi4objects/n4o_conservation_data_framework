@@ -26,7 +26,17 @@ const config = {
       en: { label: 'English' },
     },
   },
-
+  // Cookie-freie, DSGVO-konforme Seitenaufruf-Statistik (GoatCounter).
+  scripts: [
+    {
+      src: 'https://gc.zgo.at/count.js',
+      async: true,
+      'data-goatcounter': 'https://cdf-portal.goatcounter.com/count',
+    },
+  ],
+  // Zählt auch Seitenwechsel innerhalb der Single-Page-App.
+  clientModules: [require.resolve('./src/goatcounter.js')]
+  
   presets: [
     [
       'classic',
@@ -87,15 +97,6 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      // Cookie-freie, DSGVO-konforme Seitenaufruf-Statistik.
-      // Vor dem ersten Deploy: eigenen Code unter goatcounter.com anlegen und hier eintragen.
-      scripts: [
-        {
-          src: '//gc.zgo.at/count.js',
-          async: true,
-          'data-goatcounter': 'https://cdf-portal.goatcounter.com/count',
-        },
-      ],
     }),
 };
 
