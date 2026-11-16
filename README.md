@@ -34,6 +34,14 @@ Feedback, Anmerkungen, Veränderungsvorschläge, Fragen oder Mitgliedanfragen f�
 ## Nutzung
 Sämtliche Inhalte des Conservation Data Frameworks stehen unter [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) Lizenz zur freien Nachnutzung zur Verfügung. 
 
+## Besucherstatistik
+Um nachvollziehen zu können, wie häufig das [Conservation Data Frameworkt Online-Portal](https://nfdi4objects.github.io/n4o_conservation_data_framework/) genutzt wird, setzen wir den datenschutzfreundlichen, quelloffenen Dienst [GoatCounter](https://www.goatcounter.com/) ein. Die Statistik dient ausschließlich der Berichterstattung im Projekt und der Weiterentwicklung der Inhalte.
+
+**Was nicht erfasst wird:**
+- Es werden keine Cookies gesetzt und keine Daten im Browser gespeichert.
+- IP-Adressen werden nicht gespeichert. Zur Erkennung wiederholter Aufrufe wird ein anonymer Hashwert verwendet, der nicht dauerhaft gespeichert wird.
+- Es findet kein seitenübergreifendes Tracking und keine Profilbildung statt. Daten werden nicht an Dritte weitergegeben oder zu Werbezwecken genutzt.
+
 ## Förderung
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte.
 
