@@ -7,7 +7,7 @@ import Link from '@docusaurus/Link';
 import { CardGrid, NormList, ScopeGrid } from '@site/src/components/tiles';
 
 # Konzeptionelle Grundlagen
-:::note
+:::Auf einen Blick
 *Was bedeuten FAIR-Prinzipien, Metadaten oder kontrollierte Vokabulare und was haben sie mit der täglichen Dokumentationspraxis in der Konservierung-Restaurierung zu tun? Dieser Bereich vermittelt das nötige Grundwissen, um das KuR-Metadatenschema und seine zentralen Modellierungsentscheidungen nachvollziehen zu können.*
 :::
 
